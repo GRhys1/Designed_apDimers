@@ -1,0 +1,87 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/by/1byg/structures/1byg_1.mmol"
+opened "/fs/ccplus/data/by/1byg/structures/1byg_1.mmol" (input)
+opened "/fs/ccplus/data/by/1byg/dssp/1byg_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/by/1byg/rasmol/1byg_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/by/1byg/socket/1byg_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+
+
+There are 92 alpha-helical residues in this structure
+
+chain A starts at residue  187, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+knobs in helix 3:
+1) 29 (LEU 296:A, iCode=' ', helix 3) type 4	(hole:  ARG 437:A iCode=' ', LEU 440:A iCode=' ', GLU 441:A iCode=' ', LYS 444:A iCode=' ' helix 8) packing angle  150.641
+2) 32 (CYS 299:A, iCode=' ', helix 3) type 4	(hole:  PHE 433:A iCode=' ', LEU 436:A iCode=' ', ARG 437:A iCode=' ', LEU 440:A iCode=' ' helix 8) packing angle   76.854
+knobs in helix 4:
+knobs in helix 5:
+knobs in helix 6:
+knobs in helix 7:
+knobs in helix 8:
+3) 82 (ARG 437:A, iCode=' ', helix 8) type 3	(hole:  LEU 296:A iCode=' ', CYS 299:A iCode=' ', GLU 300:A iCode=' ', GLU 303:A iCode=' ' helix 3) packing angle  155.785
+4) 85 (LEU 440:A, iCode=' ', helix 8) type 4	(hole:  LEU 292:A iCode=' ', SER 295:A iCode=' ', LEU 296:A iCode=' ', CYS 299:A iCode=' ' helix 3) packing angle   70.258
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+holes in helix 3:
+ LEU 296:A iCode=' ', CYS 299:A iCode=' ', GLU 300:A iCode=' ', GLU 303:A iCode=' ' (knob: 82 (ARG 437:A, helix 8))
+ LEU 292:A iCode=' ', SER 295:A iCode=' ', LEU 296:A iCode=' ', CYS 299:A iCode=' ' (knob: 85 (LEU 440:A, helix 8))
+holes in helix 4:
+holes in helix 5:
+holes in helix 6:
+holes in helix 7:
+holes in helix 8:
+ ARG 437:A iCode=' ', LEU 440:A iCode=' ', GLU 441:A iCode=' ', LYS 444:A iCode=' ' (knob: 29 (LEU 296:A, helix 3))
+ PHE 433:A iCode=' ', LEU 436:A iCode=' ', ARG 437:A iCode=' ', LEU 440:A iCode=' ' (knob: 32 (CYS 299:A, helix 3))
+
+knob   0 (residue 54 = PHE 372:A iCode=' ') type 2 order -1
+knob   1 (residue 29 = LEU 296:A iCode=' ') type 4 order 2
+knob   2 (residue 32 = CYS 299:A iCode=' ') type 4 order 2
+knob   3 (residue 82 = ARG 437:A iCode=' ') type 3 order 2
+knob   4 (residue 85 = LEU 440:A iCode=' ') type 4 order 2
+knob   5 (residue 58 = LEU 376:A iCode=' ') type 2 order -1
+knob   6 (residue 78 = PHE 433:A iCode=' ') type 2 order -1
+knob   7 (residue 73 = VAL 418:A iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   3  8	frequency 2
+
+helix 3 is in a 2-stranded coiled coil
+helix 8 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  3 and  8 is  144.311	antiparallel
+this coiled coil is antiparallel
+
+
+1byg_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 12 mean 12.00):
+
+
+assigning heptad to helix 3 (X) 288-307:A
+extent of coiled coil packing: 292-303:A
+sequence GDCLLKFSLDVCEAMEYLEG
+register     defgabcdefga    
+partner  --------Y--Y--------
+knobtype --------4--4--------
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+
+
+assigning heptad to helix 8 (Y) 433-446:A
+extent of coiled coil packing: 433-444:A
+sequence FLQLREQLEHIKTH
+register defgabcdefga  
+partner  !---X--X------
+knobtype 2---3--4------
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+1byg_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

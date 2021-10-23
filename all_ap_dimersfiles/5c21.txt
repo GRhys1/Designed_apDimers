@@ -1,0 +1,275 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/c2/5c21/structures/5c21.pdb"
+opened "/fs/ccplus/data/c2/5c21/structures/5c21.pdb" (input)
+file name implies standard PDB entry, code 5c21
+opened "/fs/ccplus/data/c2/5c21/dssp/5c21.pdb.dssp" (input)
+opened "/fs/ccplus/data/c2/5c21/rasmol/5c21.pdb.70.spt" (output)
+opened "/fs/ccplus/data/c2/5c21/socket/5c21.pdb.70.long.socket" (output)
+Found beginning of residue data
+
+
+
+There are 338 alpha-helical residues in this structure
+
+chain A starts at residue   94, iCode=' '
+chain B starts at residue   94, iCode=' '
+5 sidechains in contact with residue   21 (TYR   153:A, iCode=' ' helix   0)
+residue 21 (TYR 153:A) has > 4 contacts; looking for holes
+contacts: 0) GLU 299:A iCode=' '	1) ILE 300:A iCode=' '	2) LYS 303:A iCode=' '	3) LEU 304:A iCode=' '	4) THR 307:A iCode=' '	
+- includes hole:
+ILE 300:A iCode=' '	LYS 303:A iCode=' '	LEU 304:A iCode=' '	THR 307:A iCode=' '	
+
+
+These are the knobs and holes:
+
+knobs in helix 0:
+1) 7 (THR 139:A, iCode=' ', helix 0) type 4	(hole:  LEU 314:A iCode=' ', GLU 317:A iCode=' ', LEU 318:A iCode=' ', ASN 321:A iCode=' ' helix 2) packing angle   75.506
+2) 11 (LEU 143:A, iCode=' ', helix 0) type 4	(hole:  ILE 311:A iCode=' ', LEU 314:A iCode=' ', THR 315:A iCode=' ', LEU 318:A iCode=' ' helix 2) packing angle  147.718
+3) 14 (THR 146:A, iCode=' ', helix 0) type 4	(hole:  THR 307:A iCode=' ', ASN 310:A iCode=' ', ILE 311:A iCode=' ', LEU 314:A iCode=' ' helix 2) packing angle   74.593
+4) 18 (GLN 150:A, iCode=' ', helix 0) type 4	(hole:  LEU 304:A iCode=' ', THR 307:A iCode=' ', THR 308:A iCode=' ', ILE 311:A iCode=' ' helix 2) packing angle  146.294
+5) 21 (TYR 153:A, iCode=' ', helix 0) type 3	(hole:  ILE 300:A iCode=' ', LYS 303:A iCode=' ', LEU 304:A iCode=' ', THR 307:A iCode=' ' helix 2) packing angle   62.836
+knobs in helix 1:
+14) 62 (LYS 212:A, iCode=' ', helix 1) type 4	(hole:  ILE 278:A iCode=' ', GLU 281:A iCode=' ', ILE 282:A iCode=' ', ALA 285:A iCode=' ' helix 2) packing angle   77.389
+16) 73 (ILE 223:A, iCode=' ', helix 1) type 4	(hole:  LEU 268:A iCode=' ', TYR 271:A iCode=' ', LYS 272:A iCode=' ', LEU 275:A iCode=' ' helix 2) packing angle  143.917
+17) 80 (SER 230:A, iCode=' ', helix 1) type 4	(hole:  TYR 261:A iCode=' ', ALA 264:A iCode=' ', ALA 265:A iCode=' ', LEU 268:A iCode=' ' helix 2) packing angle  144.530
+18) 87 (LEU 237:A, iCode=' ', helix 1) type 4	(hole:  VAL 254:A iCode=' ', GLN 257:A iCode=' ', GLU 258:A iCode=' ', TYR 261:A iCode=' ' helix 2) packing angle  143.561
+knobs in helix 2:
+8) 147 (LEU 304:A, iCode=' ', helix 2) type 4	(hole:  GLN 150:A iCode=' ', TYR 153:A iCode=' ', GLN 154:A iCode=' ', SER 157:A iCode=' ' helix 0) packing angle  139.599
+9) 150 (THR 307:A, iCode=' ', helix 2) type 4	(hole:  THR 146:A iCode=' ', GLU 149:A iCode=' ', GLN 150:A iCode=' ', TYR 153:A iCode=' ' helix 0) packing angle   76.240
+10) 154 (ILE 311:A, iCode=' ', helix 2) type 4	(hole:  LEU 143:A iCode=' ', THR 146:A iCode=' ', ARG 147:A iCode=' ', GLN 150:A iCode=' ' helix 0) packing angle  150.111
+11) 157 (LEU 314:A, iCode=' ', helix 2) type 4	(hole:  THR 139:A iCode=' ', SER 142:A iCode=' ', LEU 143:A iCode=' ', THR 146:A iCode=' ' helix 0) packing angle   71.840
+12) 161 (LEU 318:A, iCode=' ', helix 2) type 4	(hole:  THR 136:A iCode=' ', THR 139:A iCode=' ', GLN 140:A iCode=' ', LEU 143:A iCode=' ' helix 0) packing angle  147.141
+19) 100 (GLN 257:A, iCode=' ', helix 2) type 4	(hole:  GLU 233:A iCode=' ', ARG 236:A iCode=' ', LEU 237:A iCode=' ', PHE 240:A iCode=' ' helix 1) packing angle   65.187
+20) 107 (ALA 264:A, iCode=' ', helix 2) type 4	(hole:  TYR 226:A iCode=' ', LEU 229:A iCode=' ', SER 230:A iCode=' ', GLU 233:A iCode=' ' helix 1) packing angle   68.955
+21) 114 (TYR 271:A, iCode=' ', helix 2) type 3	(hole:  ILE 219:A iCode=' ', ARG 222:A iCode=' ', ILE 223:A iCode=' ', TYR 226:A iCode=' ' helix 1) packing angle   63.399
+22) 125 (ILE 282:A, iCode=' ', helix 2) type 4	(hole:  LEU 209:A iCode=' ', LYS 212:A iCode=' ', ARG 213:A iCode=' ', ARG 216:A iCode=' ' helix 1) packing angle  153.088
+knobs in helix 3:
+27) 177 (THR 139:B, iCode=' ', helix 3) type 4	(hole:  LEU 314:B iCode=' ', GLU 317:B iCode=' ', LEU 318:B iCode=' ', ASN 321:B iCode=' ' helix 5) packing angle   69.452
+28) 181 (LEU 143:B, iCode=' ', helix 3) type 4	(hole:  ILE 311:B iCode=' ', LEU 314:B iCode=' ', THR 315:B iCode=' ', LEU 318:B iCode=' ' helix 5) packing angle  148.092
+29) 184 (THR 146:B, iCode=' ', helix 3) type 4	(hole:  THR 307:B iCode=' ', ASN 310:B iCode=' ', ILE 311:B iCode=' ', LEU 314:B iCode=' ' helix 5) packing angle   74.025
+30) 188 (GLN 150:B, iCode=' ', helix 3) type 4	(hole:  LEU 304:B iCode=' ', THR 307:B iCode=' ', THR 308:B iCode=' ', ILE 311:B iCode=' ' helix 5) packing angle  145.029
+31) 191 (TYR 153:B, iCode=' ', helix 3) type 3	(hole:  ILE 300:B iCode=' ', LYS 303:B iCode=' ', LEU 304:B iCode=' ', THR 307:B iCode=' ' helix 5) packing angle   65.921
+knobs in helix 4:
+40) 232 (LYS 212:B, iCode=' ', helix 4) type 4	(hole:  ILE 278:B iCode=' ', GLU 281:B iCode=' ', ILE 282:B iCode=' ', ALA 285:B iCode=' ' helix 5) packing angle   79.163
+42) 250 (SER 230:B, iCode=' ', helix 4) type 4	(hole:  TYR 261:B iCode=' ', ALA 264:B iCode=' ', ALA 265:B iCode=' ', LEU 268:B iCode=' ' helix 5) packing angle  142.556
+43) 257 (LEU 237:B, iCode=' ', helix 4) type 4	(hole:  VAL 254:B iCode=' ', GLN 257:B iCode=' ', GLU 258:B iCode=' ', TYR 261:B iCode=' ' helix 5) packing angle  146.694
+knobs in helix 5:
+34) 317 (LEU 304:B, iCode=' ', helix 5) type 4	(hole:  GLN 150:B iCode=' ', TYR 153:B iCode=' ', GLN 154:B iCode=' ', SER 157:B iCode=' ' helix 3) packing angle  136.598
+35) 320 (THR 307:B, iCode=' ', helix 5) type 4	(hole:  THR 146:B iCode=' ', GLU 149:B iCode=' ', GLN 150:B iCode=' ', TYR 153:B iCode=' ' helix 3) packing angle   71.047
+36) 324 (ILE 311:B, iCode=' ', helix 5) type 4	(hole:  LEU 143:B iCode=' ', THR 146:B iCode=' ', ARG 147:B iCode=' ', GLN 150:B iCode=' ' helix 3) packing angle  149.919
+37) 327 (LEU 314:B, iCode=' ', helix 5) type 4	(hole:  THR 139:B iCode=' ', SER 142:B iCode=' ', LEU 143:B iCode=' ', THR 146:B iCode=' ' helix 3) packing angle   71.781
+38) 331 (LEU 318:B, iCode=' ', helix 5) type 4	(hole:  THR 136:B iCode=' ', THR 139:B iCode=' ', GLN 140:B iCode=' ', LEU 143:B iCode=' ' helix 3) packing angle  146.868
+44) 270 (GLN 257:B, iCode=' ', helix 5) type 4	(hole:  GLU 233:B iCode=' ', ARG 236:B iCode=' ', LEU 237:B iCode=' ', PHE 240:B iCode=' ' helix 4) packing angle   65.915
+45) 277 (ALA 264:B, iCode=' ', helix 5) type 4	(hole:  TYR 226:B iCode=' ', LEU 229:B iCode=' ', SER 230:B iCode=' ', GLU 233:B iCode=' ' helix 4) packing angle   65.888
+47) 295 (ILE 282:B, iCode=' ', helix 5) type 4	(hole:  LEU 209:B iCode=' ', LYS 212:B iCode=' ', ARG 213:B iCode=' ', ARG 216:B iCode=' ' helix 4) packing angle  154.816
+holes in helix 0:
+ GLN 150:A iCode=' ', TYR 153:A iCode=' ', GLN 154:A iCode=' ', SER 157:A iCode=' ' (knob: 147 (LEU 304:A, helix 2))
+ THR 146:A iCode=' ', GLU 149:A iCode=' ', GLN 150:A iCode=' ', TYR 153:A iCode=' ' (knob: 150 (THR 307:A, helix 2))
+ LEU 143:A iCode=' ', THR 146:A iCode=' ', ARG 147:A iCode=' ', GLN 150:A iCode=' ' (knob: 154 (ILE 311:A, helix 2))
+ THR 139:A iCode=' ', SER 142:A iCode=' ', LEU 143:A iCode=' ', THR 146:A iCode=' ' (knob: 157 (LEU 314:A, helix 2))
+ THR 136:A iCode=' ', THR 139:A iCode=' ', GLN 140:A iCode=' ', LEU 143:A iCode=' ' (knob: 161 (LEU 318:A, helix 2))
+holes in helix 1:
+ GLU 233:A iCode=' ', ARG 236:A iCode=' ', LEU 237:A iCode=' ', PHE 240:A iCode=' ' (knob: 100 (GLN 257:A, helix 2))
+ TYR 226:A iCode=' ', LEU 229:A iCode=' ', SER 230:A iCode=' ', GLU 233:A iCode=' ' (knob: 107 (ALA 264:A, helix 2))
+ ILE 219:A iCode=' ', ARG 222:A iCode=' ', ILE 223:A iCode=' ', TYR 226:A iCode=' ' (knob: 114 (TYR 271:A, helix 2))
+ LEU 209:A iCode=' ', LYS 212:A iCode=' ', ARG 213:A iCode=' ', ARG 216:A iCode=' ' (knob: 125 (ILE 282:A, helix 2))
+holes in helix 2:
+ LEU 314:A iCode=' ', GLU 317:A iCode=' ', LEU 318:A iCode=' ', ASN 321:A iCode=' ' (knob: 7 (THR 139:A, helix 0))
+ ILE 311:A iCode=' ', LEU 314:A iCode=' ', THR 315:A iCode=' ', LEU 318:A iCode=' ' (knob: 11 (LEU 143:A, helix 0))
+ THR 307:A iCode=' ', ASN 310:A iCode=' ', ILE 311:A iCode=' ', LEU 314:A iCode=' ' (knob: 14 (THR 146:A, helix 0))
+ LEU 304:A iCode=' ', THR 307:A iCode=' ', THR 308:A iCode=' ', ILE 311:A iCode=' ' (knob: 18 (GLN 150:A, helix 0))
+ ILE 300:A iCode=' ', LYS 303:A iCode=' ', LEU 304:A iCode=' ', THR 307:A iCode=' ' (knob: 21 (TYR 153:A, helix 0))
+ ILE 278:A iCode=' ', GLU 281:A iCode=' ', ILE 282:A iCode=' ', ALA 285:A iCode=' ' (knob: 62 (LYS 212:A, helix 1))
+ LEU 268:A iCode=' ', TYR 271:A iCode=' ', LYS 272:A iCode=' ', LEU 275:A iCode=' ' (knob: 73 (ILE 223:A, helix 1))
+ TYR 261:A iCode=' ', ALA 264:A iCode=' ', ALA 265:A iCode=' ', LEU 268:A iCode=' ' (knob: 80 (SER 230:A, helix 1))
+ VAL 254:A iCode=' ', GLN 257:A iCode=' ', GLU 258:A iCode=' ', TYR 261:A iCode=' ' (knob: 87 (LEU 237:A, helix 1))
+holes in helix 3:
+ GLN 150:B iCode=' ', TYR 153:B iCode=' ', GLN 154:B iCode=' ', SER 157:B iCode=' ' (knob: 317 (LEU 304:B, helix 5))
+ THR 146:B iCode=' ', GLU 149:B iCode=' ', GLN 150:B iCode=' ', TYR 153:B iCode=' ' (knob: 320 (THR 307:B, helix 5))
+ LEU 143:B iCode=' ', THR 146:B iCode=' ', ARG 147:B iCode=' ', GLN 150:B iCode=' ' (knob: 324 (ILE 311:B, helix 5))
+ THR 139:B iCode=' ', SER 142:B iCode=' ', LEU 143:B iCode=' ', THR 146:B iCode=' ' (knob: 327 (LEU 314:B, helix 5))
+ THR 136:B iCode=' ', THR 139:B iCode=' ', GLN 140:B iCode=' ', LEU 143:B iCode=' ' (knob: 331 (LEU 318:B, helix 5))
+holes in helix 4:
+ GLU 233:B iCode=' ', ARG 236:B iCode=' ', LEU 237:B iCode=' ', PHE 240:B iCode=' ' (knob: 270 (GLN 257:B, helix 5))
+ TYR 226:B iCode=' ', LEU 229:B iCode=' ', SER 230:B iCode=' ', GLU 233:B iCode=' ' (knob: 277 (ALA 264:B, helix 5))
+ LEU 209:B iCode=' ', LYS 212:B iCode=' ', ARG 213:B iCode=' ', ARG 216:B iCode=' ' (knob: 295 (ILE 282:B, helix 5))
+holes in helix 5:
+ LEU 314:B iCode=' ', GLU 317:B iCode=' ', LEU 318:B iCode=' ', ASN 321:B iCode=' ' (knob: 177 (THR 139:B, helix 3))
+ ILE 311:B iCode=' ', LEU 314:B iCode=' ', THR 315:B iCode=' ', LEU 318:B iCode=' ' (knob: 181 (LEU 143:B, helix 3))
+ THR 307:B iCode=' ', ASN 310:B iCode=' ', ILE 311:B iCode=' ', LEU 314:B iCode=' ' (knob: 184 (THR 146:B, helix 3))
+ LEU 304:B iCode=' ', THR 307:B iCode=' ', THR 308:B iCode=' ', ILE 311:B iCode=' ' (knob: 188 (GLN 150:B, helix 3))
+ ILE 300:B iCode=' ', LYS 303:B iCode=' ', LEU 304:B iCode=' ', THR 307:B iCode=' ' (knob: 191 (TYR 153:B, helix 3))
+ ILE 278:B iCode=' ', GLU 281:B iCode=' ', ILE 282:B iCode=' ', ALA 285:B iCode=' ' (knob: 232 (LYS 212:B, helix 4))
+ TYR 261:B iCode=' ', ALA 264:B iCode=' ', ALA 265:B iCode=' ', LEU 268:B iCode=' ' (knob: 250 (SER 230:B, helix 4))
+ VAL 254:B iCode=' ', GLN 257:B iCode=' ', GLU 258:B iCode=' ', TYR 261:B iCode=' ' (knob: 257 (LEU 237:B, helix 4))
+
+knob   0 (residue 20 = ARG 152:A iCode=' ') type 1 order -1
+knob   1 (residue 7 = THR 139:A iCode=' ') type 4 order 2
+knob   2 (residue 11 = LEU 143:A iCode=' ') type 4 order 2
+knob   3 (residue 14 = THR 146:A iCode=' ') type 4 order 2
+knob   4 (residue 18 = GLN 150:A iCode=' ') type 4 order 2
+knob   5 (residue 21 = TYR 153:A iCode=' ') type 3 order 2
+knob   6 (residue 28 = ILE 160:A iCode=' ') type 2 order -1
+knob   7 (residue 143 = ILE 300:A iCode=' ') type 2 order -1
+knob   8 (residue 147 = LEU 304:A iCode=' ') type 4 order 2
+knob   9 (residue 150 = THR 307:A iCode=' ') type 4 order 2
+knob  10 (residue 154 = ILE 311:A iCode=' ') type 4 order 2
+knob  11 (residue 157 = LEU 314:A iCode=' ') type 4 order 2
+knob  12 (residue 161 = LEU 318:A iCode=' ') type 4 order 2
+knob  13 (residue 59 = LEU 209:A iCode=' ') type 2 order -1
+knob  14 (residue 62 = LYS 212:A iCode=' ') type 4 order 2
+knob  15 (residue 69 = ILE 219:A iCode=' ') type 2 order -1
+knob  16 (residue 73 = ILE 223:A iCode=' ') type 4 order 2
+knob  17 (residue 80 = SER 230:A iCode=' ') type 4 order 2
+knob  18 (residue 87 = LEU 237:A iCode=' ') type 4 order 2
+knob  19 (residue 100 = GLN 257:A iCode=' ') type 4 order 2
+knob  20 (residue 107 = ALA 264:A iCode=' ') type 4 order 2
+knob  21 (residue 114 = TYR 271:A iCode=' ') type 3 order 2
+knob  22 (residue 125 = ILE 282:A iCode=' ') type 4 order 2
+knob  23 (residue 60 = ASP 210:A iCode=' ') type 2 order -1
+knob  24 (residue 82 = VAL 232:A iCode=' ') type 2 order -1
+knob  25 (residue 252 = VAL 232:B iCode=' ') type 2 order -1
+knob  26 (residue 190 = ARG 152:B iCode=' ') type 1 order -1
+knob  27 (residue 177 = THR 139:B iCode=' ') type 4 order 2
+knob  28 (residue 181 = LEU 143:B iCode=' ') type 4 order 2
+knob  29 (residue 184 = THR 146:B iCode=' ') type 4 order 2
+knob  30 (residue 188 = GLN 150:B iCode=' ') type 4 order 2
+knob  31 (residue 191 = TYR 153:B iCode=' ') type 3 order 2
+knob  32 (residue 198 = ILE 160:B iCode=' ') type 2 order -1
+knob  33 (residue 313 = ILE 300:B iCode=' ') type 2 order -1
+knob  34 (residue 317 = LEU 304:B iCode=' ') type 4 order 2
+knob  35 (residue 320 = THR 307:B iCode=' ') type 4 order 2
+knob  36 (residue 324 = ILE 311:B iCode=' ') type 4 order 2
+knob  37 (residue 327 = LEU 314:B iCode=' ') type 4 order 2
+knob  38 (residue 331 = LEU 318:B iCode=' ') type 4 order 2
+knob  39 (residue 229 = LEU 209:B iCode=' ') type 2 order -1
+knob  40 (residue 232 = LYS 212:B iCode=' ') type 4 order 2
+knob  41 (residue 243 = ILE 223:B iCode=' ') type 2 order -1
+knob  42 (residue 250 = SER 230:B iCode=' ') type 4 order 2
+knob  43 (residue 257 = LEU 237:B iCode=' ') type 4 order 2
+knob  44 (residue 270 = GLN 257:B iCode=' ') type 4 order 2
+knob  45 (residue 277 = ALA 264:B iCode=' ') type 4 order 2
+knob  46 (residue 291 = ILE 278:B iCode=' ') type 2 order -1
+knob  47 (residue 295 = ILE 282:B iCode=' ') type 4 order 2
+knob  48 (residue 305 = VAL 292:B iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   0  2	frequency 5
+coiled coil  1:  2 helices   1  2	frequency 4
+coiled coil  2:  2 helices   3  5	frequency 5
+coiled coil  3:  2 helices   4  5	frequency 3
+
+helix 0 is in a 2-stranded coiled coil
+helix 1 is in a 2-stranded coiled coil
+helix 2 is in a 2-stranded coiled coil
+helix 3 is in a 2-stranded coiled coil
+helix 4 is in a 2-stranded coiled coil
+helix 5 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  0 and  2 is  151.364	antiparallel
+this coiled coil is antiparallel
+
+
+5c21  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 22 mean 22.00):
+
+
+assigning heptad to helix 0 (X) 132-162:A
+extent of coiled coil packing: 136-157:A
+sequence AEADTLKTQSSLLQTRLEQTRYQILSRSIEL
+register     abcdefgabcdefgabcdefga     
+partner  -------Y---Y--Y---Y-!Y------Y--
+knobtype -------4---4--4---4-13------2--
+repeats   0 non-canonical interrupts in  22 residues: 7,7,7,1
+
+
+assigning heptad to helix 2 (Y) 251-324:A
+extent of coiled coil packing: 300-321:A
+sequence KHAVLEQENKYVEAANELRVYKSQLEQIESEILSAKEEYQLVTQLFKNEILDKLRQTTDNIELLTLELEKNEER
+register                                                  defgabcdefgabcdefgabcd   
+partner  ------!------!------!----------!-----------------X---X--X---X--X---X------
+knobtype ------4------4------3----------4-----------------2---4--4---4--4---4------
+repeats   0 non-canonical interrupts in  22 residues: 4,7,7,4
+
+
+coiled coil  1:
+	angle between helices  1 and  2 is  164.764	antiparallel
+this coiled coil is antiparallel
+
+
+5c21  7.0 0 coiled coil (ii) 1 (antiparallel 2-stranded, length max 32 mean 32.00):
+
+
+assigning heptad to helix 1 (X) 181-243:A
+extent of coiled coil packing: 209-240:A
+sequence EEEVLRLTSLIKEQFSTWQNQKYQKELNLDKKRAERLTILARINRYENLSRVEKSRLDDFRSL
+register                             abcdefgabcdefgabcdefgabcdefgabcd   
+partner  ----------------------------Y!-Y------Y---Y------Y-!----Y------
+knobtype ----------------------------22-4------2---4------4-2----4------
+repeats   0 non-canonical interrupts in  32 residues: 7,7,7,7,4
+
+
+assigning heptad to helix 2 (Y) 251-324:A
+extent of coiled coil packing: 254-285:A
+sequence KHAVLEQENKYVEAANELRVYKSQLEQIESEILSAKEEYQLVTQLFKNEILDKLRQTTDNIELLTLELEKNEER
+register    abcdefgabcdefgabcdefgabcdefgabcd                                       
+partner  ------X------X------X----------X-----------------!---!--!---!--!---!------
+knobtype ------4------4------3----------4-----------------2---4--4---4--4---4------
+repeats   0 non-canonical interrupts in  32 residues: 7,7,7,7,4
+
+
+coiled coil  2:
+	angle between helices  3 and  5 is  150.296	antiparallel
+this coiled coil is antiparallel
+
+
+5c21  7.0 0 coiled coil (iii) 2 (antiparallel 2-stranded, length max 22 mean 22.00):
+
+
+assigning heptad to helix 3 (X) 130-162:B
+extent of coiled coil packing: 136-157:B
+sequence LGAEADTLKTQSSLLQTRLEQTRYQILSRSIEL
+register       abcdefgabcdefgabcdefga     
+partner  ---------Y---Y--Y---Y-!Y------Y--
+knobtype ---------4---4--4---4-13------2--
+repeats   0 non-canonical interrupts in  22 residues: 7,7,7,1
+
+
+assigning heptad to helix 5 (Y) 251-324:B
+extent of coiled coil packing: 300-321:B
+sequence KHAVLEQENKYVEAANELRVYKSQLEQIESEILSAKEEYQLVTQLFKNEILDKLRQTTDNIELLTLELEKNEER
+register                                                  defgabcdefgabcdefgabcd   
+partner  ------!------!-------------!---!---------!-------X---X--X---X--X---X------
+knobtype ------4------4-------------2---4---------2-------2---4--4---4--4---4------
+repeats   0 non-canonical interrupts in  22 residues: 4,7,7,4
+
+
+coiled coil  3:
+	angle between helices  4 and  5 is  164.905	antiparallel
+this coiled coil is antiparallel
+
+
+5c21  7.0 0 coiled coil (iv) 3 (antiparallel 2-stranded, length max 32 mean 32.00):
+
+
+assigning heptad to helix 4 (X) 181-243:B
+extent of coiled coil packing: 209-240:B
+sequence EEEVLRLTSLIKEQFSTWQNQKYQKELNLDKKRAERLTILARINRYENLSRVEKSRLDDFRSL
+register                             abcdefgabcdefgabcdefgabcdefgabcd   
+partner  ----------------------------Y--Y----------Y------Y-!----Y------
+knobtype ----------------------------2--4----------2------4-2----4------
+repeats   0 non-canonical interrupts in  32 residues: 7,7,7,7,4
+
+
+assigning heptad to helix 5 (Y) 251-324:B
+extent of coiled coil packing: 254-285:B
+sequence KHAVLEQENKYVEAANELRVYKSQLEQIESEILSAKEEYQLVTQLFKNEILDKLRQTTDNIELLTLELEKNEER
+register    abcdefgabcdefgabcdefgabcdefgabcd                                       
+partner  ------X------X-------------X---X---------X-------!---!--!---!--!---!------
+knobtype ------4------4-------------2---4---------2-------2---4--4---4--4---4------
+repeats   0 non-canonical interrupts in  32 residues: 7,7,7,7,4
+5c21 c  7.00 e 0 result 4 COILED COILS PRESENT
+Finished

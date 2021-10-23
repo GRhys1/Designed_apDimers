@@ -1,0 +1,130 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/bn/2bni/structures/2bni_1.mmol"
+opened "/fs/ccplus/data/bn/2bni/structures/2bni_1.mmol" (input)
+opened "/fs/ccplus/data/bn/2bni/dssp/2bni_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/bn/2bni/rasmol/2bni_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/bn/2bni/socket/2bni_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+
+
+There are 117 alpha-helical residues in this structure
+
+chain A starts at residue    1, iCode=' '
+chain B starts at residue    1, iCode=' '
+chain C starts at residue    1, iCode=' '
+chain D starts at residue    1, iCode=' '
+residue 12 (LYS 15:A iCode=' ') has no 'end' atoms
+
+Using atom 104 (LYS 15A iCode=' '  CB ) as end atom for this residue
+residue 18 (ASN 21:A iCode=' ') has no 'end' atoms
+
+Using atom 147 (ASN 21A iCode=' '  CB ) as end atom for this residue
+residue 22 (ARG 25:A iCode=' ') has no 'end' atoms
+
+Using atom 177 (ARG 25A iCode=' '  NE ) as end atom for this residue
+residue 25 (LYS 28:A iCode=' ') has no 'end' atoms
+
+Using atom 201 (LYS 28A iCode=' '  CD ) as end atom for this residue
+residue 28 (LYS 3:B iCode=' ') has no 'end' atoms
+
+Using atom 223 (LYS 3B iCode=' '  CG ) as end atom for this residue
+residue 40 (LYS 15:B iCode=' ') has no 'end' atoms
+
+Using atom 320 (LYS 15B iCode=' '  CG ) as end atom for this residue
+residue 50 (ARG 25:B iCode=' ') has no 'end' atoms
+
+Using atom 395 (ARG 25B iCode=' '  CD ) as end atom for this residue
+residue 59 (LYS 3:C iCode=' ') has no 'end' atoms
+
+Using atom 464 (LYS 3C iCode=' '  CG ) as end atom for this residue
+residue 71 (LYS 15:C iCode=' ') has no 'end' atoms
+
+Using atom 561 (LYS 15C iCode=' '  CG ) as end atom for this residue
+residue 84 (LYS 28:C iCode=' ') has no 'end' atoms
+
+Using atom 663 (LYS 28C iCode=' '  CD ) as end atom for this residue
+residue 89 (LYS 3:D iCode=' ') has no 'end' atoms
+
+Using atom 697 (LYS 3D iCode=' '  CB ) as end atom for this residue
+residue 90 (GLN 4:D iCode=' ') has no 'end' atoms
+
+Using atom 702 (GLN 4D iCode=' '  CB ) as end atom for this residue
+residue 111 (ARG 25:D iCode=' ') has no 'end' atoms
+
+Using atom 881 (ARG 25D iCode=' '  CD ) as end atom for this residue
+
+These are the knobs and holes:
+
+knobs in helix 0:
+0) 6 (LEU 9:A, iCode=' ', helix 0) type 4	(hole:  LEU 23:C iCode=' ', ILE 26:C iCode=' ', LYS 27:C iCode=' ', LEU 30:C iCode=' ' helix 2) packing angle   59.625
+knobs in helix 1:
+5) 34 (LEU 9:B, iCode=' ', helix 1) type 4	(hole:  LEU 23:D iCode=' ', ILE 26:D iCode=' ', LYS 27:D iCode=' ', LEU 30:D iCode=' ' helix 3) packing angle   58.588
+7) 52 (LYS 27:B, iCode=' ', helix 1) type 4	(hole:  GLU 6:D iCode=' ', LEU 9:D iCode=' ', GLU 10:D iCode=' ', LEU 13:D iCode=' ' helix 3) packing angle  140.873
+knobs in helix 2:
+4) 83 (LYS 27:C, iCode=' ', helix 2) type 4	(hole:  GLU 6:A iCode=' ', LEU 9:A iCode=' ', GLU 10:A iCode=' ', LEU 13:A iCode=' ' helix 0) packing angle  139.320
+knobs in helix 3:
+8) 95 (LEU 9:D, iCode=' ', helix 3) type 4	(hole:  LEU 23:B iCode=' ', ILE 26:B iCode=' ', LYS 27:B iCode=' ', LEU 30:B iCode=' ' helix 1) packing angle   58.429
+10) 113 (LYS 27:D, iCode=' ', helix 3) type 3	(hole:  GLU 6:B iCode=' ', LEU 9:B iCode=' ', GLU 10:B iCode=' ', LEU 13:B iCode=' ' helix 1) packing angle  139.504
+holes in helix 0:
+ GLU 6:A iCode=' ', LEU 9:A iCode=' ', GLU 10:A iCode=' ', LEU 13:A iCode=' ' (knob: 83 (LYS 27:C, helix 2))
+holes in helix 1:
+ LEU 23:B iCode=' ', ILE 26:B iCode=' ', LYS 27:B iCode=' ', LEU 30:B iCode=' ' (knob: 95 (LEU 9:D, helix 3))
+ GLU 6:B iCode=' ', LEU 9:B iCode=' ', GLU 10:B iCode=' ', LEU 13:B iCode=' ' (knob: 113 (LYS 27:D, helix 3))
+holes in helix 2:
+ LEU 23:C iCode=' ', ILE 26:C iCode=' ', LYS 27:C iCode=' ', LEU 30:C iCode=' ' (knob: 6 (LEU 9:A, helix 0))
+holes in helix 3:
+ LEU 23:D iCode=' ', ILE 26:D iCode=' ', LYS 27:D iCode=' ', LEU 30:D iCode=' ' (knob: 34 (LEU 9:B, helix 1))
+ GLU 6:D iCode=' ', LEU 9:D iCode=' ', GLU 10:D iCode=' ', LEU 13:D iCode=' ' (knob: 52 (LYS 27:B, helix 1))
+
+knob   0 (residue 6 = LEU 9:A iCode=' ') type 4 order 2
+knob   1 (residue 10 = LEU 13:A iCode=' ') type 2 order -1
+knob   2 (residue 24 = LYS 27:A iCode=' ') type 2 order -1
+knob   3 (residue 69 = LEU 13:C iCode=' ') type 2 order -1
+knob   4 (residue 83 = LYS 27:C iCode=' ') type 4 order 2
+knob   5 (residue 34 = LEU 9:B iCode=' ') type 4 order 2
+knob   6 (residue 38 = LEU 13:B iCode=' ') type 2 order -1
+knob   7 (residue 52 = LYS 27:B iCode=' ') type 4 order 2
+knob   8 (residue 95 = LEU 9:D iCode=' ') type 4 order 2
+knob   9 (residue 99 = LEU 13:D iCode=' ') type 2 order -1
+knob  10 (residue 113 = LYS 27:D iCode=' ') type 3 order 2
+knob  11 (residue 116 = LEU 30:D iCode=' ') type 1 order -1
+
+coiled coil  0:  2 helices   0  2	frequency 1 IGNORING
+coiled coil  1:  2 helices   1  3	frequency 2
+
+helix 0 is in a 2-stranded coiled coil
+helix 1 is in a 2-stranded coiled coil
+helix 2 is in a 2-stranded coiled coil
+helix 3 is in a 2-stranded coiled coil
+
+
+
+coiled coil  1:
+	angle between helices  1 and  3 is  167.344	antiparallel
+this coiled coil is antiparallel
+
+
+2bni_1.mmol  7.0 0 coiled coil (i) 1 (antiparallel 2-stranded, length max 25 mean 25.00):
+
+
+assigning heptad to helix 1 (X) 2-32:B
+extent of coiled coil packing:   6- 30:B
+sequence MKQIEDKLEEILSKGHHICNELARIKKLLGE
+register     abcdefgabcdefgabcdefgabcd  
+partner  -------Y---Y-------------Y-----
+knobtype -------4---2-------------4-----
+repeats   0 non-canonical interrupts in  25 residues: 7,7,7,4
+
+
+assigning heptad to helix 3 (Y) 3-30:D
+extent of coiled coil packing:   6- 30:D
+sequence KQIEDKLEEILSKGHHICNELARIKKLL
+register    abcdefgabcdefgabcdefgabcd
+partner  ------X---X-------------X--X
+knobtype ------4---2-------------3--1
+repeats   0 non-canonical interrupts in  25 residues: 7,7,7,4
+2bni_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT (+ 1 helix groups are either pairs with too few complementary knob in hole interactions or are subsets of larger coiled coils)
+Finished

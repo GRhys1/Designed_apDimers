@@ -1,0 +1,93 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/tq/5tq4/structures/5tq4.pdb"
+opened "/fs/ccplus/data/tq/5tq4/structures/5tq4.pdb" (input)
+file name implies standard PDB entry, code 5tq4
+opened "/fs/ccplus/data/tq/5tq4/dssp/5tq4.pdb.dssp" (input)
+opened "/fs/ccplus/data/tq/5tq4/rasmol/5tq4.pdb.70.spt" (output)
+opened "/fs/ccplus/data/tq/5tq4/socket/5tq4.pdb.70.long.socket" (output)
+Found beginning of residue data
+There are 109 alpha-helical residues in this structure
+
+MODRES record specifies previously unlisted residue "Ptr" (MODIFIED RESIDUE                                   
+);
+	- will treat Ptr as TYR
+Ptr added to list; treating as amino acid (20), Tyr
+MODRES record specifies Ptr; will treat as Tyr
+chain A starts at residue  841, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+0) 26 (LEU 954:A, iCode=' ', helix 2) type 4	(hole:  VAL 1123:A iCode=' ', ILE 1126:A iCode=' ', ARG 1127:A iCode=' ', MET 1130:A iCode=' ' helix 8) packing angle   58.738
+1) 30 (SER 958:A, iCode=' ', helix 2) type 4	(hole:  ALA 1120:A iCode=' ', VAL 1123:A iCode=' ', ASP 1124:A iCode=' ', ARG 1127:A iCode=' ' helix 8) packing angle  149.063
+2) 33 (CYS 961:A, iCode=' ', helix 2) type 4	(hole:  PHE 1116:A iCode=' ', LEU 1119:A iCode=' ', ALA 1120:A iCode=' ', VAL 1123:A iCode=' ' helix 8) packing angle   81.588
+knobs in helix 3:
+knobs in helix 4:
+knobs in helix 5:
+knobs in helix 6:
+knobs in helix 7:
+knobs in helix 8:
+3) 97 (ALA 1120:A, iCode=' ', helix 8) type 4	(hole:  SER 958:A iCode=' ', CYS 961:A iCode=' ', LYS 962:A iCode=' ', GLU 965:A iCode=' ' helix 2) packing angle  154.310
+4) 100 (VAL 1123:A, iCode=' ', helix 8) type 4	(hole:  LEU 954:A iCode=' ', THR 957:A iCode=' ', SER 958:A iCode=' ', CYS 961:A iCode=' ' helix 2) packing angle   66.877
+5) 104 (ARG 1127:A, iCode=' ', helix 8) type 4	(hole:  ILE 951:A iCode=' ', LEU 954:A iCode=' ', GLN 955:A iCode=' ', SER 958:A iCode=' ' helix 2) packing angle  140.048
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+ SER 958:A iCode=' ', CYS 961:A iCode=' ', LYS 962:A iCode=' ', GLU 965:A iCode=' ' (knob: 97 (ALA 1120:A, helix 8))
+ LEU 954:A iCode=' ', THR 957:A iCode=' ', SER 958:A iCode=' ', CYS 961:A iCode=' ' (knob: 100 (VAL 1123:A, helix 8))
+ ILE 951:A iCode=' ', LEU 954:A iCode=' ', GLN 955:A iCode=' ', SER 958:A iCode=' ' (knob: 104 (ARG 1127:A, helix 8))
+holes in helix 3:
+holes in helix 4:
+holes in helix 5:
+holes in helix 6:
+holes in helix 7:
+holes in helix 8:
+ VAL 1123:A iCode=' ', ILE 1126:A iCode=' ', ARG 1127:A iCode=' ', MET 1130:A iCode=' ' (knob: 26 (LEU 954:A, helix 2))
+ ALA 1120:A iCode=' ', VAL 1123:A iCode=' ', ASP 1124:A iCode=' ', ARG 1127:A iCode=' ' (knob: 30 (SER 958:A, helix 2))
+ PHE 1116:A iCode=' ', LEU 1119:A iCode=' ', ALA 1120:A iCode=' ', VAL 1123:A iCode=' ' (knob: 33 (CYS 961:A, helix 2))
+
+knob   0 (residue 26 = LEU 954:A iCode=' ') type 4 order 2
+knob   1 (residue 30 = SER 958:A iCode=' ') type 4 order 2
+knob   2 (residue 33 = CYS 961:A iCode=' ') type 4 order 2
+knob   3 (residue 97 = ALA 1120:A iCode=' ') type 4 order 2
+knob   4 (residue 100 = VAL 1123:A iCode=' ') type 4 order 2
+knob   5 (residue 104 = ARG 1127:A iCode=' ') type 4 order 2
+knob   6 (residue 72 = ILE 1065:A iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   2  8	frequency 3
+
+helix 2 is in a 2-stranded coiled coil
+helix 8 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  2 and  8 is  148.684	antiparallel
+this coiled coil is antiparallel
+
+
+5tq4  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 15 mean 15.00):
+
+
+assigning heptad to helix 2 (X) 950-969:A
+extent of coiled coil packing: 951-965:A
+sequence HIKLLQYTSQICKGMEYLGT
+register  abcdefgabcdefga    
+partner  ----Y---Y--Y--------
+knobtype ----4---4--4--------
+repeats   0 non-canonical interrupts in  15 residues: 7,7,1
+
+
+assigning heptad to helix 8 (Y) 1116-1131:A
+extent of coiled coil packing: 1116-1130:A
+sequence FRDLALRVDQIRDNMA
+register defgabcdefgabcd 
+partner  ----X--X---X----
+knobtype ----4--4---4----
+repeats   0 non-canonical interrupts in  15 residues: 4,7,4
+5tq4 c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

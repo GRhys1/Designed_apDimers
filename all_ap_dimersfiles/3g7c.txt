@@ -1,0 +1,79 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/g7/3g7c/structures/3g7c_1.mmol"
+opened "/fs/ccplus/data/g7/3g7c/structures/3g7c_1.mmol" (input)
+opened "/fs/ccplus/data/g7/3g7c/dssp/3g7c_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/g7/3g7c/rasmol/3g7c_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/g7/3g7c/socket/3g7c_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+There are 88 alpha-helical residues in this structure
+
+chain A starts at residue  414, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+0) 31 (LEU 457:A, iCode=' ', helix 0) type 4	(hole:  TYR 481:A iCode=' ', LEU 484:A iCode=' ', LYS 485:A iCode=' ', LYS 488:A iCode=' ' helix 1) packing angle  142.348
+1) 34 (LEU 460:A, iCode=' ', helix 0) type 4	(hole:  ALA 477:A iCode=' ', GLU 480:A iCode=' ', TYR 481:A iCode=' ', LEU 484:A iCode=' ' helix 1) packing angle   75.646
+6) 20 (LEU 446:A, iCode=' ', helix 0) type 4	(hole:  LYS 496:A iCode=' ', HIS 499:A iCode=' ', CYS 500:A iCode=' ', LEU 503:A iCode=' ' helix 2) packing angle   55.151
+knobs in helix 1:
+3) 50 (TYR 481:A, iCode=' ', helix 1) type 3	(hole:  LEU 457:A iCode=' ', LEU 460:A iCode=' ', ASP 461:A iCode=' ', LEU 464:A iCode=' ' helix 0) packing angle  146.399
+4) 53 (LEU 484:A, iCode=' ', helix 1) type 4	(hole:  ILE 453:A iCode=' ', GLU 456:A iCode=' ', LEU 457:A iCode=' ', LEU 460:A iCode=' ' helix 0) packing angle   68.619
+knobs in helix 2:
+8) 68 (CYS 500:A, iCode=' ', helix 2) type 4	(hole:  TYR 443:A iCode=' ', LEU 446:A iCode=' ', GLN 447:A iCode=' ', LEU 450:A iCode=' ' helix 0) packing angle  127.994
+holes in helix 0:
+ LEU 457:A iCode=' ', LEU 460:A iCode=' ', ASP 461:A iCode=' ', LEU 464:A iCode=' ' (knob: 50 (TYR 481:A, helix 1))
+ ILE 453:A iCode=' ', GLU 456:A iCode=' ', LEU 457:A iCode=' ', LEU 460:A iCode=' ' (knob: 53 (LEU 484:A, helix 1))
+ TYR 443:A iCode=' ', LEU 446:A iCode=' ', GLN 447:A iCode=' ', LEU 450:A iCode=' ' (knob: 68 (CYS 500:A, helix 2))
+holes in helix 1:
+ TYR 481:A iCode=' ', LEU 484:A iCode=' ', LYS 485:A iCode=' ', LYS 488:A iCode=' ' (knob: 31 (LEU 457:A, helix 0))
+ ALA 477:A iCode=' ', GLU 480:A iCode=' ', TYR 481:A iCode=' ', LEU 484:A iCode=' ' (knob: 34 (LEU 460:A, helix 0))
+holes in helix 2:
+ LYS 496:A iCode=' ', HIS 499:A iCode=' ', CYS 500:A iCode=' ', LEU 503:A iCode=' ' (knob: 20 (LEU 446:A, helix 0))
+
+knob   0 (residue 31 = LEU 457:A iCode=' ') type 4 order 2
+knob   1 (residue 34 = LEU 460:A iCode=' ') type 4 order 2
+knob   2 (residue 38 = LEU 464:A iCode=' ') type 2 order -1
+knob   3 (residue 50 = TYR 481:A iCode=' ') type 3 order 2
+knob   4 (residue 53 = LEU 484:A iCode=' ') type 4 order 2
+knob   5 (residue 17 = TYR 443:A iCode=' ') type 1 order -1
+knob   6 (residue 20 = LEU 446:A iCode=' ') type 4 order 2
+knob   7 (residue 24 = LEU 450:A iCode=' ') type 2 order -1
+knob   8 (residue 68 = CYS 500:A iCode=' ') type 4 order 2
+
+coiled coil  0:  2 helices   0  1	frequency 2
+coiled coil  1:  2 helices   0  2	frequency 1 IGNORING
+
+helix 0 is in a 2-stranded coiled coil
+helix 1 is in a 2-stranded coiled coil
+helix 2 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  0 and  1 is  151.442	antiparallel
+this coiled coil is antiparallel
+
+
+3g7c_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 12 mean 12.00):
+
+
+assigning heptad to helix 0 (X) 426-466:A
+extent of coiled coil packing: 453-464:A
+sequence DQQRQLYKRNFDTGLQEYKSLQSELDEINKELSRLDKELDD
+register                            defgabcdefga  
+partner  -----------------!--!---!------Y--Y---Y--
+knobtype -----------------1--4---2------4--4---2--
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+
+
+assigning heptad to helix 1 (Y) 472-489:A
+extent of coiled coil packing: 477-488:A
+sequence EEYMAAADEYNRLKQVKG
+register      defgabcdefga 
+partner  ---------X--X-----
+knobtype ---------3--4-----
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+3g7c_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT (+ 1 helix groups are either pairs with too few complementary knob in hole interactions or are subsets of larger coiled coils)
+Finished

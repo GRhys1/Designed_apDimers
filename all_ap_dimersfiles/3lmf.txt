@@ -1,0 +1,488 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/lm/3lmf/structures/3lmf_1.mmol"
+opened "/fs/ccplus/data/lm/3lmf/structures/3lmf_1.mmol" (input)
+opened "/fs/ccplus/data/lm/3lmf/dssp/3lmf_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/lm/3lmf/rasmol/3lmf_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/lm/3lmf/socket/3lmf_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+
+
+There are 356 alpha-helical residues in this structure
+
+chain A starts at residue    7, iCode=' '
+chain B starts at residue    7, iCode=' '
+chain C starts at residue    7, iCode=' '
+chain D starts at residue    7, iCode=' '
+duplicate knobs:   1, 10
+duplicate knobs:  15, 45
+duplicate knobs:  23, 32
+duplicate knobs:  37, 65
+sets of duplicate knobs:
+ 0)   1  10	are all residue 14 (TYR 22:A, iCode=' ')
+ 1)  15  45	are all residue 192 (TYR 22:C, iCode=' ')
+ 2)  23  32	are all residue 103 (TYR 22:B, iCode=' ')
+ 3)  37  65	are all residue 281 (TYR 22:D, iCode=' ')
+
+These are the knobs and holes:
+
+knobs in helix 0:
+0) 10 (CYS 18:A, iCode=' ', helix 0) type 4	(hole:  CYS 56:A iCode=' ', SER 59:A iCode=' ', LEU 60:A iCode=' ', Mse 63:A iCode=' ' helix 2) packing angle   67.957
+1) 14 (TYR 22:A, iCode=' ', helix 0) type 3	(hole:  ALA 53:A iCode=' ', CYS 56:A iCode=' ', GLN 57:A iCode=' ', LEU 60:A iCode=' ' helix 2) packing angle  130.897
+2) 17 (CYS 25:A, iCode=' ', helix 0) type 4	(hole:  Mse 49:A iCode=' ', CYS 52:A iCode=' ', ALA 53:A iCode=' ', CYS 56:A iCode=' ' helix 2) packing angle   50.487
+knobs in helix 1:
+knobs in helix 2:
+4) 38 (ALA 53:A, iCode=' ', helix 2) type 4	(hole:  TYR 22:A iCode=' ', CYS 25:A iCode=' ', LEU 26:A iCode=' ', ALA 29:A iCode=' ' helix 0) packing angle  132.640
+5) 41 (CYS 56:A, iCode=' ', helix 2) type 4	(hole:  CYS 18:A iCode=' ', CYS 21:A iCode=' ', TYR 22:A iCode=' ', CYS 25:A iCode=' ' helix 0) packing angle   55.633
+6) 45 (LEU 60:A, iCode=' ', helix 2) type 4	(hole:  ILE 15:A iCode=' ', CYS 18:A iCode=' ', ASN 19:A iCode=' ', TYR 22:A iCode=' ' helix 0) packing angle  136.500
+knobs in helix 3:
+16) 58 (ALA 78:A, iCode=' ', helix 3) type 4	(hole:  ALA 105:A iCode=' ', CYS 108:A iCode=' ', ARG 109:A iCode=' ', ALA 112:A iCode=' ' helix 4) packing angle  135.769
+17) 61 (CYS 81:A, iCode=' ', helix 3) type 4	(hole:  CYS 101:A iCode=' ', CYS 104:A iCode=' ', ALA 105:A iCode=' ', CYS 108:A iCode=' ' helix 4) packing angle   60.077
+18) 65 (ALA 85:A, iCode=' ', helix 3) type 4	(hole:  VAL 98:A iCode=' ', CYS 101:A iCode=' ', ARG 102:A iCode=' ', ALA 105:A iCode=' ' helix 4) packing angle  143.811
+knobs in helix 4:
+19) 77 (CYS 101:A, iCode=' ', helix 4) type 4	(hole:  CYS 81:A iCode=' ', CYS 84:A iCode=' ', ALA 85:A iCode=' ', CYS 88:A iCode=' ' helix 3) packing angle   64.474
+20) 81 (ALA 105:A, iCode=' ', helix 4) type 4	(hole:  ALA 78:A iCode=' ', CYS 81:A iCode=' ', ASP 82:A iCode=' ', ALA 85:A iCode=' ' helix 3) packing angle  137.676
+21) 84 (CYS 108:A, iCode=' ', helix 4) type 4	(hole:  CYS 74:A iCode=' ', CYS 77:A iCode=' ', ALA 78:A iCode=' ', CYS 81:A iCode=' ' helix 3) packing angle   61.151
+knobs in helix 5:
+22) 99 (CYS 18:B, iCode=' ', helix 5) type 4	(hole:  CYS 56:B iCode=' ', SER 59:B iCode=' ', LEU 60:B iCode=' ', Mse 63:B iCode=' ' helix 7) packing angle   67.957
+23) 103 (TYR 22:B, iCode=' ', helix 5) type 3	(hole:  ALA 53:B iCode=' ', CYS 56:B iCode=' ', GLN 57:B iCode=' ', LEU 60:B iCode=' ' helix 7) packing angle  130.897
+24) 106 (CYS 25:B, iCode=' ', helix 5) type 4	(hole:  Mse 49:B iCode=' ', CYS 52:B iCode=' ', ALA 53:B iCode=' ', CYS 56:B iCode=' ' helix 7) packing angle   50.488
+knobs in helix 6:
+knobs in helix 7:
+26) 127 (ALA 53:B, iCode=' ', helix 7) type 4	(hole:  TYR 22:B iCode=' ', CYS 25:B iCode=' ', LEU 26:B iCode=' ', ALA 29:B iCode=' ' helix 5) packing angle  132.640
+27) 130 (CYS 56:B, iCode=' ', helix 7) type 4	(hole:  CYS 18:B iCode=' ', CYS 21:B iCode=' ', TYR 22:B iCode=' ', CYS 25:B iCode=' ' helix 5) packing angle   55.633
+28) 134 (LEU 60:B, iCode=' ', helix 7) type 4	(hole:  ILE 15:B iCode=' ', CYS 18:B iCode=' ', ASN 19:B iCode=' ', TYR 22:B iCode=' ' helix 5) packing angle  136.500
+knobs in helix 8:
+38) 147 (ALA 78:B, iCode=' ', helix 8) type 4	(hole:  ALA 105:B iCode=' ', CYS 108:B iCode=' ', ARG 109:B iCode=' ', ALA 112:B iCode=' ' helix 9) packing angle  135.769
+39) 150 (CYS 81:B, iCode=' ', helix 8) type 4	(hole:  CYS 101:B iCode=' ', CYS 104:B iCode=' ', ALA 105:B iCode=' ', CYS 108:B iCode=' ' helix 9) packing angle   60.077
+40) 154 (ALA 85:B, iCode=' ', helix 8) type 4	(hole:  VAL 98:B iCode=' ', CYS 101:B iCode=' ', ARG 102:B iCode=' ', ALA 105:B iCode=' ' helix 9) packing angle  143.811
+knobs in helix 9:
+41) 166 (CYS 101:B, iCode=' ', helix 9) type 4	(hole:  CYS 81:B iCode=' ', CYS 84:B iCode=' ', ALA 85:B iCode=' ', CYS 88:B iCode=' ' helix 8) packing angle   64.474
+42) 170 (ALA 105:B, iCode=' ', helix 9) type 4	(hole:  ALA 78:B iCode=' ', CYS 81:B iCode=' ', ASP 82:B iCode=' ', ALA 85:B iCode=' ' helix 8) packing angle  137.676
+43) 173 (CYS 108:B, iCode=' ', helix 9) type 4	(hole:  CYS 74:B iCode=' ', CYS 77:B iCode=' ', ALA 78:B iCode=' ', CYS 81:B iCode=' ' helix 8) packing angle   61.151
+knobs in helix 10:
+44) 188 (CYS 18:C, iCode=' ', helix 10) type 4	(hole:  CYS 56:C iCode=' ', SER 59:C iCode=' ', LEU 60:C iCode=' ', Mse 63:C iCode=' ' helix 12) packing angle   67.957
+45) 192 (TYR 22:C, iCode=' ', helix 10) type 3	(hole:  ALA 53:C iCode=' ', CYS 56:C iCode=' ', GLN 57:C iCode=' ', LEU 60:C iCode=' ' helix 12) packing angle  130.876
+46) 195 (CYS 25:C, iCode=' ', helix 10) type 4	(hole:  Mse 49:C iCode=' ', CYS 52:C iCode=' ', ALA 53:C iCode=' ', CYS 56:C iCode=' ' helix 12) packing angle   50.504
+knobs in helix 11:
+knobs in helix 12:
+48) 216 (ALA 53:C, iCode=' ', helix 12) type 4	(hole:  TYR 22:C iCode=' ', CYS 25:C iCode=' ', LEU 26:C iCode=' ', ALA 29:C iCode=' ' helix 10) packing angle  132.640
+49) 219 (CYS 56:C, iCode=' ', helix 12) type 4	(hole:  CYS 18:C iCode=' ', CYS 21:C iCode=' ', TYR 22:C iCode=' ', CYS 25:C iCode=' ' helix 10) packing angle   55.629
+50) 223 (LEU 60:C, iCode=' ', helix 12) type 4	(hole:  ILE 15:C iCode=' ', CYS 18:C iCode=' ', ASN 19:C iCode=' ', TYR 22:C iCode=' ' helix 10) packing angle  136.502
+knobs in helix 13:
+58) 236 (ALA 78:C, iCode=' ', helix 13) type 4	(hole:  ALA 105:C iCode=' ', CYS 108:C iCode=' ', ARG 109:C iCode=' ', ALA 112:C iCode=' ' helix 14) packing angle  135.771
+59) 239 (CYS 81:C, iCode=' ', helix 13) type 4	(hole:  CYS 101:C iCode=' ', CYS 104:C iCode=' ', ALA 105:C iCode=' ', CYS 108:C iCode=' ' helix 14) packing angle   60.052
+60) 243 (ALA 85:C, iCode=' ', helix 13) type 4	(hole:  VAL 98:C iCode=' ', CYS 101:C iCode=' ', ARG 102:C iCode=' ', ALA 105:C iCode=' ' helix 14) packing angle  143.802
+knobs in helix 14:
+61) 255 (CYS 101:C, iCode=' ', helix 14) type 4	(hole:  CYS 81:C iCode=' ', CYS 84:C iCode=' ', ALA 85:C iCode=' ', CYS 88:C iCode=' ' helix 13) packing angle   64.476
+62) 259 (ALA 105:C, iCode=' ', helix 14) type 4	(hole:  ALA 78:C iCode=' ', CYS 81:C iCode=' ', ASP 82:C iCode=' ', ALA 85:C iCode=' ' helix 13) packing angle  137.684
+63) 262 (CYS 108:C, iCode=' ', helix 14) type 4	(hole:  CYS 74:C iCode=' ', CYS 77:C iCode=' ', ALA 78:C iCode=' ', CYS 81:C iCode=' ' helix 13) packing angle   61.152
+knobs in helix 15:
+64) 277 (CYS 18:D, iCode=' ', helix 15) type 4	(hole:  CYS 56:D iCode=' ', SER 59:D iCode=' ', LEU 60:D iCode=' ', Mse 63:D iCode=' ' helix 17) packing angle   67.952
+65) 281 (TYR 22:D, iCode=' ', helix 15) type 3	(hole:  ALA 53:D iCode=' ', CYS 56:D iCode=' ', GLN 57:D iCode=' ', LEU 60:D iCode=' ' helix 17) packing angle  130.907
+66) 284 (CYS 25:D, iCode=' ', helix 15) type 4	(hole:  Mse 49:D iCode=' ', CYS 52:D iCode=' ', ALA 53:D iCode=' ', CYS 56:D iCode=' ' helix 17) packing angle   50.482
+knobs in helix 16:
+knobs in helix 17:
+68) 305 (ALA 53:D, iCode=' ', helix 17) type 4	(hole:  TYR 22:D iCode=' ', CYS 25:D iCode=' ', LEU 26:D iCode=' ', ALA 29:D iCode=' ' helix 15) packing angle  132.641
+69) 308 (CYS 56:D, iCode=' ', helix 17) type 4	(hole:  CYS 18:D iCode=' ', CYS 21:D iCode=' ', TYR 22:D iCode=' ', CYS 25:D iCode=' ' helix 15) packing angle   55.636
+70) 312 (LEU 60:D, iCode=' ', helix 17) type 4	(hole:  ILE 15:D iCode=' ', CYS 18:D iCode=' ', ASN 19:D iCode=' ', TYR 22:D iCode=' ' helix 15) packing angle  136.502
+knobs in helix 18:
+78) 325 (ALA 78:D, iCode=' ', helix 18) type 4	(hole:  ALA 105:D iCode=' ', CYS 108:D iCode=' ', ARG 109:D iCode=' ', ALA 112:D iCode=' ' helix 19) packing angle  135.779
+79) 328 (CYS 81:D, iCode=' ', helix 18) type 4	(hole:  CYS 101:D iCode=' ', CYS 104:D iCode=' ', ALA 105:D iCode=' ', CYS 108:D iCode=' ' helix 19) packing angle   60.107
+80) 332 (ALA 85:D, iCode=' ', helix 18) type 4	(hole:  VAL 98:D iCode=' ', CYS 101:D iCode=' ', ARG 102:D iCode=' ', ALA 105:D iCode=' ' helix 19) packing angle  143.821
+knobs in helix 19:
+81) 344 (CYS 101:D, iCode=' ', helix 19) type 4	(hole:  CYS 81:D iCode=' ', CYS 84:D iCode=' ', ALA 85:D iCode=' ', CYS 88:D iCode=' ' helix 18) packing angle   64.477
+82) 348 (ALA 105:D, iCode=' ', helix 19) type 4	(hole:  ALA 78:D iCode=' ', CYS 81:D iCode=' ', ASP 82:D iCode=' ', ALA 85:D iCode=' ' helix 18) packing angle  137.674
+83) 351 (CYS 108:D, iCode=' ', helix 19) type 4	(hole:  CYS 74:D iCode=' ', CYS 77:D iCode=' ', ALA 78:D iCode=' ', CYS 81:D iCode=' ' helix 18) packing angle   61.148
+holes in helix 0:
+ TYR 22:A iCode=' ', CYS 25:A iCode=' ', LEU 26:A iCode=' ', ALA 29:A iCode=' ' (knob: 38 (ALA 53:A, helix 2))
+ CYS 18:A iCode=' ', CYS 21:A iCode=' ', TYR 22:A iCode=' ', CYS 25:A iCode=' ' (knob: 41 (CYS 56:A, helix 2))
+ ILE 15:A iCode=' ', CYS 18:A iCode=' ', ASN 19:A iCode=' ', TYR 22:A iCode=' ' (knob: 45 (LEU 60:A, helix 2))
+holes in helix 1:
+holes in helix 2:
+ CYS 56:A iCode=' ', SER 59:A iCode=' ', LEU 60:A iCode=' ', Mse 63:A iCode=' ' (knob: 10 (CYS 18:A, helix 0))
+ ALA 53:A iCode=' ', CYS 56:A iCode=' ', GLN 57:A iCode=' ', LEU 60:A iCode=' ' (knob: 14 (TYR 22:A, helix 0))
+ Mse 49:A iCode=' ', CYS 52:A iCode=' ', ALA 53:A iCode=' ', CYS 56:A iCode=' ' (knob: 17 (CYS 25:A, helix 0))
+holes in helix 3:
+ CYS 81:A iCode=' ', CYS 84:A iCode=' ', ALA 85:A iCode=' ', CYS 88:A iCode=' ' (knob: 77 (CYS 101:A, helix 4))
+ ALA 78:A iCode=' ', CYS 81:A iCode=' ', ASP 82:A iCode=' ', ALA 85:A iCode=' ' (knob: 81 (ALA 105:A, helix 4))
+ CYS 74:A iCode=' ', CYS 77:A iCode=' ', ALA 78:A iCode=' ', CYS 81:A iCode=' ' (knob: 84 (CYS 108:A, helix 4))
+holes in helix 4:
+ ALA 105:A iCode=' ', CYS 108:A iCode=' ', ARG 109:A iCode=' ', ALA 112:A iCode=' ' (knob: 58 (ALA 78:A, helix 3))
+ CYS 101:A iCode=' ', CYS 104:A iCode=' ', ALA 105:A iCode=' ', CYS 108:A iCode=' ' (knob: 61 (CYS 81:A, helix 3))
+ VAL 98:A iCode=' ', CYS 101:A iCode=' ', ARG 102:A iCode=' ', ALA 105:A iCode=' ' (knob: 65 (ALA 85:A, helix 3))
+holes in helix 5:
+ TYR 22:B iCode=' ', CYS 25:B iCode=' ', LEU 26:B iCode=' ', ALA 29:B iCode=' ' (knob: 127 (ALA 53:B, helix 7))
+ CYS 18:B iCode=' ', CYS 21:B iCode=' ', TYR 22:B iCode=' ', CYS 25:B iCode=' ' (knob: 130 (CYS 56:B, helix 7))
+ ILE 15:B iCode=' ', CYS 18:B iCode=' ', ASN 19:B iCode=' ', TYR 22:B iCode=' ' (knob: 134 (LEU 60:B, helix 7))
+holes in helix 6:
+holes in helix 7:
+ CYS 56:B iCode=' ', SER 59:B iCode=' ', LEU 60:B iCode=' ', Mse 63:B iCode=' ' (knob: 99 (CYS 18:B, helix 5))
+ ALA 53:B iCode=' ', CYS 56:B iCode=' ', GLN 57:B iCode=' ', LEU 60:B iCode=' ' (knob: 103 (TYR 22:B, helix 5))
+ Mse 49:B iCode=' ', CYS 52:B iCode=' ', ALA 53:B iCode=' ', CYS 56:B iCode=' ' (knob: 106 (CYS 25:B, helix 5))
+holes in helix 8:
+ CYS 81:B iCode=' ', CYS 84:B iCode=' ', ALA 85:B iCode=' ', CYS 88:B iCode=' ' (knob: 166 (CYS 101:B, helix 9))
+ ALA 78:B iCode=' ', CYS 81:B iCode=' ', ASP 82:B iCode=' ', ALA 85:B iCode=' ' (knob: 170 (ALA 105:B, helix 9))
+ CYS 74:B iCode=' ', CYS 77:B iCode=' ', ALA 78:B iCode=' ', CYS 81:B iCode=' ' (knob: 173 (CYS 108:B, helix 9))
+holes in helix 9:
+ ALA 105:B iCode=' ', CYS 108:B iCode=' ', ARG 109:B iCode=' ', ALA 112:B iCode=' ' (knob: 147 (ALA 78:B, helix 8))
+ CYS 101:B iCode=' ', CYS 104:B iCode=' ', ALA 105:B iCode=' ', CYS 108:B iCode=' ' (knob: 150 (CYS 81:B, helix 8))
+ VAL 98:B iCode=' ', CYS 101:B iCode=' ', ARG 102:B iCode=' ', ALA 105:B iCode=' ' (knob: 154 (ALA 85:B, helix 8))
+holes in helix 10:
+ TYR 22:C iCode=' ', CYS 25:C iCode=' ', LEU 26:C iCode=' ', ALA 29:C iCode=' ' (knob: 216 (ALA 53:C, helix 12))
+ CYS 18:C iCode=' ', CYS 21:C iCode=' ', TYR 22:C iCode=' ', CYS 25:C iCode=' ' (knob: 219 (CYS 56:C, helix 12))
+ ILE 15:C iCode=' ', CYS 18:C iCode=' ', ASN 19:C iCode=' ', TYR 22:C iCode=' ' (knob: 223 (LEU 60:C, helix 12))
+holes in helix 11:
+holes in helix 12:
+ CYS 56:C iCode=' ', SER 59:C iCode=' ', LEU 60:C iCode=' ', Mse 63:C iCode=' ' (knob: 188 (CYS 18:C, helix 10))
+ ALA 53:C iCode=' ', CYS 56:C iCode=' ', GLN 57:C iCode=' ', LEU 60:C iCode=' ' (knob: 192 (TYR 22:C, helix 10))
+ Mse 49:C iCode=' ', CYS 52:C iCode=' ', ALA 53:C iCode=' ', CYS 56:C iCode=' ' (knob: 195 (CYS 25:C, helix 10))
+holes in helix 13:
+ CYS 81:C iCode=' ', CYS 84:C iCode=' ', ALA 85:C iCode=' ', CYS 88:C iCode=' ' (knob: 255 (CYS 101:C, helix 14))
+ ALA 78:C iCode=' ', CYS 81:C iCode=' ', ASP 82:C iCode=' ', ALA 85:C iCode=' ' (knob: 259 (ALA 105:C, helix 14))
+ CYS 74:C iCode=' ', CYS 77:C iCode=' ', ALA 78:C iCode=' ', CYS 81:C iCode=' ' (knob: 262 (CYS 108:C, helix 14))
+holes in helix 14:
+ ALA 105:C iCode=' ', CYS 108:C iCode=' ', ARG 109:C iCode=' ', ALA 112:C iCode=' ' (knob: 236 (ALA 78:C, helix 13))
+ CYS 101:C iCode=' ', CYS 104:C iCode=' ', ALA 105:C iCode=' ', CYS 108:C iCode=' ' (knob: 239 (CYS 81:C, helix 13))
+ VAL 98:C iCode=' ', CYS 101:C iCode=' ', ARG 102:C iCode=' ', ALA 105:C iCode=' ' (knob: 243 (ALA 85:C, helix 13))
+holes in helix 15:
+ TYR 22:D iCode=' ', CYS 25:D iCode=' ', LEU 26:D iCode=' ', ALA 29:D iCode=' ' (knob: 305 (ALA 53:D, helix 17))
+ CYS 18:D iCode=' ', CYS 21:D iCode=' ', TYR 22:D iCode=' ', CYS 25:D iCode=' ' (knob: 308 (CYS 56:D, helix 17))
+ ILE 15:D iCode=' ', CYS 18:D iCode=' ', ASN 19:D iCode=' ', TYR 22:D iCode=' ' (knob: 312 (LEU 60:D, helix 17))
+holes in helix 16:
+holes in helix 17:
+ CYS 56:D iCode=' ', SER 59:D iCode=' ', LEU 60:D iCode=' ', Mse 63:D iCode=' ' (knob: 277 (CYS 18:D, helix 15))
+ ALA 53:D iCode=' ', CYS 56:D iCode=' ', GLN 57:D iCode=' ', LEU 60:D iCode=' ' (knob: 281 (TYR 22:D, helix 15))
+ Mse 49:D iCode=' ', CYS 52:D iCode=' ', ALA 53:D iCode=' ', CYS 56:D iCode=' ' (knob: 284 (CYS 25:D, helix 15))
+holes in helix 18:
+ CYS 81:D iCode=' ', CYS 84:D iCode=' ', ALA 85:D iCode=' ', CYS 88:D iCode=' ' (knob: 344 (CYS 101:D, helix 19))
+ ALA 78:D iCode=' ', CYS 81:D iCode=' ', ASP 82:D iCode=' ', ALA 85:D iCode=' ' (knob: 348 (ALA 105:D, helix 19))
+ CYS 74:D iCode=' ', CYS 77:D iCode=' ', ALA 78:D iCode=' ', CYS 81:D iCode=' ' (knob: 351 (CYS 108:D, helix 19))
+holes in helix 19:
+ ALA 105:D iCode=' ', CYS 108:D iCode=' ', ARG 109:D iCode=' ', ALA 112:D iCode=' ' (knob: 325 (ALA 78:D, helix 18))
+ CYS 101:D iCode=' ', CYS 104:D iCode=' ', ALA 105:D iCode=' ', CYS 108:D iCode=' ' (knob: 328 (CYS 81:D, helix 18))
+ VAL 98:D iCode=' ', CYS 101:D iCode=' ', ARG 102:D iCode=' ', ALA 105:D iCode=' ' (knob: 332 (ALA 85:D, helix 18))
+
+knob   0 (residue 10 = CYS 18:A iCode=' ') type 4 order 2
+knob   1 (residue 14 = TYR 22:A iCode=' ') type 3 order 2
+knob   2 (residue 17 = CYS 25:A iCode=' ') type 4 order 2
+knob   3 (residue 21 = ALA 29:A iCode=' ') type 2 order -1
+knob   4 (residue 38 = ALA 53:A iCode=' ') type 4 order 2
+knob   5 (residue 41 = CYS 56:A iCode=' ') type 4 order 2
+knob   6 (residue 45 = LEU 60:A iCode=' ') type 4 order 2
+knob   7 (residue 48 = Mse 63:A iCode=' ') type 2 order -1
+knob   8 (residue 6 = CYS 14:A iCode=' ') type 2 order -1
+knob   9 (residue 80 = CYS 104:A iCode=' ') type 2 order -1
+knob  10 (residue 14 = TYR 22:A iCode=' ') type 2 order -1
+knob  11 (residue 33 = LEU 48:A iCode=' ') type 2 order -1
+knob  12 (residue 40 = ILE 55:A iCode=' ') type 2 order -1
+knob  13 (residue 53 = VAL 73:A iCode=' ') type 2 order -1
+knob  14 (residue 60 = ILE 80:A iCode=' ') type 2 order -1
+knob  15 (residue 192 = TYR 22:C iCode=' ') type 2 order -1
+knob  16 (residue 58 = ALA 78:A iCode=' ') type 4 order 2
+knob  17 (residue 61 = CYS 81:A iCode=' ') type 4 order 2
+knob  18 (residue 65 = ALA 85:A iCode=' ') type 4 order 2
+knob  19 (residue 77 = CYS 101:A iCode=' ') type 4 order 2
+knob  20 (residue 81 = ALA 105:A iCode=' ') type 4 order 2
+knob  21 (residue 84 = CYS 108:A iCode=' ') type 4 order 2
+knob  22 (residue 99 = CYS 18:B iCode=' ') type 4 order 2
+knob  23 (residue 103 = TYR 22:B iCode=' ') type 3 order 2
+knob  24 (residue 106 = CYS 25:B iCode=' ') type 4 order 2
+knob  25 (residue 110 = ALA 29:B iCode=' ') type 2 order -1
+knob  26 (residue 127 = ALA 53:B iCode=' ') type 4 order 2
+knob  27 (residue 130 = CYS 56:B iCode=' ') type 4 order 2
+knob  28 (residue 134 = LEU 60:B iCode=' ') type 4 order 2
+knob  29 (residue 137 = Mse 63:B iCode=' ') type 2 order -1
+knob  30 (residue 95 = CYS 14:B iCode=' ') type 2 order -1
+knob  31 (residue 169 = CYS 104:B iCode=' ') type 2 order -1
+knob  32 (residue 103 = TYR 22:B iCode=' ') type 2 order -1
+knob  33 (residue 122 = LEU 48:B iCode=' ') type 2 order -1
+knob  34 (residue 129 = ILE 55:B iCode=' ') type 2 order -1
+knob  35 (residue 142 = VAL 73:B iCode=' ') type 2 order -1
+knob  36 (residue 149 = ILE 80:B iCode=' ') type 2 order -1
+knob  37 (residue 281 = TYR 22:D iCode=' ') type 2 order -1
+knob  38 (residue 147 = ALA 78:B iCode=' ') type 4 order 2
+knob  39 (residue 150 = CYS 81:B iCode=' ') type 4 order 2
+knob  40 (residue 154 = ALA 85:B iCode=' ') type 4 order 2
+knob  41 (residue 166 = CYS 101:B iCode=' ') type 4 order 2
+knob  42 (residue 170 = ALA 105:B iCode=' ') type 4 order 2
+knob  43 (residue 173 = CYS 108:B iCode=' ') type 4 order 2
+knob  44 (residue 188 = CYS 18:C iCode=' ') type 4 order 2
+knob  45 (residue 192 = TYR 22:C iCode=' ') type 3 order 2
+knob  46 (residue 195 = CYS 25:C iCode=' ') type 4 order 2
+knob  47 (residue 199 = ALA 29:C iCode=' ') type 2 order -1
+knob  48 (residue 216 = ALA 53:C iCode=' ') type 4 order 2
+knob  49 (residue 219 = CYS 56:C iCode=' ') type 4 order 2
+knob  50 (residue 223 = LEU 60:C iCode=' ') type 4 order 2
+knob  51 (residue 226 = Mse 63:C iCode=' ') type 2 order -1
+knob  52 (residue 184 = CYS 14:C iCode=' ') type 2 order -1
+knob  53 (residue 258 = CYS 104:C iCode=' ') type 2 order -1
+knob  54 (residue 211 = LEU 48:C iCode=' ') type 2 order -1
+knob  55 (residue 218 = ILE 55:C iCode=' ') type 2 order -1
+knob  56 (residue 231 = VAL 73:C iCode=' ') type 2 order -1
+knob  57 (residue 238 = ILE 80:C iCode=' ') type 2 order -1
+knob  58 (residue 236 = ALA 78:C iCode=' ') type 4 order 2
+knob  59 (residue 239 = CYS 81:C iCode=' ') type 4 order 2
+knob  60 (residue 243 = ALA 85:C iCode=' ') type 4 order 2
+knob  61 (residue 255 = CYS 101:C iCode=' ') type 4 order 2
+knob  62 (residue 259 = ALA 105:C iCode=' ') type 4 order 2
+knob  63 (residue 262 = CYS 108:C iCode=' ') type 4 order 2
+knob  64 (residue 277 = CYS 18:D iCode=' ') type 4 order 2
+knob  65 (residue 281 = TYR 22:D iCode=' ') type 3 order 2
+knob  66 (residue 284 = CYS 25:D iCode=' ') type 4 order 2
+knob  67 (residue 288 = ALA 29:D iCode=' ') type 2 order -1
+knob  68 (residue 305 = ALA 53:D iCode=' ') type 4 order 2
+knob  69 (residue 308 = CYS 56:D iCode=' ') type 4 order 2
+knob  70 (residue 312 = LEU 60:D iCode=' ') type 4 order 2
+knob  71 (residue 315 = Mse 63:D iCode=' ') type 2 order -1
+knob  72 (residue 273 = CYS 14:D iCode=' ') type 2 order -1
+knob  73 (residue 347 = CYS 104:D iCode=' ') type 2 order -1
+knob  74 (residue 300 = LEU 48:D iCode=' ') type 2 order -1
+knob  75 (residue 307 = ILE 55:D iCode=' ') type 2 order -1
+knob  76 (residue 320 = VAL 73:D iCode=' ') type 2 order -1
+knob  77 (residue 327 = ILE 80:D iCode=' ') type 2 order -1
+knob  78 (residue 325 = ALA 78:D iCode=' ') type 4 order 2
+knob  79 (residue 328 = CYS 81:D iCode=' ') type 4 order 2
+knob  80 (residue 332 = ALA 85:D iCode=' ') type 4 order 2
+knob  81 (residue 344 = CYS 101:D iCode=' ') type 4 order 2
+knob  82 (residue 348 = ALA 105:D iCode=' ') type 4 order 2
+knob  83 (residue 351 = CYS 108:D iCode=' ') type 4 order 2
+
+coiled coil  0:  2 helices   0  2	frequency 3
+coiled coil  1:  2 helices   3  4	frequency 3
+coiled coil  2:  2 helices   5  7	frequency 3
+coiled coil  3:  2 helices   8  9	frequency 3
+coiled coil  4:  2 helices  10 12	frequency 3
+coiled coil  5:  2 helices  13 14	frequency 3
+coiled coil  6:  2 helices  15 17	frequency 3
+coiled coil  7:  2 helices  18 19	frequency 3
+
+helix 0 is in a 2-stranded coiled coil
+helix 2 is in a 2-stranded coiled coil
+helix 3 is in a 2-stranded coiled coil
+helix 4 is in a 2-stranded coiled coil
+helix 5 is in a 2-stranded coiled coil
+helix 7 is in a 2-stranded coiled coil
+helix 8 is in a 2-stranded coiled coil
+helix 9 is in a 2-stranded coiled coil
+helix 10 is in a 2-stranded coiled coil
+helix 12 is in a 2-stranded coiled coil
+helix 13 is in a 2-stranded coiled coil
+helix 14 is in a 2-stranded coiled coil
+helix 15 is in a 2-stranded coiled coil
+helix 17 is in a 2-stranded coiled coil
+helix 18 is in a 2-stranded coiled coil
+helix 19 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  0 and  2 is  150.060	antiparallel
+this coiled coil is antiparallel
+
+
+3lmf_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 15 mean 15.00):
+
+
+assigning heptad to helix 0 (X) 8-30:A
+extent of coiled coil packing:  15- 29:A
+sequence DQNLQACIDACNHCYRTCLRXAX
+register        abcdefgabcdefga 
+partner  ------!---Y---Y--Y---Y-
+knobtype ------2---4---3--4---2-
+repeats   0 non-canonical interrupts in  15 residues: 7,7,1
+
+
+assigning heptad to helix 2 (Y) 43-64:A
+extent of coiled coil packing:  49- 63:A
+sequence ADHLRLXXNCAEICQTSLNFXL
+register       defgabcdefgabcd 
+partner  -----!----X-!X---X--X-
+knobtype -----2----4-24---4--2-
+repeats   0 non-canonical interrupts in  15 residues: 4,7,4
+
+
+coiled coil  1:
+	angle between helices  3 and  4 is  151.955	antiparallel
+this coiled coil is antiparallel
+
+
+3lmf_1.mmol  7.0 0 coiled coil (ii) 1 (antiparallel 2-stranded, length max 15 mean 15.00):
+
+
+assigning heptad to helix 3 (X) 70-90:A
+extent of coiled coil packing:  74- 88:A
+sequence SPKVCGVCAEICDACAKSCEQ
+register     defgabcdefgabcd  
+partner  ---!----Y-!Y---Y-----
+knobtype ---2----4-24---4-----
+repeats   0 non-canonical interrupts in  15 residues: 4,7,4
+
+
+assigning heptad to helix 4 (Y) 95-112:A
+extent of coiled coil packing:  98-112:A
+sequence EECVQTCRQCAEHCRKXA
+register    abcdefgabcdefga
+partner  ------X--!X--X----
+knobtype ------4--24--4----
+repeats   0 non-canonical interrupts in  15 residues: 7,7,1
+
+
+coiled coil  2:
+	angle between helices  5 and  7 is  150.060	antiparallel
+this coiled coil is antiparallel
+
+
+3lmf_1.mmol  7.0 0 coiled coil (iii) 2 (antiparallel 2-stranded, length max 15 mean 15.00):
+
+
+assigning heptad to helix 5 (X) 8-30:B
+extent of coiled coil packing:  15- 29:B
+sequence DQNLQACIDACNHCYRTCLRXAX
+register        abcdefgabcdefga 
+partner  ------!---Y---Y--Y---Y-
+knobtype ------2---4---3--4---2-
+repeats   0 non-canonical interrupts in  15 residues: 7,7,1
+
+
+assigning heptad to helix 7 (Y) 43-64:B
+extent of coiled coil packing:  49- 63:B
+sequence ADHLRLXXNCAEICQTSLNFXL
+register       defgabcdefgabcd 
+partner  -----!----X-!X---X--X-
+knobtype -----2----4-24---4--2-
+repeats   0 non-canonical interrupts in  15 residues: 4,7,4
+
+
+coiled coil  3:
+	angle between helices  8 and  9 is  151.955	antiparallel
+this coiled coil is antiparallel
+
+
+3lmf_1.mmol  7.0 0 coiled coil (iv) 3 (antiparallel 2-stranded, length max 15 mean 15.00):
+
+
+assigning heptad to helix 8 (X) 70-90:B
+extent of coiled coil packing:  74- 88:B
+sequence SPKVCGVCAEICDACAKSCEQ
+register     defgabcdefgabcd  
+partner  ---!----Y-!Y---Y-----
+knobtype ---2----4-24---4-----
+repeats   0 non-canonical interrupts in  15 residues: 4,7,4
+
+
+assigning heptad to helix 9 (Y) 95-112:B
+extent of coiled coil packing:  98-112:B
+sequence EECVQTCRQCAEHCRKXA
+register    abcdefgabcdefga
+partner  ------X--!X--X----
+knobtype ------4--24--4----
+repeats   0 non-canonical interrupts in  15 residues: 7,7,1
+
+
+coiled coil  4:
+	angle between helices 10 and 12 is  150.060	antiparallel
+this coiled coil is antiparallel
+
+
+3lmf_1.mmol  7.0 0 coiled coil (v) 4 (antiparallel 2-stranded, length max 15 mean 15.00):
+
+
+assigning heptad to helix 10 (X) 8-30:C
+extent of coiled coil packing:  15- 29:C
+sequence DQNLQACIDACNHCYRTCLRXAX
+register        abcdefgabcdefga 
+partner  ------!---Y---Y--Y---Y-
+knobtype ------2---4---3--4---2-
+repeats   0 non-canonical interrupts in  15 residues: 7,7,1
+
+
+assigning heptad to helix 12 (Y) 43-64:C
+extent of coiled coil packing:  49- 63:C
+sequence ADHLRLXXNCAEICQTSLNFXL
+register       defgabcdefgabcd 
+partner  -----!----X-!X---X--X-
+knobtype -----2----4-24---4--2-
+repeats   0 non-canonical interrupts in  15 residues: 4,7,4
+
+
+coiled coil  5:
+	angle between helices 13 and 14 is  151.954	antiparallel
+this coiled coil is antiparallel
+
+
+3lmf_1.mmol  7.0 0 coiled coil (vi) 5 (antiparallel 2-stranded, length max 15 mean 15.00):
+
+
+assigning heptad to helix 13 (X) 70-90:C
+extent of coiled coil packing:  74- 88:C
+sequence SPKVCGVCAEICDACAKSCEQ
+register     defgabcdefgabcd  
+partner  ---!----Y-!Y---Y-----
+knobtype ---2----4-24---4-----
+repeats   0 non-canonical interrupts in  15 residues: 4,7,4
+
+
+assigning heptad to helix 14 (Y) 95-112:C
+extent of coiled coil packing:  98-112:C
+sequence EECVQTCRQCAEHCRKXA
+register    abcdefgabcdefga
+partner  ------X--!X--X----
+knobtype ------4--24--4----
+repeats   0 non-canonical interrupts in  15 residues: 7,7,1
+
+
+coiled coil  6:
+	angle between helices 15 and 17 is  150.060	antiparallel
+this coiled coil is antiparallel
+
+
+3lmf_1.mmol  7.0 0 coiled coil (vii) 6 (antiparallel 2-stranded, length max 15 mean 15.00):
+
+
+assigning heptad to helix 15 (X) 8-30:D
+extent of coiled coil packing:  15- 29:D
+sequence DQNLQACIDACNHCYRTCLRXAX
+register        abcdefgabcdefga 
+partner  ------!---Y---Y--Y---Y-
+knobtype ------2---4---3--4---2-
+repeats   0 non-canonical interrupts in  15 residues: 7,7,1
+
+
+assigning heptad to helix 17 (Y) 43-64:D
+extent of coiled coil packing:  49- 63:D
+sequence ADHLRLXXNCAEICQTSLNFXL
+register       defgabcdefgabcd 
+partner  -----!----X-!X---X--X-
+knobtype -----2----4-24---4--2-
+repeats   0 non-canonical interrupts in  15 residues: 4,7,4
+
+
+coiled coil  7:
+	angle between helices 18 and 19 is  151.956	antiparallel
+this coiled coil is antiparallel
+
+
+3lmf_1.mmol  7.0 0 coiled coil (viii) 7 (antiparallel 2-stranded, length max 15 mean 15.00):
+
+
+assigning heptad to helix 18 (X) 70-90:D
+extent of coiled coil packing:  74- 88:D
+sequence SPKVCGVCAEICDACAKSCEQ
+register     defgabcdefgabcd  
+partner  ---!----Y-!Y---Y-----
+knobtype ---2----4-24---4-----
+repeats   0 non-canonical interrupts in  15 residues: 4,7,4
+
+
+assigning heptad to helix 19 (Y) 95-112:D
+extent of coiled coil packing:  98-112:D
+sequence EECVQTCRQCAEHCRKXA
+register    abcdefgabcdefga
+partner  ------X--!X--X----
+knobtype ------4--24--4----
+repeats   0 non-canonical interrupts in  15 residues: 7,7,1
+3lmf_1.mmol c  7.00 e 0 result 8 COILED COILS PRESENT
+Finished

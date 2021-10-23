@@ -1,0 +1,123 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/y4/5y4c/structures/5y4c.pdb"
+opened "/fs/ccplus/data/y4/5y4c/structures/5y4c.pdb" (input)
+file name implies standard PDB entry, code 5y4c
+opened "/fs/ccplus/data/y4/5y4c/dssp/5y4c.pdb.dssp" (input)
+opened "/fs/ccplus/data/y4/5y4c/rasmol/5y4c.pdb.70.spt" (output)
+opened "/fs/ccplus/data/y4/5y4c/socket/5y4c.pdb.70.long.socket" (output)
+Found beginning of residue data
+There are 170 alpha-helical residues in this structure
+
+chain A starts at residue   25, iCode=' '
+5 sidechains in contact with residue   71 (MET   138:A, iCode=' ' helix   4)
+residue 71 (MET 138:A) has > 4 contacts; looking for holes
+contacts: 0) VAL 49:A iCode=' '	1) THR 52:A iCode=' '	2) ARG 53:A iCode=' '	3) THR 56:A iCode=' '	4) ASN 57:A iCode=' '	
+- includes hole:
+VAL 49:A iCode=' '	THR 52:A iCode=' '	ARG 53:A iCode=' '	THR 56:A iCode=' '	
+
+5 sidechains in contact with residue  165 (MET   267:A, iCode=' ' helix   7)
+5 sidechains in contact with residue  162 (LEU   264:A, iCode=' ' helix   7)
+5 sidechains in contact with residue  158 (LEU   260:A, iCode=' ' helix   7)
+5 sidechains in contact with residue  151 (LEU   253:A, iCode=' ' helix   7)
+residue 151 (LEU 253:A) has > 4 contacts; looking for holes
+residue 158 (LEU 260:A) has > 4 contacts; looking for holes
+contacts: 0) PHE 193:A iCode=' '	1) ALA 196:A iCode=' '	2) ASN 221:A iCode=' '	3) PHE 222:A iCode=' '	4) VAL 225:A iCode=' '	
+- includes hole:
+ALA 196:A iCode=' '	ASN 221:A iCode=' '	PHE 222:A iCode=' '	VAL 225:A iCode=' '	
+
+residue 162 (LEU 264:A) has > 4 contacts; looking for holes
+contacts: 0) ALA 196:A iCode=' '	1) ILE 199:A iCode=' '	2) VAL 200:A iCode=' '	3) VAL 218:A iCode=' '	4) PHE 222:A iCode=' '	
+- includes hole:
+ALA 196:A iCode=' '	ILE 199:A iCode=' '	VAL 200:A iCode=' '	PHE 222:A iCode=' '	
+
+residue 165 (MET 267:A) has > 4 contacts; looking for holes
+!!!!odd-knob
+!!!!odd-knob
+duplicate knobs:  16, 20
+sets of duplicate knobs:
+ 0)  16  20	are all residue 162 (LEU 264:A, iCode=' ')
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+knobs in helix 3:
+knobs in helix 4:
+knobs in helix 5:
+12) 91 (ALA 163:A, iCode=' ', helix 5) type 4	(hole:  ALA 261:A iCode=' ', LEU 264:A iCode=' ', SER 265:A iCode=' ', ARG 268:A iCode=' ' helix 7) packing angle  135.806
+13) 94 (MET 166:A, iCode=' ', helix 5) type 3	(hole:  VAL 257:A iCode=' ', LEU 260:A iCode=' ', ALA 261:A iCode=' ', LEU 264:A iCode=' ' helix 7) packing angle   61.839
+knobs in helix 6:
+knobs in helix 7:
+15) 159 (ALA 261:A, iCode=' ', helix 7) type 4	(hole:  ALA 163:A iCode=' ', MET 166:A iCode=' ', GLU 167:A iCode=' ', ALA 170:A iCode=' ' helix 5) packing angle  138.010
+16) 162 (LEU 264:A, iCode=' ', helix 7) type 4	(hole:  VAL 159:A iCode=' ', ALA 162:A iCode=' ', ALA 163:A iCode=' ', MET 166:A iCode=' ' helix 5) packing angle   50.685
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+holes in helix 3:
+holes in helix 4:
+holes in helix 5:
+ ALA 163:A iCode=' ', MET 166:A iCode=' ', GLU 167:A iCode=' ', ALA 170:A iCode=' ' (knob: 159 (ALA 261:A, helix 7))
+ VAL 159:A iCode=' ', ALA 162:A iCode=' ', ALA 163:A iCode=' ', MET 166:A iCode=' ' (knob: 162 (LEU 264:A, helix 7))
+holes in helix 6:
+holes in helix 7:
+ ALA 261:A iCode=' ', LEU 264:A iCode=' ', SER 265:A iCode=' ', ARG 268:A iCode=' ' (knob: 91 (ALA 163:A, helix 5))
+ VAL 257:A iCode=' ', LEU 260:A iCode=' ', ALA 261:A iCode=' ', LEU 264:A iCode=' ' (knob: 94 (MET 166:A, helix 5))
+
+knob   0 (residue 24 = PHE 55:A iCode=' ') type 2 order -1
+knob   1 (residue 40 = THR 74:A iCode=' ') type 2 order -1
+knob   2 (residue 43 = SER 77:A iCode=' ') type 2 order -1
+knob   3 (residue 18 = VAL 49:A iCode=' ') type 2 order -1
+knob   4 (residue 71 = MET 138:A iCode=' ') type 2 order -1
+knob   5 (residue 81 = ILE 148:A iCode=' ') type 2 order -1
+knob   6 (residue 54 = PHE 114:A iCode=' ') type 2 order -1
+knob   7 (residue 42 = MET 76:A iCode=' ') type 2 order -1
+knob   8 (residue 49 = LEU 91:A iCode=' ') type 2 order -1
+knob   9 (residue 53 = ILE 95:A iCode=' ') type 2 order -1
+knob  10 (residue 57 = ILE 117:A iCode=' ') type 2 order -1
+knob  11 (residue 87 = VAL 159:A iCode=' ') type 2 order -1
+knob  12 (residue 91 = ALA 163:A iCode=' ') type 4 order 2
+knob  13 (residue 94 = MET 166:A iCode=' ') type 3 order 2
+knob  14 (residue 98 = ALA 170:A iCode=' ') type 2 order -1
+knob  15 (residue 159 = ALA 261:A iCode=' ') type 4 order 2
+knob  16 (residue 162 = LEU 264:A iCode=' ') type 4 order 2
+knob  17 (residue 140 = VAL 225:A iCode=' ') type 2 order -1
+knob  18 (residue 158 = LEU 260:A iCode=' ') type 2 order -1
+knob  19 (residue 161 = ASP 263:A iCode=' ') type 2 order -1
+knob  20 (residue 162 = LEU 264:A iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   5  7	frequency 2
+
+helix 5 is in a 2-stranded coiled coil
+helix 7 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  5 and  7 is  161.255	antiparallel
+this coiled coil is antiparallel
+
+
+5y4c  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 12 mean 12.00):
+
+
+assigning heptad to helix 5 (X) 155-171:A
+extent of coiled coil packing: 159-170:A
+sequence PEKVVGGAAVLMEEVAA
+register     defgabcdefga 
+partner  ----Y---Y--Y---Y-
+knobtype ----2---4--3---2-
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+
+
+assigning heptad to helix 7 (Y) 247-271:A
+extent of coiled coil packing: 257-268:A
+sequence ERDRKVLAGRVNTLAEDLSKMRGLL
+register           defgabcdefga   
+partner  -------------!X-!X-------
+knobtype -------------24-24-------
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+5y4c c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

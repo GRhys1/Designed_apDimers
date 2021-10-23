@@ -1,0 +1,99 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/n9/2n9b/structures/2n9b.pdb"
+opened "/fs/ccplus/data/n9/2n9b/structures/2n9b.pdb" (input)
+file name implies standard PDB entry, code 2n9b
+opened "/fs/ccplus/data/n9/2n9b/dssp/2n9b.pdb.dssp" (input)
+opened "/fs/ccplus/data/n9/2n9b/rasmol/2n9b.pdb.70.spt" (output)
+opened "/fs/ccplus/data/n9/2n9b/socket/2n9b.pdb.70.long.socket" (output)
+Found beginning of residue data
+
+There are 126 alpha-helical residues in this structure
+
+chain A starts at residue  881, iCode=' '
+chain B starts at residue  881, iCode=' '
+ENDMDL card found: implies this is PDB file contains multiple NMR models; all but the first will be ignored
+
+
+These are the knobs and holes:
+
+knobs in helix 0:
+0) 23 (GLN 908:A, iCode=' ', helix 0) type 4	(hole:  LEU 922:B iCode=' ', LYS 925:B iCode=' ', VAL 926:B iCode=' ', LEU 929:B iCode=' ' helix 1) packing angle   63.526
+1) 27 (LEU 912:A, iCode=' ', helix 0) type 4	(hole:  LYS 919:B iCode=' ', LEU 922:B iCode=' ', GLU 923:B iCode=' ', VAL 926:B iCode=' ' helix 1) packing angle  151.247
+2) 30 (ALA 915:A, iCode=' ', helix 0) type 3	(hole:  ALA 915:B iCode=' ', GLN 918:B iCode=' ', LYS 919:B iCode=' ', LEU 922:B iCode=' ' helix 1) packing angle   77.191
+3) 34 (LYS 919:A, iCode=' ', helix 0) type 4	(hole:  LEU 912:B iCode=' ', ALA 915:B iCode=' ', SER 916:B iCode=' ', LYS 919:B iCode=' ' helix 1) packing angle  154.558
+4) 37 (LEU 922:A, iCode=' ', helix 0) type 4	(hole:  GLN 908:B iCode=' ', SER 911:B iCode=' ', LEU 912:B iCode=' ', ALA 915:B iCode=' ' helix 1) packing angle   73.283
+5) 41 (VAL 926:A, iCode=' ', helix 0) type 4	(hole:  LYS 905:B iCode=' ', GLN 908:B iCode=' ', GLU 909:B iCode=' ', LEU 912:B iCode=' ' helix 1) packing angle  135.227
+knobs in helix 1:
+8) 86 (GLN 908:B, iCode=' ', helix 1) type 4	(hole:  LEU 922:A iCode=' ', LYS 925:A iCode=' ', VAL 926:A iCode=' ', LEU 929:A iCode=' ' helix 0) packing angle   63.477
+9) 90 (LEU 912:B, iCode=' ', helix 1) type 4	(hole:  LYS 919:A iCode=' ', LEU 922:A iCode=' ', GLU 923:A iCode=' ', VAL 926:A iCode=' ' helix 0) packing angle  151.530
+10) 93 (ALA 915:B, iCode=' ', helix 1) type 3	(hole:  ALA 915:A iCode=' ', GLN 918:A iCode=' ', LYS 919:A iCode=' ', LEU 922:A iCode=' ' helix 0) packing angle   77.518
+11) 97 (LYS 919:B, iCode=' ', helix 1) type 4	(hole:  LEU 912:A iCode=' ', ALA 915:A iCode=' ', SER 916:A iCode=' ', LYS 919:A iCode=' ' helix 0) packing angle  154.436
+12) 100 (LEU 922:B, iCode=' ', helix 1) type 4	(hole:  GLN 908:A iCode=' ', SER 911:A iCode=' ', LEU 912:A iCode=' ', ALA 915:A iCode=' ' helix 0) packing angle   72.784
+13) 104 (VAL 926:B, iCode=' ', helix 1) type 4	(hole:  LYS 905:A iCode=' ', GLN 908:A iCode=' ', GLU 909:A iCode=' ', LEU 912:A iCode=' ' helix 0) packing angle  135.059
+holes in helix 0:
+ LEU 922:A iCode=' ', LYS 925:A iCode=' ', VAL 926:A iCode=' ', LEU 929:A iCode=' ' (knob: 86 (GLN 908:B, helix 1))
+ LYS 919:A iCode=' ', LEU 922:A iCode=' ', GLU 923:A iCode=' ', VAL 926:A iCode=' ' (knob: 90 (LEU 912:B, helix 1))
+ ALA 915:A iCode=' ', GLN 918:A iCode=' ', LYS 919:A iCode=' ', LEU 922:A iCode=' ' (knob: 93 (ALA 915:B, helix 1))
+ LEU 912:A iCode=' ', ALA 915:A iCode=' ', SER 916:A iCode=' ', LYS 919:A iCode=' ' (knob: 97 (LYS 919:B, helix 1))
+ GLN 908:A iCode=' ', SER 911:A iCode=' ', LEU 912:A iCode=' ', ALA 915:A iCode=' ' (knob: 100 (LEU 922:B, helix 1))
+ LYS 905:A iCode=' ', GLN 908:A iCode=' ', GLU 909:A iCode=' ', LEU 912:A iCode=' ' (knob: 104 (VAL 926:B, helix 1))
+holes in helix 1:
+ LEU 922:B iCode=' ', LYS 925:B iCode=' ', VAL 926:B iCode=' ', LEU 929:B iCode=' ' (knob: 23 (GLN 908:A, helix 0))
+ LYS 919:B iCode=' ', LEU 922:B iCode=' ', GLU 923:B iCode=' ', VAL 926:B iCode=' ' (knob: 27 (LEU 912:A, helix 0))
+ ALA 915:B iCode=' ', GLN 918:B iCode=' ', LYS 919:B iCode=' ', LEU 922:B iCode=' ' (knob: 30 (ALA 915:A, helix 0))
+ LEU 912:B iCode=' ', ALA 915:B iCode=' ', SER 916:B iCode=' ', LYS 919:B iCode=' ' (knob: 34 (LYS 919:A, helix 0))
+ GLN 908:B iCode=' ', SER 911:B iCode=' ', LEU 912:B iCode=' ', ALA 915:B iCode=' ' (knob: 37 (LEU 922:A, helix 0))
+ LYS 905:B iCode=' ', GLN 908:B iCode=' ', GLU 909:B iCode=' ', LEU 912:B iCode=' ' (knob: 41 (VAL 926:A, helix 0))
+
+knob   0 (residue 23 = GLN 908:A iCode=' ') type 4 order 2
+knob   1 (residue 27 = LEU 912:A iCode=' ') type 4 order 2
+knob   2 (residue 30 = ALA 915:A iCode=' ') type 3 order 2
+knob   3 (residue 34 = LYS 919:A iCode=' ') type 4 order 2
+knob   4 (residue 37 = LEU 922:A iCode=' ') type 4 order 2
+knob   5 (residue 41 = VAL 926:A iCode=' ') type 4 order 2
+knob   6 (residue 58 = LEU 943:A iCode=' ') type 1 order -1
+knob   7 (residue 59 = LYS 944:A iCode=' ') type 2 order -1
+knob   8 (residue 86 = GLN 908:B iCode=' ') type 4 order 2
+knob   9 (residue 90 = LEU 912:B iCode=' ') type 4 order 2
+knob  10 (residue 93 = ALA 915:B iCode=' ') type 3 order 2
+knob  11 (residue 97 = LYS 919:B iCode=' ') type 4 order 2
+knob  12 (residue 100 = LEU 922:B iCode=' ') type 4 order 2
+knob  13 (residue 104 = VAL 926:B iCode=' ') type 4 order 2
+knob  14 (residue 121 = LEU 943:B iCode=' ') type 1 order -1
+knob  15 (residue 122 = LYS 944:B iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   0  1	frequency 6
+
+helix 0 is in a 2-stranded coiled coil
+helix 1 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  0 and  1 is  166.264	antiparallel
+this coiled coil is antiparallel
+
+
+2n9b  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 25 mean 25.00):
+
+
+assigning heptad to helix 0 (X) 885-947:A
+extent of coiled coil packing: 905-929:A
+sequence NKQVEEILRLEKEIEDLQRMKERQELSLTEASLQKLQLEDKVEELLSKNYHLENEVARLKKLV
+register                     abcdefgabcdefgabcdefgabcd                  
+partner  -----------------------Y---Y--Y---Y--Y---Y----------------YY---
+knobtype -----------------------4---4--3---4--4---4----------------12---
+repeats   0 non-canonical interrupts in  25 residues: 7,7,7,4
+
+
+assigning heptad to helix 1 (Y) 885-947:B
+extent of coiled coil packing: 905-929:B
+sequence NKQVEEILRLEKEIEDLQRMKERQELSLTEASLQKLQLEDKVEELLSKNYHLENEVARLKKLV
+register                     abcdefgabcdefgabcdefgabcd                  
+partner  -----------------------X---X--X---X--X---X----------------XX---
+knobtype -----------------------4---4--3---4--4---4----------------12---
+repeats   0 non-canonical interrupts in  25 residues: 7,7,7,4
+2n9b c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

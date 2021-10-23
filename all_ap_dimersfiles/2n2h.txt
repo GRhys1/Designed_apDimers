@@ -1,0 +1,83 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/n2/2n2h/structures/2n2h.pdb"
+opened "/fs/ccplus/data/n2/2n2h/structures/2n2h.pdb" (input)
+file name implies standard PDB entry, code 2n2h
+opened "/fs/ccplus/data/n2/2n2h/dssp/2n2h.pdb.dssp" (input)
+opened "/fs/ccplus/data/n2/2n2h/rasmol/2n2h.pdb.70.spt" (output)
+opened "/fs/ccplus/data/n2/2n2h/socket/2n2h.pdb.70.long.socket" (output)
+Found beginning of residue data
+
+There are 96 alpha-helical residues in this structure
+
+chain A starts at residue  202, iCode=' '
+chain B starts at residue  605, iCode=' '
+ENDMDL card found: implies this is PDB file contains multiple NMR models; all but the first will be ignored
+
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+0) 26 (ILE 631:B, iCode=' ', helix 1) type 4	(hole:  LEU 697:B iCode=' ', LEU 700:B iCode=' ', LYS 701:B iCode=' ', GLU 704:B iCode=' ' helix 5) packing angle  134.955
+1) 29 (LEU 634:B, iCode=' ', helix 1) type 4	(hole:  VAL 693:B iCode=' ', VAL 696:B iCode=' ', LEU 697:B iCode=' ', LEU 700:B iCode=' ' helix 5) packing angle   55.595
+knobs in helix 2:
+knobs in helix 3:
+knobs in helix 4:
+knobs in helix 5:
+3) 70 (LEU 697:B, iCode=' ', helix 5) type 4	(hole:  ILE 631:B iCode=' ', LEU 634:B iCode=' ', GLU 635:B iCode=' ', GLN 638:B iCode=' ' helix 1) packing angle  124.165
+4) 73 (LEU 700:B, iCode=' ', helix 5) type 4	(hole:  ASN 627:B iCode=' ', THR 630:B iCode=' ', ILE 631:B iCode=' ', LEU 634:B iCode=' ' helix 1) packing angle   57.226
+knobs in helix 6:
+holes in helix 0:
+holes in helix 1:
+ ILE 631:B iCode=' ', LEU 634:B iCode=' ', GLU 635:B iCode=' ', GLN 638:B iCode=' ' (knob: 70 (LEU 697:B, helix 5))
+ ASN 627:B iCode=' ', THR 630:B iCode=' ', ILE 631:B iCode=' ', LEU 634:B iCode=' ' (knob: 73 (LEU 700:B, helix 5))
+holes in helix 2:
+holes in helix 3:
+holes in helix 4:
+holes in helix 5:
+ LEU 697:B iCode=' ', LEU 700:B iCode=' ', LYS 701:B iCode=' ', GLU 704:B iCode=' ' (knob: 26 (ILE 631:B, helix 1))
+ VAL 693:B iCode=' ', VAL 696:B iCode=' ', LEU 697:B iCode=' ', LEU 700:B iCode=' ' (knob: 29 (LEU 634:B, helix 1))
+holes in helix 6:
+
+knob   0 (residue 26 = ILE 631:B iCode=' ') type 4 order 2
+knob   1 (residue 29 = LEU 634:B iCode=' ') type 4 order 2
+knob   2 (residue 66 = VAL 693:B iCode=' ') type 2 order -1
+knob   3 (residue 70 = LEU 697:B iCode=' ') type 4 order 2
+knob   4 (residue 73 = LEU 700:B iCode=' ') type 4 order 2
+knob   5 (residue 50 = LEU 670:B iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   1  5	frequency 2
+
+helix 1 is in a 2-stranded coiled coil
+helix 5 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  1 and  5 is  152.542	antiparallel
+this coiled coil is antiparallel
+
+
+2n2h  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 12 mean 12.00):
+
+
+assigning heptad to helix 1 (X) 616-641:B
+extent of coiled coil packing: 627-638:B
+sequence ERFELDVVLETNLATIRVLEAIQKKL
+register            defgabcdefga   
+partner  ---------------Y--Y-------
+knobtype ---------------4--4-------
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+
+
+assigning heptad to helix 5 (Y) 689-713:B
+extent of coiled coil packing: 693-704:B
+sequence PSIAVPIVLKRLKMKEEEWREAQRG
+register     defgabcdefga         
+partner  ----X---X--X-------------
+knobtype ----2---4--4-------------
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+2n2h c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

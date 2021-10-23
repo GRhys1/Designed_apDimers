@@ -1,0 +1,19 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/k5/4k5y/structures/4k5y_1.mmol"
+opened "/fs/ccplus/data/k5/4k5y/structures/4k5y_1.mmol" (input)
+opened "/fs/ccplus/data/k5/4k5y/dssp/4k5y_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/k5/4k5y/rasmol/4k5y_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/k5/4k5y/socket/4k5y_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+!!! WARNING: NON-INCREMENTAL SEQUENCE: 1161:A, iCode=' ' PRECEDES 224:A, iCode=' '
+
+There are 311 alpha-helical residues in this structure
+
+chain A starts at residue  115, iCode=' '
+DSSP file doesnt match PDB file: residue (197) 239:A iCode=' '
+	DSSP 3 ("Asp") v PDB 13 ("Pro"; original "PRO")
+DSSP file doesnt match PDB file:
+	DSSP: residue 197) 239 iCode=' ' chain A is D (Asp)
+	PDB:  residue 197) 239 iCode=' ' chain A is P (PRO)

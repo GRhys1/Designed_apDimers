@@ -1,0 +1,97 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/a3/5a3p/structures/5a3p.pdb"
+opened "/fs/ccplus/data/a3/5a3p/structures/5a3p.pdb" (input)
+file name implies standard PDB entry, code 5a3p
+opened "/fs/ccplus/data/a3/5a3p/dssp/5a3p.pdb.dssp" (input)
+opened "/fs/ccplus/data/a3/5a3p/rasmol/5a3p.pdb.70.spt" (output)
+opened "/fs/ccplus/data/a3/5a3p/socket/5a3p.pdb.70.long.socket" (output)
+Found beginning of residue data
+
+
+There are 140 alpha-helical residues in this structure
+
+chain A starts at residue   -1, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+knobs in helix 3:
+knobs in helix 4:
+knobs in helix 5:
+knobs in helix 6:
+knobs in helix 7:
+knobs in helix 8:
+knobs in helix 9:
+knobs in helix 10:
+knobs in helix 11:
+3) 105 (GLN 652:A, iCode=' ', helix 11) type 4	(hole:  MET 745:A iCode=' ', LEU 748:A iCode=' ', LYS 749:A iCode=' ', ALA 752:A iCode=' ' helix 12) packing angle  136.826
+4) 108 (MET 655:A, iCode=' ', helix 11) type 4	(hole:  LEU 741:A iCode=' ', MET 744:A iCode=' ', MET 745:A iCode=' ', LEU 748:A iCode=' ' helix 12) packing angle   52.262
+knobs in helix 12:
+7) 132 (MET 745:A, iCode=' ', helix 12) type 4	(hole:  GLN 652:A iCode=' ', MET 655:A iCode=' ', ALA 656:A iCode=' ', ILE 659:A iCode=' ' helix 11) packing angle  135.294
+8) 135 (LEU 748:A, iCode=' ', helix 12) type 4	(hole:  ALA 648:A iCode=' ', VAL 651:A iCode=' ', GLN 652:A iCode=' ', MET 655:A iCode=' ' helix 11) packing angle   68.292
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+holes in helix 3:
+holes in helix 4:
+holes in helix 5:
+holes in helix 6:
+holes in helix 7:
+holes in helix 8:
+holes in helix 9:
+holes in helix 10:
+holes in helix 11:
+ GLN 652:A iCode=' ', MET 655:A iCode=' ', ALA 656:A iCode=' ', ILE 659:A iCode=' ' (knob: 132 (MET 745:A, helix 12))
+ ALA 648:A iCode=' ', VAL 651:A iCode=' ', GLN 652:A iCode=' ', MET 655:A iCode=' ' (knob: 135 (LEU 748:A, helix 12))
+holes in helix 12:
+ MET 745:A iCode=' ', LEU 748:A iCode=' ', LYS 749:A iCode=' ', ALA 752:A iCode=' ' (knob: 105 (GLN 652:A, helix 11))
+ LEU 741:A iCode=' ', MET 744:A iCode=' ', MET 745:A iCode=' ', LEU 748:A iCode=' ' (knob: 108 (MET 655:A, helix 11))
+
+knob   0 (residue 75 = LEU 608:A iCode=' ') type 1 order -1
+knob   1 (residue 79 = ARG 612:A iCode=' ') type 2 order -1
+knob   2 (residue 93 = ILE 633:A iCode=' ') type 2 order -1
+knob   3 (residue 105 = GLN 652:A iCode=' ') type 4 order 2
+knob   4 (residue 108 = MET 655:A iCode=' ') type 4 order 2
+knob   5 (residue 112 = ILE 659:A iCode=' ') type 2 order -1
+knob   6 (residue 125 = LEU 738:A iCode=' ') type 2 order -1
+knob   7 (residue 132 = MET 745:A iCode=' ') type 4 order 2
+knob   8 (residue 135 = LEU 748:A iCode=' ') type 4 order 2
+knob   9 (residue 139 = ALA 752:A iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices  11 12	frequency 2
+
+helix 11 is in a 2-stranded coiled coil
+helix 12 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices 11 and 12 is  163.461	antiparallel
+this coiled coil is antiparallel
+
+
+5a3p  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 12 mean 12.00):
+
+
+assigning heptad to helix 11 (X) 645-671:A
+extent of coiled coil packing: 648-659:A
+sequence VVVASTVQKDMAIMIEDEKALRETVRK
+register    defgabcdefga            
+partner  -------Y--Y---Y------------
+knobtype -------4--4---2------------
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+
+
+assigning heptad to helix 12 (Y) 738-752:A
+extent of coiled coil packing: 741-752:A
+sequence LDDLYPMMNALKLRA
+register    defgabcdefga
+partner  X------X--X---X
+knobtype 2------4--4---2
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+5a3p c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

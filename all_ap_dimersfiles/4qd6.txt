@@ -1,0 +1,95 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/qd/4qd6/structures/4qd6_1.mmol"
+opened "/fs/ccplus/data/qd/4qd6/structures/4qd6_1.mmol" (input)
+opened "/fs/ccplus/data/qd/4qd6/dssp/4qd6_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/qd/4qd6/rasmol/4qd6_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/qd/4qd6/socket/4qd6_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+
+There are 89 alpha-helical residues in this structure
+
+chain A starts at residue  355, iCode=' '
+5 sidechains in contact with residue   24 (CYS   463:A, iCode=' ' helix   2)
+residue 24 (CYS 463:A) has > 4 contacts; looking for holes
+contacts: 0) PHE 544:A iCode=' '	1) LEU 547:A iCode=' '	2) MET 548:A iCode=' '	3) VAL 551:A iCode=' '	4) PHE 552:A iCode=' '	
+- includes hole:
+PHE 544:A iCode=' '	LEU 547:A iCode=' '	MET 548:A iCode=' '	VAL 551:A iCode=' '	
+
+duplicate knobs:   5,  9
+sets of duplicate knobs:
+ 0)   5   9	are all residue 76 (PHE 605:A, iCode=' ')
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+3) 25 (LEU 464:A, iCode=' ', helix 2) type 4	(hole:  LEU 609:A iCode=' ', LEU 612:A iCode=' ', ALA 613:A iCode=' ', ALA 616:A iCode=' ' helix 7) packing angle  136.783
+4) 28 (CYS 467:A, iCode=' ', helix 2) type 4	(hole:  PHE 605:A iCode=' ', LEU 608:A iCode=' ', LEU 609:A iCode=' ', LEU 612:A iCode=' ' helix 7) packing angle   73.253
+knobs in helix 3:
+knobs in helix 4:
+knobs in helix 5:
+knobs in helix 6:
+knobs in helix 7:
+6) 80 (LEU 609:A, iCode=' ', helix 7) type 4	(hole:  LEU 464:A iCode=' ', CYS 467:A iCode=' ', GLU 468:A iCode=' ', ALA 471:A iCode=' ' helix 2) packing angle  137.808
+7) 83 (LEU 612:A, iCode=' ', helix 7) type 4	(hole:  LEU 460:A iCode=' ', CYS 463:A iCode=' ', LEU 464:A iCode=' ', CYS 467:A iCode=' ' helix 2) packing angle   56.590
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+ LEU 464:A iCode=' ', CYS 467:A iCode=' ', GLU 468:A iCode=' ', ALA 471:A iCode=' ' (knob: 80 (LEU 609:A, helix 7))
+ LEU 460:A iCode=' ', CYS 463:A iCode=' ', LEU 464:A iCode=' ', CYS 467:A iCode=' ' (knob: 83 (LEU 612:A, helix 7))
+holes in helix 3:
+holes in helix 4:
+holes in helix 5:
+holes in helix 6:
+holes in helix 7:
+ LEU 609:A iCode=' ', LEU 612:A iCode=' ', ALA 613:A iCode=' ', ALA 616:A iCode=' ' (knob: 25 (LEU 464:A, helix 2))
+ PHE 605:A iCode=' ', LEU 608:A iCode=' ', LEU 609:A iCode=' ', LEU 612:A iCode=' ' (knob: 28 (CYS 467:A, helix 2))
+
+knob   0 (residue 24 = CYS 463:A iCode=' ') type 2 order -1
+knob   1 (residue 48 = PHE 544:A iCode=' ') type 2 order -1
+knob   2 (residue 56 = PHE 552:A iCode=' ') type 2 order -1
+knob   3 (residue 25 = LEU 464:A iCode=' ') type 4 order 2
+knob   4 (residue 28 = CYS 467:A iCode=' ') type 4 order 2
+knob   5 (residue 76 = PHE 605:A iCode=' ') type 2 order -1
+knob   6 (residue 80 = LEU 609:A iCode=' ') type 4 order 2
+knob   7 (residue 83 = LEU 612:A iCode=' ') type 4 order 2
+knob   8 (residue 52 = MET 548:A iCode=' ') type 2 order -1
+knob   9 (residue 76 = PHE 605:A iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   2  7	frequency 2
+
+helix 2 is in a 2-stranded coiled coil
+helix 7 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  2 and  7 is  135.855	antiparallel
+this coiled coil is antiparallel
+
+
+4qd6_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 12 mean 12.00):
+
+
+assigning heptad to helix 2 (X) 456-475:A
+extent of coiled coil packing: 460-471:A
+sequence AETLLGMCLDVCEGMAYLEE
+register     defgabcdefga    
+partner  -------!Y--Y--------
+knobtype -------24--4--------
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+
+
+assigning heptad to helix 7 (Y) 605-617:A
+extent of coiled coil packing: 605-616:A
+sequence FSRLLRQLAEIAE
+register defgabcdefga 
+partner  X---X--X-----
+knobtype 2---4--4-----
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+4qd6_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

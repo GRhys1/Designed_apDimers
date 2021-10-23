@@ -1,0 +1,55 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/l0/4l00/structures/4l00_1.mmol"
+opened "/fs/ccplus/data/l0/4l00/structures/4l00_1.mmol" (input)
+opened "/fs/ccplus/data/l0/4l00/dssp/4l00_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/l0/4l00/rasmol/4l00_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/l0/4l00/socket/4l00_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+There are 103 alpha-helical residues in this structure
+
+chain A starts at residue  564, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+knobs in helix 3:
+1) 39 (ALA 699:A, iCode=' ', helix 3) type 4	(hole:  PHE 838:A iCode=' ', ILE 841:A iCode=' ', MET 842:A iCode=' ', ILE 845:A iCode=' ' helix 9) packing angle   79.515
+knobs in helix 4:
+knobs in helix 5:
+knobs in helix 6:
+knobs in helix 7:
+knobs in helix 8:
+knobs in helix 9:
+3) 96 (MET 842:A, iCode=' ', helix 9) type 4	(hole:  LYS 696:A iCode=' ', ALA 699:A iCode=' ', SER 700:A iCode=' ', SER 703:A iCode=' ' helix 3) packing angle  147.177
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+holes in helix 3:
+ LYS 696:A iCode=' ', ALA 699:A iCode=' ', SER 700:A iCode=' ', SER 703:A iCode=' ' (knob: 96 (MET 842:A, helix 9))
+holes in helix 4:
+holes in helix 5:
+holes in helix 6:
+holes in helix 7:
+holes in helix 8:
+holes in helix 9:
+ PHE 838:A iCode=' ', ILE 841:A iCode=' ', MET 842:A iCode=' ', ILE 845:A iCode=' ' (knob: 39 (ALA 699:A, helix 3))
+
+knob   0 (residue 64 = PHE 779:A iCode=' ') type 2 order -1
+knob   1 (residue 39 = ALA 699:A iCode=' ') type 4 order 2
+knob   2 (residue 92 = PHE 838:A iCode=' ') type 2 order -1
+knob   3 (residue 96 = MET 842:A iCode=' ') type 4 order 2
+knob   4 (residue 99 = ILE 845:A iCode=' ') type 2 order -1
+knob   5 (residue 68 = LEU 783:A iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   3  9	frequency 1 IGNORING
+
+helix 3 is in a 2-stranded coiled coil
+helix 9 is in a 2-stranded coiled coil
+
+4l00_1.mmol c  7.00 e 0 result NO COILED COILS (but 1 helix pairs have a single complementary knob in hole interaction)
+Finished

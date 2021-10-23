@@ -1,0 +1,121 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/fm/5fm3/structures/5fm3.pdb"
+opened "/fs/ccplus/data/fm/5fm3/structures/5fm3.pdb" (input)
+file name implies standard PDB entry, code 5fm3
+opened "/fs/ccplus/data/fm/5fm3/dssp/5fm3.pdb.dssp" (input)
+opened "/fs/ccplus/data/fm/5fm3/rasmol/5fm3.pdb.70.spt" (output)
+opened "/fs/ccplus/data/fm/5fm3/socket/5fm3.pdb.70.long.socket" (output)
+Found beginning of residue data
+
+There are 96 alpha-helical residues in this structure
+
+MODRES record specifies previously unlisted residue "Ptr" (O-PHOSPHOTYROSINE                                  
+);
+	- will treat Ptr as TYR
+Ptr added to list; treating as amino acid (20), Tyr
+MODRES record specifies Ptr; will treat as Tyr
+MODRES record specifies Sep; will treat as Ser
+MODRES record specifies Ptr; will treat as Tyr
+chain A starts at residue  707, iCode=' '
+residue 47 (ASP 925:A iCode=' ') has no 'end' atoms
+
+Using atom 390 (ASP 925A iCode=' '  CB ) as end atom for this residue
+residue 65 (GLU 958:A iCode=' ') has no 'end' atoms
+
+Using atom 535 (GLU 958A iCode=' '  CB ) as end atom for this residue
+residue 66 (ARG 959:A iCode=' ') has no 'end' atoms
+
+Using atom 540 (ARG 959A iCode=' '  CB ) as end atom for this residue
+residue 69 (ASN 962:A iCode=' ') has no 'end' atoms
+
+Using atom 564 (ASN 962A iCode=' '  CB ) as end atom for this residue
+residue 72 (LYS 965:A iCode=' ') has no 'end' atoms
+
+Using atom 585 (LYS 965A iCode=' '  CB ) as end atom for this residue
+residue 73 (GLU 978:A iCode=' ') has no 'end' atoms
+
+Using atom 590 (GLU 978A iCode=' '  CB ) as end atom for this residue
+residue 74 (GLU 979:A iCode=' ') has no 'end' atoms
+
+Using atom 595 (GLU 979A iCode=' '  CB ) as end atom for this residue
+residue 77 (ARG 982:A iCode=' ') has no 'end' atoms
+
+Using atom 620 (ARG 982A iCode=' '  CB ) as end atom for this residue
+residue 88 (LYS 1003:A iCode=' ') has no 'end' atoms
+
+Using atom 702 (LYS 1003A iCode=' '  CB ) as end atom for this residue
+residue 92 (LYS 1007:A iCode=' ') has no 'end' atoms
+
+Using atom 732 (LYS 1007A iCode=' '  CB ) as end atom for this residue
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+1) 30 (TRP 856:A, iCode=' ', helix 2) type 4	(hole:  SER 1002:A iCode=' ', LEU 1005:A iCode=' ', GLU 1006:A iCode=' ', MET 1009:A iCode=' ' helix 7) packing angle  145.007
+2) 33 (SER 859:A, iCode=' ', helix 2) type 4	(hole:  PHE 998:A iCode=' ', ILE 1001:A iCode=' ', SER 1002:A iCode=' ', LEU 1005:A iCode=' ' helix 7) packing angle   74.968
+knobs in helix 3:
+knobs in helix 4:
+knobs in helix 5:
+knobs in helix 6:
+knobs in helix 7:
+3) 87 (SER 1002:A, iCode=' ', helix 7) type 4	(hole:  TRP 856:A iCode=' ', SER 859:A iCode=' ', GLN 860:A iCode=' ', GLN 863:A iCode=' ' helix 2) packing angle  150.681
+4) 90 (LEU 1005:A, iCode=' ', helix 7) type 4	(hole:  ILE 852:A iCode=' ', ALA 855:A iCode=' ', TRP 856:A iCode=' ', SER 859:A iCode=' ' helix 2) packing angle   63.615
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+ TRP 856:A iCode=' ', SER 859:A iCode=' ', GLN 860:A iCode=' ', GLN 863:A iCode=' ' (knob: 87 (SER 1002:A, helix 7))
+ ILE 852:A iCode=' ', ALA 855:A iCode=' ', TRP 856:A iCode=' ', SER 859:A iCode=' ' (knob: 90 (LEU 1005:A, helix 7))
+holes in helix 3:
+holes in helix 4:
+holes in helix 5:
+holes in helix 6:
+holes in helix 7:
+ SER 1002:A iCode=' ', LEU 1005:A iCode=' ', GLU 1006:A iCode=' ', MET 1009:A iCode=' ' (knob: 30 (TRP 856:A, helix 2))
+ PHE 998:A iCode=' ', ILE 1001:A iCode=' ', SER 1002:A iCode=' ', LEU 1005:A iCode=' ' (knob: 33 (SER 859:A, helix 2))
+
+knob   0 (residue 55 = PHE 937:A iCode=' ') type 2 order -1
+knob   1 (residue 30 = TRP 856:A iCode=' ') type 4 order 2
+knob   2 (residue 33 = SER 859:A iCode=' ') type 4 order 2
+knob   3 (residue 87 = SER 1002:A iCode=' ') type 4 order 2
+knob   4 (residue 90 = LEU 1005:A iCode=' ') type 4 order 2
+knob   5 (residue 59 = LEU 941:A iCode=' ') type 2 order -1
+knob   6 (residue 83 = PHE 998:A iCode=' ') type 2 order -1
+knob   7 (residue 78 = LEU 983:A iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   2  7	frequency 2
+
+helix 2 is in a 2-stranded coiled coil
+helix 7 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  2 and  7 is  142.166	antiparallel
+this coiled coil is antiparallel
+
+
+5fm3  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 12 mean 12.00):
+
+
+assigning heptad to helix 2 (X) 848-867:A
+extent of coiled coil packing: 852-863:A
+sequence MGDLISFAWQISQGMQYLAE
+register     defgabcdefga    
+partner  --------Y--Y--------
+knobtype --------4--4--------
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+
+
+assigning heptad to helix 7 (Y) 998-1010:A
+extent of coiled coil packing: 998-1009:A
+sequence FADISKDLEKMMV
+register defgabcdefga 
+partner  !---X--X-----
+knobtype 2---4--4-----
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+5fm3 c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

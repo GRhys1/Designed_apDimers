@@ -1,0 +1,87 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/wh/3whj/structures/3whj_1.mmol"
+opened "/fs/ccplus/data/wh/3whj/structures/3whj_1.mmol" (input)
+opened "/fs/ccplus/data/wh/3whj/dssp/3whj_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/wh/3whj/rasmol/3whj_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/wh/3whj/socket/3whj_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+There are 80 alpha-helical residues in this structure
+
+chain A starts at residue    1, iCode=' '
+5 sidechains in contact with residue   65 (LEU    96:A, iCode=' ' helix   3)
+residue 65 (LEU 96:A) has > 4 contacts; looking for holes
+contacts: 0) LEU 34:A iCode=' '	1) MET 35:A iCode=' '	2) LEU 37:A iCode=' '	3) LYS 38:A iCode=' '	4) ILE 41:A iCode=' '	
+- includes hole:
+LEU 34:A iCode=' '	LEU 37:A iCode=' '	LYS 38:A iCode=' '	ILE 41:A iCode=' '	
+
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+2) 28 (ILE 41:A, iCode=' ', helix 2) type 4	(hole:  LEU 89:A iCode=' ', ASP 92:A iCode=' ', LEU 93:A iCode=' ', LEU 96:A iCode=' ' helix 3) packing angle   73.584
+3) 32 (LEU 45:A, iCode=' ', helix 2) type 4	(hole:  VAL 86:A iCode=' ', LEU 89:A iCode=' ', LYS 90:A iCode=' ', LEU 93:A iCode=' ' helix 3) packing angle  149.084
+4) 35 (TYR 48:A, iCode=' ', helix 2) type 4	(hole:  ILE 82:A iCode=' ', ASN 85:A iCode=' ', VAL 86:A iCode=' ', LEU 89:A iCode=' ' helix 3) packing angle   80.796
+knobs in helix 3:
+6) 55 (VAL 86:A, iCode=' ', helix 3) type 4	(hole:  LEU 45:A iCode=' ', TYR 48:A iCode=' ', PHE 49:A iCode=' ', LEU 52:A iCode=' ' helix 2) packing angle  147.496
+7) 58 (LEU 89:A, iCode=' ', helix 3) type 4	(hole:  ILE 41:A iCode=' ', GLN 44:A iCode=' ', LEU 45:A iCode=' ', TYR 48:A iCode=' ' helix 2) packing angle   70.496
+8) 62 (LEU 93:A, iCode=' ', helix 3) type 4	(hole:  LYS 38:A iCode=' ', ILE 41:A iCode=' ', GLU 42:A iCode=' ', LEU 45:A iCode=' ' helix 2) packing angle  146.588
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+ LEU 45:A iCode=' ', TYR 48:A iCode=' ', PHE 49:A iCode=' ', LEU 52:A iCode=' ' (knob: 55 (VAL 86:A, helix 3))
+ ILE 41:A iCode=' ', GLN 44:A iCode=' ', LEU 45:A iCode=' ', TYR 48:A iCode=' ' (knob: 58 (LEU 89:A, helix 3))
+ LYS 38:A iCode=' ', ILE 41:A iCode=' ', GLU 42:A iCode=' ', LEU 45:A iCode=' ' (knob: 62 (LEU 93:A, helix 3))
+holes in helix 3:
+ LEU 89:A iCode=' ', ASP 92:A iCode=' ', LEU 93:A iCode=' ', LEU 96:A iCode=' ' (knob: 28 (ILE 41:A, helix 2))
+ VAL 86:A iCode=' ', LEU 89:A iCode=' ', LYS 90:A iCode=' ', LEU 93:A iCode=' ' (knob: 32 (LEU 45:A, helix 2))
+ ILE 82:A iCode=' ', ASN 85:A iCode=' ', VAL 86:A iCode=' ', LEU 89:A iCode=' ' (knob: 35 (TYR 48:A, helix 2))
+
+knob   0 (residue 18 = LEU 31:A iCode=' ') type 2 order -1
+knob   1 (residue 21 = LEU 34:A iCode=' ') type 2 order -1
+knob   2 (residue 28 = ILE 41:A iCode=' ') type 4 order 2
+knob   3 (residue 32 = LEU 45:A iCode=' ') type 4 order 2
+knob   4 (residue 35 = TYR 48:A iCode=' ') type 4 order 2
+knob   5 (residue 39 = LEU 52:A iCode=' ') type 2 order -1
+knob   6 (residue 55 = VAL 86:A iCode=' ') type 4 order 2
+knob   7 (residue 58 = LEU 89:A iCode=' ') type 4 order 2
+knob   8 (residue 62 = LEU 93:A iCode=' ') type 4 order 2
+knob   9 (residue 65 = LEU 96:A iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   2  3	frequency 3
+
+helix 2 is in a 2-stranded coiled coil
+helix 3 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  2 and  3 is  160.707	antiparallel
+this coiled coil is antiparallel
+
+
+3whj_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 15 mean 15.00):
+
+
+assigning heptad to helix 2 (X) 31-54:A
+extent of coiled coil packing:  38- 52:A
+sequence LSELMVLKTDIETQLEAYFSVLEQ
+register        abcdefgabcdefga  
+partner  Y--Y------Y---Y--Y---Y--
+knobtype 2--2------4---4--4---2--
+repeats   0 non-canonical interrupts in  15 residues: 7,7,1
+
+
+assigning heptad to helix 3 (Y) 73-110:A
+extent of coiled coil packing:  82- 96:A
+sequence DVDVLQVTMIRKNVNMLKNDLNHLLQRSHVLLNQHFDN
+register          defgabcdefgabcd              
+partner  -------------X--X---X--X--------------
+knobtype -------------4--4---4--2--------------
+repeats   0 non-canonical interrupts in  15 residues: 4,7,4
+3whj_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

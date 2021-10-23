@@ -1,0 +1,105 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/qk/3qku/structures/3qku_1.mmol"
+opened "/fs/ccplus/data/qk/3qku/structures/3qku_1.mmol" (input)
+opened "/fs/ccplus/data/qk/3qku/dssp/3qku_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/qk/3qku/rasmol/3qku_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/qk/3qku/socket/3qku_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+There are 156 alpha-helical residues in this structure
+
+chain A starts at residue    1, iCode=' '
+chain C starts at residue  348, iCode=' '
+residue 140 (LEU 356:C iCode=' ') has no 'end' atoms
+
+Using atom 1157 (LEU 356C iCode=' '  CB ) as end atom for this residue
+5 sidechains in contact with residue  103 (GLU   758:A, iCode=' ' helix   7)
+residue 103 (GLU 758:A) has > 4 contacts; looking for holes
+contacts: 0) LYS 835:A iCode=' '	1) THR 838:A iCode=' '	2) ILE 839:A iCode=' '	3) ARG 842:A iCode=' '	4) TYR 843:A iCode=' '	
+- includes hole:
+LYS 835:A iCode=' '	THR 838:A iCode=' '	ILE 839:A iCode=' '	ARG 842:A iCode=' '	
+
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+knobs in helix 3:
+knobs in helix 4:
+knobs in helix 5:
+0) 52 (TYR 170:A, iCode=' ', helix 5) type 3	(hole:  ILE 730:A iCode=' ', VAL 733:A iCode=' ', LYS 734:A iCode=' ', LYS 737:A iCode=' ' helix 7) packing angle  139.627
+1) 55 (LEU 173:A, iCode=' ', helix 5) type 4	(hole:  THR 726:A iCode=' ', LEU 729:A iCode=' ', ILE 730:A iCode=' ', VAL 733:A iCode=' ' helix 7) packing angle   65.810
+knobs in helix 6:
+knobs in helix 7:
+3) 75 (ILE 730:A, iCode=' ', helix 7) type 4	(hole:  TYR 170:A iCode=' ', LEU 173:A iCode=' ', SER 174:A iCode=' ', LYS 177:A iCode=' ' helix 5) packing angle  148.362
+4) 78 (VAL 733:A, iCode=' ', helix 7) type 4	(hole:  PHE 166:A iCode=' ', ALA 169:A iCode=' ', TYR 170:A iCode=' ', LEU 173:A iCode=' ' helix 5) packing angle   62.413
+knobs in helix 8:
+knobs in helix 9:
+knobs in helix 10:
+knobs in helix 11:
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+holes in helix 3:
+holes in helix 4:
+holes in helix 5:
+ TYR 170:A iCode=' ', LEU 173:A iCode=' ', SER 174:A iCode=' ', LYS 177:A iCode=' ' (knob: 75 (ILE 730:A, helix 7))
+ PHE 166:A iCode=' ', ALA 169:A iCode=' ', TYR 170:A iCode=' ', LEU 173:A iCode=' ' (knob: 78 (VAL 733:A, helix 7))
+holes in helix 6:
+holes in helix 7:
+ ILE 730:A iCode=' ', VAL 733:A iCode=' ', LYS 734:A iCode=' ', LYS 737:A iCode=' ' (knob: 52 (TYR 170:A, helix 5))
+ THR 726:A iCode=' ', LEU 729:A iCode=' ', ILE 730:A iCode=' ', VAL 733:A iCode=' ' (knob: 55 (LEU 173:A, helix 5))
+holes in helix 8:
+holes in helix 9:
+holes in helix 10:
+holes in helix 11:
+
+knob   0 (residue 52 = TYR 170:A iCode=' ') type 3 order 2
+knob   1 (residue 55 = LEU 173:A iCode=' ') type 4 order 2
+knob   2 (residue 59 = LYS 177:A iCode=' ') type 1 order -1
+knob   3 (residue 75 = ILE 730:A iCode=' ') type 4 order 2
+knob   4 (residue 78 = VAL 733:A iCode=' ') type 4 order 2
+knob   5 (residue 146 = LEU 362:C iCode=' ') type 2 order -1
+knob   6 (residue 93 = ILE 748:A iCode=' ') type 2 order -1
+knob   7 (residue 97 = ALA 752:A iCode=' ') type 2 order -1
+knob   8 (residue 100 = ILE 755:A iCode=' ') type 2 order -1
+knob   9 (residue 114 = ALA 803:A iCode=' ') type 2 order -1
+knob  10 (residue 118 = ALA 807:A iCode=' ') type 2 order -1
+knob  11 (residue 103 = GLU 758:A iCode=' ') type 1 order -1
+
+coiled coil  0:  2 helices   5  7	frequency 2
+
+helix 5 is in a 2-stranded coiled coil
+helix 7 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  5 and  7 is  173.149	antiparallel
+this coiled coil is antiparallel
+
+
+3qku_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 12 mean 12.00):
+
+
+assigning heptad to helix 5 (X) 164-179:A
+extent of coiled coil packing: 166-177:A
+sequence DKFETAYKKLSELKKT
+register   defgabcdefga  
+partner  ------Y--Y---Y--
+knobtype ------3--4---1--
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+
+
+assigning heptad to helix 7 (Y) 723-759:A
+extent of coiled coil packing: 726-737:A
+sequence KDFTEELIEKVKKYKALAREAALSKIGELASEIFAEF
+register    defgabcdefga                      
+partner  -------X--X--------------!---!--!--!-
+knobtype -------4--4--------------2---2--2--1-
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+3qku_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

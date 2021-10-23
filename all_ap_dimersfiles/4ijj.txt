@@ -1,0 +1,86 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/ij/4ijj/structures/4ijj_1.mmol"
+opened "/fs/ccplus/data/ij/4ijj/structures/4ijj_1.mmol" (input)
+opened "/fs/ccplus/data/ij/4ijj/dssp/4ijj_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/ij/4ijj/rasmol/4ijj_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/ij/4ijj/socket/4ijj_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+There are 83 alpha-helical residues in this structure
+
+chain A starts at residue    2, iCode=' '
+residue 9 (ASP 21:A iCode=' ') has no 'end' atoms
+
+Using atom 79 (ASP 21A iCode=' '  CB ) as end atom for this residue
+residue 32 (LEU 57:A iCode=' ') has no 'end' atoms
+
+Using atom 276 (LEU 57A iCode=' '  CB ) as end atom for this residue
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+1) 19 (ARG 31:A, iCode=' ', helix 1) type 3	(hole:  LEU 78:A iCode=' ', ILE 81:A iCode=' ', ASP 82:A iCode=' ', LEU 85:A iCode=' ' helix 2) packing angle  143.828
+2) 22 (LEU 34:A, iCode=' ', helix 1) type 4	(hole:  GLU 74:A iCode=' ', LEU 77:A iCode=' ', LEU 78:A iCode=' ', ILE 81:A iCode=' ' helix 2) packing angle   70.190
+3) 26 (ILE 38:A, iCode=' ', helix 1) type 4	(hole:  LEU 71:A iCode=' ', GLU 74:A iCode=' ', LYS 75:A iCode=' ', LEU 78:A iCode=' ' helix 2) packing angle  143.569
+knobs in helix 2:
+5) 49 (GLU 74:A, iCode=' ', helix 2) type 4	(hole:  LEU 34:A iCode=' ', ARG 37:A iCode=' ', ILE 38:A iCode=' ', GLU 41:A iCode=' ' helix 1) packing angle   71.292
+6) 53 (LEU 78:A, iCode=' ', helix 2) type 4	(hole:  ARG 31:A iCode=' ', LEU 34:A iCode=' ', GLN 35:A iCode=' ', ILE 38:A iCode=' ' helix 1) packing angle  146.934
+7) 56 (ILE 81:A, iCode=' ', helix 2) type 4	(hole:  LEU 27:A iCode=' ', GLN 30:A iCode=' ', ARG 31:A iCode=' ', LEU 34:A iCode=' ' helix 1) packing angle   74.025
+knobs in helix 3:
+knobs in helix 4:
+holes in helix 0:
+holes in helix 1:
+ LEU 34:A iCode=' ', ARG 37:A iCode=' ', ILE 38:A iCode=' ', GLU 41:A iCode=' ' (knob: 49 (GLU 74:A, helix 2))
+ ARG 31:A iCode=' ', LEU 34:A iCode=' ', GLN 35:A iCode=' ', ILE 38:A iCode=' ' (knob: 53 (LEU 78:A, helix 2))
+ LEU 27:A iCode=' ', GLN 30:A iCode=' ', ARG 31:A iCode=' ', LEU 34:A iCode=' ' (knob: 56 (ILE 81:A, helix 2))
+holes in helix 2:
+ LEU 78:A iCode=' ', ILE 81:A iCode=' ', ASP 82:A iCode=' ', LEU 85:A iCode=' ' (knob: 19 (ARG 31:A, helix 1))
+ GLU 74:A iCode=' ', LEU 77:A iCode=' ', LEU 78:A iCode=' ', ILE 81:A iCode=' ' (knob: 22 (LEU 34:A, helix 1))
+ LEU 71:A iCode=' ', GLU 74:A iCode=' ', LYS 75:A iCode=' ', LEU 78:A iCode=' ' (knob: 26 (ILE 38:A, helix 1))
+holes in helix 3:
+holes in helix 4:
+
+knob   0 (residue 15 = LEU 27:A iCode=' ') type 2 order -1
+knob   1 (residue 19 = ARG 31:A iCode=' ') type 3 order 2
+knob   2 (residue 22 = LEU 34:A iCode=' ') type 4 order 2
+knob   3 (residue 26 = ILE 38:A iCode=' ') type 4 order 2
+knob   4 (residue 29 = GLU 41:A iCode=' ') type 1 order -1
+knob   5 (residue 49 = GLU 74:A iCode=' ') type 4 order 2
+knob   6 (residue 53 = LEU 78:A iCode=' ') type 4 order 2
+knob   7 (residue 56 = ILE 81:A iCode=' ') type 4 order 2
+
+coiled coil  0:  2 helices   1  2	frequency 3
+
+helix 1 is in a 2-stranded coiled coil
+helix 2 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  1 and  2 is  165.181	antiparallel
+this coiled coil is antiparallel
+
+
+4ijj_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 15 mean 15.00):
+
+
+assigning heptad to helix 1 (X) 17-43:A
+extent of coiled coil packing:  27- 41:A
+sequence EAQQDFFRDLLLRQRQELQARIEGEFG
+register           defgabcdefgabcd  
+partner  ----------Y---Y--Y---Y--Y--
+knobtype ----------2---3--4---4--1--
+repeats   0 non-canonical interrupts in  15 residues: 4,7,4
+
+
+assigning heptad to helix 2 (Y) 57-90:A
+extent of coiled coil packing:  71- 85:A
+sequence LASREEQRQWQLRLLEREKKLLDKIDEALERLAR
+register               abcdefgabcdefga     
+partner  -----------------X---X--X---------
+knobtype -----------------4---4--4---------
+repeats   0 non-canonical interrupts in  15 residues: 7,7,1
+4ijj_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

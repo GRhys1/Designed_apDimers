@@ -1,0 +1,95 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/ce/3ceg/structures/3ceg_1.mmol"
+opened "/fs/ccplus/data/ce/3ceg/structures/3ceg_1.mmol" (input)
+opened "/fs/ccplus/data/ce/3ceg/dssp/3ceg_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/ce/3ceg/rasmol/3ceg_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/ce/3ceg/socket/3ceg_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+There are 118 alpha-helical residues in this structure
+
+chain A starts at residue 4493, iCode=' '
+residue 3 (LYS 4499:A iCode=' ') has no 'end' atoms
+
+Using atom 31 (LYS 4499A iCode=' '  CG ) as end atom for this residue
+residue 50 (ARG 4697:A iCode=' ') has no 'end' atoms
+
+Using atom 389 (ARG 4697A iCode=' '  CD ) as end atom for this residue
+residue 95 (ARG 4760:A iCode=' ') has no 'end' atoms
+
+Using atom 786 (ARG 4760A iCode=' '  CD ) as end atom for this residue
+!!!!odd-knob
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+knobs in helix 3:
+knobs in helix 4:
+knobs in helix 5:
+knobs in helix 6:
+4) 84 (Mse 4739:A, iCode=' ', helix 6) type 4	(hole:  THR 4773:A iCode=' ', LEU 4776:A iCode=' ', ARG 4777:A iCode=' ', LEU 4780:A iCode=' ' helix 7) packing angle  139.577
+5) 91 (ILE 4746:A, iCode=' ', helix 6) type 4	(hole:  ALA 4766:A iCode=' ', LEU 4769:A iCode=' ', LYS 4770:A iCode=' ', THR 4773:A iCode=' ' helix 7) packing angle  141.752
+knobs in helix 7:
+7) 104 (LEU 4769:A, iCode=' ', helix 7) type 4	(hole:  CYS 4742:A iCode=' ', TRP 4745:A iCode=' ', ILE 4746:A iCode=' ', ILE 4749:A iCode=' ' helix 6) packing angle   61.339
+9) 111 (LEU 4776:A, iCode=' ', helix 7) type 3	(hole:  PHE 4731:A iCode=' ', ILE 4738:A iCode=' ', Mse 4739:A iCode=' ', CYS 4742:A iCode=' ' helix 6) packing angle   58.284
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+holes in helix 3:
+holes in helix 4:
+holes in helix 5:
+holes in helix 6:
+ CYS 4742:A iCode=' ', TRP 4745:A iCode=' ', ILE 4746:A iCode=' ', ILE 4749:A iCode=' ' (knob: 104 (LEU 4769:A, helix 7))
+ PHE 4731:A iCode=' ', ILE 4738:A iCode=' ', Mse 4739:A iCode=' ', CYS 4742:A iCode=' ' (knob: 111 (LEU 4776:A, helix 7))
+holes in helix 7:
+ THR 4773:A iCode=' ', LEU 4776:A iCode=' ', ARG 4777:A iCode=' ', LEU 4780:A iCode=' ' (knob: 84 (Mse 4739:A, helix 6))
+ ALA 4766:A iCode=' ', LEU 4769:A iCode=' ', LYS 4770:A iCode=' ', THR 4773:A iCode=' ' (knob: 91 (ILE 4746:A, helix 6))
+
+knob   0 (residue 8 = Mse 4504:A iCode=' ') type 2 order -1
+knob   1 (residue 58 = GLN 4705:A iCode=' ') type 2 order -1
+knob   2 (residue 61 = VAL 4708:A iCode=' ') type 2 order -1
+knob   3 (residue 64 = LEU 4713:A iCode=' ') type 2 order -1
+knob   4 (residue 84 = Mse 4739:A iCode=' ') type 4 order 2
+knob   5 (residue 91 = ILE 4746:A iCode=' ') type 4 order 2
+knob   6 (residue 94 = ILE 4749:A iCode=' ') type 2 order -1
+knob   7 (residue 104 = LEU 4769:A iCode=' ') type 4 order 2
+knob   8 (residue 108 = THR 4773:A iCode=' ') type 2 order -1
+knob   9 (residue 111 = LEU 4776:A iCode=' ') type 3 order 2
+
+coiled coil  0:  2 helices   6  7	frequency 2
+
+helix 6 is in a 2-stranded coiled coil
+helix 7 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  6 and  7 is  147.329	antiparallel
+this coiled coil is antiparallel
+
+
+3ceg_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 19 mean 17.00):
+
+
+assigning heptad to helix 6 (X) 4724-4749:A
+extent of coiled coil packing: 4731-4749:A
+sequence KEVIHKHFYLKRVEIXAQCEEWIADI
+register        gabcdefgabcdefgabcd
+partner  ---------------Y------Y--Y
+knobtype ---------------4------4--2
+repeats   0 non-canonical interrupts in  19 residues: 1,7,7,4
+
+
+assigning heptad to helix 7 (Y) 4760-4782:A
+extent of coiled coil packing: 4766-4780:A
+sequence RTXSHHAAALKRHTAQLREELLK
+register       abcdefgabcdefga  
+partner  ---------X---X--X------
+knobtype ---------4---2--3------
+repeats   0 non-canonical interrupts in  15 residues: 7,7,1
+3ceg_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

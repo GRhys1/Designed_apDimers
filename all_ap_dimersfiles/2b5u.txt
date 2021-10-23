@@ -1,0 +1,58 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/b5/2b5u/structures/2b5u_1.mmol"
+opened "/fs/ccplus/data/b5/2b5u/structures/2b5u_1.mmol" (input)
+opened "/fs/ccplus/data/b5/2b5u/dssp/2b5u_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/b5/2b5u/rasmol/2b5u_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/b5/2b5u/socket/2b5u_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+There are 173 alpha-helical residues in this structure
+
+chain A starts at residue   82, iCode=' '
+chain B starts at residue    1, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+knobs in helix 3:
+5) 88 (ALA 368:A, iCode=' ', helix 3) type 4	(hole:  ALA 393:A iCode=' ', LYS 396:A iCode=' ', ALA 397:A iCode=' ', ALA 400:A iCode=' ' helix 4) packing angle   77.564
+knobs in helix 4:
+7) 107 (ALA 397:A, iCode=' ', helix 4) type 4	(hole:  LEU 365:A iCode=' ', ALA 368:A iCode=' ', ILE 369:A iCode=' ', ILE 372:A iCode=' ' helix 3) packing angle  150.711
+knobs in helix 5:
+knobs in helix 6:
+knobs in helix 7:
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+holes in helix 3:
+ LEU 365:A iCode=' ', ALA 368:A iCode=' ', ILE 369:A iCode=' ', ILE 372:A iCode=' ' (knob: 107 (ALA 397:A, helix 4))
+holes in helix 4:
+ ALA 393:A iCode=' ', LYS 396:A iCode=' ', ALA 397:A iCode=' ', ALA 400:A iCode=' ' (knob: 88 (ALA 368:A, helix 3))
+holes in helix 5:
+holes in helix 6:
+holes in helix 7:
+
+knob   0 (residue 43 = TYR 323:A iCode=' ') type 1 order -1
+knob   1 (residue 57 = VAL 337:A iCode=' ') type 2 order -1
+knob   2 (residue 71 = TYR 351:A iCode=' ') type 1 order -1
+knob   3 (residue 78 = LEU 358:A iCode=' ') type 2 order -1
+knob   4 (residue 85 = LEU 365:A iCode=' ') type 2 order -1
+knob   5 (residue 88 = ALA 368:A iCode=' ') type 4 order 2
+knob   6 (residue 103 = ALA 393:A iCode=' ') type 2 order -1
+knob   7 (residue 107 = ALA 397:A iCode=' ') type 4 order 2
+knob   8 (residue 114 = VAL 404:A iCode=' ') type 2 order -1
+knob   9 (residue 135 = LEU 425:A iCode=' ') type 2 order -1
+knob  10 (residue 149 = LYS 439:A iCode=' ') type 2 order -1
+knob  11 (residue 156 = LEU 446:A iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   3  4	frequency 1 IGNORING
+
+helix 3 is in a 2-stranded coiled coil
+helix 4 is in a 2-stranded coiled coil
+
+2b5u_1.mmol c  7.00 e 0 result NO COILED COILS (but 1 helix pairs have a single complementary knob in hole interaction)
+Finished

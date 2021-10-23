@@ -1,0 +1,92 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/le/3lec/structures/3lec_1.mmol"
+opened "/fs/ccplus/data/le/3lec/structures/3lec_1.mmol" (input)
+opened "/fs/ccplus/data/le/3lec/dssp/3lec_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/le/3lec/rasmol/3lec_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/le/3lec/socket/3lec_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+There are 98 alpha-helical residues in this structure
+
+chain A starts at residue   -1, iCode=' '
+residue 23 (LYS 60:A iCode=' ') has no 'end' atoms
+
+Using atom 195 (LYS 60A iCode=' '  CB ) as end atom for this residue
+residue 29 (ARG 99:A iCode=' ') has no 'end' atoms
+
+Using atom 234 (ARG 99A iCode=' '  CB ) as end atom for this residue
+residue 82 (GLU 209:A iCode=' ') has no 'end' atoms
+
+Using atom 673 (GLU 209A iCode=' '  CB ) as end atom for this residue
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+knobs in helix 3:
+knobs in helix 4:
+knobs in helix 5:
+knobs in helix 6:
+knobs in helix 7:
+1) 70 (LEU 192:A, iCode=' ', helix 7) type 4	(hole:  ILE 217:A iCode=' ', ILE 220:A iCode=' ', LYS 221:A iCode=' ', LEU 224:A iCode=' ' helix 8) packing angle  138.028
+2) 73 (LEU 195:A, iCode=' ', helix 7) type 4	(hole:  LEU 213:A iCode=' ', LYS 216:A iCode=' ', ILE 217:A iCode=' ', ILE 220:A iCode=' ' helix 8) packing angle   70.317
+knobs in helix 8:
+4) 90 (ILE 217:A, iCode=' ', helix 8) type 4	(hole:  LEU 192:A iCode=' ', LEU 195:A iCode=' ', THR 196:A iCode=' ', LEU 199:A iCode=' ' helix 7) packing angle  141.471
+5) 93 (ILE 220:A, iCode=' ', helix 8) type 4	(hole:  TRP 188:A iCode=' ', GLU 191:A iCode=' ', LEU 192:A iCode=' ', LEU 195:A iCode=' ' helix 7) packing angle   67.379
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+holes in helix 3:
+holes in helix 4:
+holes in helix 5:
+holes in helix 6:
+holes in helix 7:
+ LEU 192:A iCode=' ', LEU 195:A iCode=' ', THR 196:A iCode=' ', LEU 199:A iCode=' ' (knob: 90 (ILE 217:A, helix 8))
+ TRP 188:A iCode=' ', GLU 191:A iCode=' ', LEU 192:A iCode=' ', LEU 195:A iCode=' ' (knob: 93 (ILE 220:A, helix 8))
+holes in helix 8:
+ ILE 217:A iCode=' ', ILE 220:A iCode=' ', LYS 221:A iCode=' ', LEU 224:A iCode=' ' (knob: 70 (LEU 192:A, helix 7))
+ LEU 213:A iCode=' ', LYS 216:A iCode=' ', ILE 217:A iCode=' ', ILE 220:A iCode=' ' (knob: 73 (LEU 195:A, helix 7))
+
+knob   0 (residue 51 = LEU 170:A iCode=' ') type 2 order -1
+knob   1 (residue 70 = LEU 192:A iCode=' ') type 4 order 2
+knob   2 (residue 73 = LEU 195:A iCode=' ') type 4 order 2
+knob   3 (residue 77 = LEU 199:A iCode=' ') type 2 order -1
+knob   4 (residue 90 = ILE 217:A iCode=' ') type 4 order 2
+knob   5 (residue 93 = ILE 220:A iCode=' ') type 4 order 2
+
+coiled coil  0:  2 helices   7  8	frequency 2
+
+helix 7 is in a 2-stranded coiled coil
+helix 8 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  7 and  8 is  163.081	antiparallel
+this coiled coil is antiparallel
+
+
+3lec_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 12 mean 12.00):
+
+
+assigning heptad to helix 7 (X) 182-201:A
+extent of coiled coil packing: 188-199:A
+sequence TVFKEKWQNELNKLTFALNS
+register       defgabcdefga  
+partner  ----------Y--Y---Y--
+knobtype ----------4--4---2--
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+
+
+assigning heptad to helix 8 (Y) 207-224:A
+extent of coiled coil packing: 213-224:A
+sequence XEERAILEDKIQDIKEVL
+register       defgabcdefga
+partner  ----------X--X----
+knobtype ----------4--4----
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+3lec_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

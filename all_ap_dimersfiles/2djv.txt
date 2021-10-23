@@ -1,0 +1,76 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/dj/2djv/structures/2djv_1.mmol"
+opened "/fs/ccplus/data/dj/2djv/structures/2djv_1.mmol" (input)
+opened "/fs/ccplus/data/dj/2djv/dssp/2djv_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/dj/2djv/rasmol/2djv_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/dj/2djv/socket/2djv_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+There are 46 alpha-helical residues in this structure
+
+chain A starts at residue    1, iCode=' '
+ENDMDL card found: implies this is PDB file contains multiple NMR models; all but the first will be ignored
+
+
+These are the knobs and holes:
+
+knobs in helix 0:
+0) 7 (LEU 18:A, iCode=' ', helix 0) type 4	(hole:  LEU 52:A iCode=' ', GLN 55:A iCode=' ', LEU 56:A iCode=' ', ALA 59:A iCode=' ' helix 1) packing angle   69.722
+1) 11 (VAL 22:A, iCode=' ', helix 0) type 4	(hole:  LEU 49:A iCode=' ', LEU 52:A iCode=' ', LYS 53:A iCode=' ', LEU 56:A iCode=' ' helix 1) packing angle  143.355
+3) 18 (VAL 29:A, iCode=' ', helix 0) type 4	(hole:  VAL 42:A iCode=' ', GLU 45:A iCode=' ', VAL 46:A iCode=' ', LEU 49:A iCode=' ' helix 1) packing angle  136.497
+knobs in helix 1:
+4) 30 (GLU 45:A, iCode=' ', helix 1) type 3	(hole:  GLN 25:A iCode=' ', ILE 28:A iCode=' ', VAL 29:A iCode=' ', LEU 32:A iCode=' ' helix 0) packing angle   63.059
+5) 37 (LEU 52:A, iCode=' ', helix 1) type 4	(hole:  LEU 18:A iCode=' ', GLU 21:A iCode=' ', VAL 22:A iCode=' ', GLN 25:A iCode=' ' helix 0) packing angle   75.426
+6) 41 (LEU 56:A, iCode=' ', helix 1) type 4	(hole:  ILE 15:A iCode=' ', LEU 18:A iCode=' ', MET 19:A iCode=' ', VAL 22:A iCode=' ' helix 0) packing angle  131.786
+holes in helix 0:
+ GLN 25:A iCode=' ', ILE 28:A iCode=' ', VAL 29:A iCode=' ', LEU 32:A iCode=' ' (knob: 30 (GLU 45:A, helix 1))
+ LEU 18:A iCode=' ', GLU 21:A iCode=' ', VAL 22:A iCode=' ', GLN 25:A iCode=' ' (knob: 37 (LEU 52:A, helix 1))
+ ILE 15:A iCode=' ', LEU 18:A iCode=' ', MET 19:A iCode=' ', VAL 22:A iCode=' ' (knob: 41 (LEU 56:A, helix 1))
+holes in helix 1:
+ LEU 52:A iCode=' ', GLN 55:A iCode=' ', LEU 56:A iCode=' ', ALA 59:A iCode=' ' (knob: 7 (LEU 18:A, helix 0))
+ LEU 49:A iCode=' ', LEU 52:A iCode=' ', LYS 53:A iCode=' ', LEU 56:A iCode=' ' (knob: 11 (VAL 22:A, helix 0))
+ VAL 42:A iCode=' ', GLU 45:A iCode=' ', VAL 46:A iCode=' ', LEU 49:A iCode=' ' (knob: 18 (VAL 29:A, helix 0))
+
+knob   0 (residue 7 = LEU 18:A iCode=' ') type 4 order 2
+knob   1 (residue 11 = VAL 22:A iCode=' ') type 4 order 2
+knob   2 (residue 14 = GLN 25:A iCode=' ') type 2 order -1
+knob   3 (residue 18 = VAL 29:A iCode=' ') type 4 order 2
+knob   4 (residue 30 = GLU 45:A iCode=' ') type 3 order 2
+knob   5 (residue 37 = LEU 52:A iCode=' ') type 4 order 2
+knob   6 (residue 41 = LEU 56:A iCode=' ') type 4 order 2
+knob   7 (residue 44 = ALA 59:A iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   0  1	frequency 3
+
+helix 0 is in a 2-stranded coiled coil
+helix 1 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  0 and  1 is  150.975	antiparallel
+this coiled coil is antiparallel
+
+
+2djv_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 18 mean 18.00):
+
+
+assigning heptad to helix 0 (X) 11-34:A
+extent of coiled coil packing:  15- 32:A
+sequence KPQQIQALMDEVTKQGNIVRELKA
+register     abcdefgabcdefgabcd  
+partner  -------Y---Y--Y---Y-----
+knobtype -------4---4--2---4-----
+repeats   0 non-canonical interrupts in  18 residues: 7,7,4
+
+
+assigning heptad to helix 1 (Y) 39-60:A
+extent of coiled coil packing:  42- 59:A
+sequence KNEVAAEVAKLLDLKKQLAVAE
+register    abcdefgabcdefgabcd 
+partner  ------X------X---X--X-
+knobtype ------3------4---4--2-
+repeats   0 non-canonical interrupts in  18 residues: 7,7,4
+2djv_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

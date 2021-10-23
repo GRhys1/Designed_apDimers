@@ -1,0 +1,56 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/qa/3qaz/structures/3qaz_1.mmol"
+opened "/fs/ccplus/data/qa/3qaz/structures/3qaz_1.mmol" (input)
+opened "/fs/ccplus/data/qa/3qaz/dssp/3qaz_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/qa/3qaz/rasmol/3qaz_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/qa/3qaz/socket/3qaz_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+
+
+
+
+
+There are 70 alpha-helical residues in this structure
+
+chain A starts at residue    6, iCode=' '
+chain B starts at residue    7, iCode=' '
+chain C starts at residue   34, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+2) 11 (LEU 18:A, iCode=' ', helix 0) type 4	(hole:  ILE 122:A iCode=' ', CYS 125:A iCode=' ', GLN 126:A iCode=' ', ILE 129:A iCode=' ' helix 5) packing angle  146.991
+knobs in helix 1:
+knobs in helix 2:
+knobs in helix 3:
+knobs in helix 4:
+knobs in helix 5:
+5) 63 (CYS 125:A, iCode=' ', helix 5) type 4	(hole:  LEU 14:A iCode=' ', LEU 17:A iCode=' ', LEU 18:A iCode=' ', LEU 21:A iCode=' ' helix 0) packing angle   72.665
+holes in helix 0:
+ LEU 14:A iCode=' ', LEU 17:A iCode=' ', LEU 18:A iCode=' ', LEU 21:A iCode=' ' (knob: 63 (CYS 125:A, helix 5))
+holes in helix 1:
+holes in helix 2:
+holes in helix 3:
+holes in helix 4:
+holes in helix 5:
+ ILE 122:A iCode=' ', CYS 125:A iCode=' ', GLN 126:A iCode=' ', ILE 129:A iCode=' ' (knob: 11 (LEU 18:A, helix 0))
+
+knob   0 (residue 13 = ASP 20:A iCode=' ') type 2 order -1
+knob   1 (residue 48 = PHE 92:A iCode=' ') type 2 order -1
+knob   2 (residue 11 = LEU 18:A iCode=' ') type 4 order 2
+knob   3 (residue 18 = LEU 25:A iCode=' ') type 2 order -1
+knob   4 (residue 60 = ILE 122:A iCode=' ') type 2 order -1
+knob   5 (residue 63 = CYS 125:A iCode=' ') type 4 order 2
+knob   6 (residue 67 = ILE 129:A iCode=' ') type 2 order -1
+knob   7 (residue 30 = LEU 63:A iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   0  5	frequency 1 IGNORING
+
+helix 0 is in a 2-stranded coiled coil
+helix 5 is in a 2-stranded coiled coil
+
+3qaz_1.mmol c  7.00 e 0 result NO COILED COILS (but 1 helix pairs have a single complementary knob in hole interaction)
+Finished

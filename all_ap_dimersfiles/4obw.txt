@@ -1,0 +1,104 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/ob/4obw/structures/4obw_1.mmol"
+opened "/fs/ccplus/data/ob/4obw/structures/4obw_1.mmol" (input)
+opened "/fs/ccplus/data/ob/4obw/dssp/4obw_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/ob/4obw/rasmol/4obw_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/ob/4obw/socket/4obw_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+There are 211 alpha-helical residues in this structure
+
+chain A starts at residue   74, iCode=' '
+chain B starts at residue   76, iCode=' '
+residue 106 (ARG 77:B iCode=' ') has no 'end' atoms
+
+Using atom 885 (ARG 77B iCode=' '  CB ) as end atom for this residue
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+knobs in helix 3:
+knobs in helix 4:
+knobs in helix 5:
+2) 72 (TRP 243:A, iCode=' ', helix 5) type 4	(hole:  TRP 243:B iCode=' ', VAL 246:B iCode=' ', LEU 247:B iCode=' ', MET 250:B iCode=' ' helix 13) packing angle  126.707
+3) 75 (VAL 246:A, iCode=' ', helix 5) type 4	(hole:  ALA 239:B iCode=' ', GLN 242:B iCode=' ', TRP 243:B iCode=' ', VAL 246:B iCode=' ' helix 13) packing angle   73.959
+knobs in helix 6:
+knobs in helix 7:
+knobs in helix 8:
+knobs in helix 9:
+knobs in helix 10:
+knobs in helix 11:
+knobs in helix 12:
+knobs in helix 13:
+5) 175 (TRP 243:B, iCode=' ', helix 13) type 4	(hole:  TRP 243:A iCode=' ', VAL 246:A iCode=' ', LEU 247:A iCode=' ', MET 250:A iCode=' ' helix 5) packing angle  122.715
+6) 178 (VAL 246:B, iCode=' ', helix 13) type 4	(hole:  ALA 239:A iCode=' ', GLN 242:A iCode=' ', TRP 243:A iCode=' ', VAL 246:A iCode=' ' helix 5) packing angle   81.777
+knobs in helix 14:
+knobs in helix 15:
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+holes in helix 3:
+holes in helix 4:
+holes in helix 5:
+ TRP 243:A iCode=' ', VAL 246:A iCode=' ', LEU 247:A iCode=' ', MET 250:A iCode=' ' (knob: 175 (TRP 243:B, helix 13))
+ ALA 239:A iCode=' ', GLN 242:A iCode=' ', TRP 243:A iCode=' ', VAL 246:A iCode=' ' (knob: 178 (VAL 246:B, helix 13))
+holes in helix 6:
+holes in helix 7:
+holes in helix 8:
+holes in helix 9:
+holes in helix 10:
+holes in helix 11:
+holes in helix 12:
+holes in helix 13:
+ TRP 243:B iCode=' ', VAL 246:B iCode=' ', LEU 247:B iCode=' ', MET 250:B iCode=' ' (knob: 72 (TRP 243:A, helix 5))
+ ALA 239:B iCode=' ', GLN 242:B iCode=' ', TRP 243:B iCode=' ', VAL 246:B iCode=' ' (knob: 75 (VAL 246:A, helix 5))
+holes in helix 14:
+holes in helix 15:
+
+knob   0 (residue 77 = PRO 248:A iCode=' ') type 2 order -1
+knob   1 (residue 68 = ALA 239:A iCode=' ') type 2 order -1
+knob   2 (residue 72 = TRP 243:A iCode=' ') type 4 order 2
+knob   3 (residue 75 = VAL 246:A iCode=' ') type 4 order 2
+knob   4 (residue 171 = ALA 239:B iCode=' ') type 2 order -1
+knob   5 (residue 175 = TRP 243:B iCode=' ') type 4 order 2
+knob   6 (residue 178 = VAL 246:B iCode=' ') type 4 order 2
+knob   7 (residue 114 = MET 85:B iCode=' ') type 1 order -1
+knob   8 (residue 180 = PRO 248:B iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   5 13	frequency 2
+
+helix 5 is in a 2-stranded coiled coil
+helix 13 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  5 and 13 is  125.980	antiparallel
+this coiled coil is antiparallel
+
+
+4obw_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 12 mean 12.00):
+
+
+assigning heptad to helix 5 (X) 234-254:A
+extent of coiled coil packing: 239-250:A
+sequence PLMDFAYQQWAKVLPVMGSMI
+register      defgabcdefga    
+partner  -----Y---Y--Y-!------
+knobtype -----2---4--4-2------
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+
+
+assigning heptad to helix 13 (Y) 234-255:B
+extent of coiled coil packing: 239-250:B
+sequence PLMDFAYQQWAKVLPVMGSMIA
+register      defgabcdefga     
+partner  -----X---X--X-!-------
+knobtype -----2---4--4-2-------
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+4obw_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

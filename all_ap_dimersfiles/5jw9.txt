@@ -1,0 +1,82 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/jw/5jw9/structures/5jw9.pdb"
+opened "/fs/ccplus/data/jw/5jw9/structures/5jw9.pdb" (input)
+file name implies standard PDB entry, code 5jw9
+opened "/fs/ccplus/data/jw/5jw9/dssp/5jw9.pdb.dssp" (input)
+opened "/fs/ccplus/data/jw/5jw9/rasmol/5jw9.pdb.70.spt" (output)
+opened "/fs/ccplus/data/jw/5jw9/socket/5jw9.pdb.70.long.socket" (output)
+Found beginning of residue data
+
+There are 104 alpha-helical residues in this structure
+
+MODRES record specifies Mse; will treat as Met
+MODRES record specifies Mse; will treat as Met
+chain A starts at residue   14, iCode=' '
+chain B starts at residue  525, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+3) 31 (TYR 555:B, iCode=' ', helix 2) type 4	(hole:  CYS 614:B iCode=' ', LEU 617:B iCode=' ', HIS 618:B iCode=' ', LEU 621:B iCode=' ' helix 4) packing angle  112.333
+4) 34 (LEU 558:B, iCode=' ', helix 2) type 4	(hole:  GLU 610:B iCode=' ', ARG 613:B iCode=' ', CYS 614:B iCode=' ', LEU 617:B iCode=' ' helix 4) packing angle   44.530
+knobs in helix 3:
+knobs in helix 4:
+6) 81 (CYS 614:B, iCode=' ', helix 4) type 4	(hole:  TYR 555:B iCode=' ', LEU 558:B iCode=' ', HIS 559:B iCode=' ', Mse 562:B iCode=' ' helix 2) packing angle  106.645
+7) 84 (LEU 617:B, iCode=' ', helix 4) type 4	(hole:  GLU 551:B iCode=' ', GLU 554:B iCode=' ', TYR 555:B iCode=' ', LEU 558:B iCode=' ' helix 2) packing angle   39.883
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+ TYR 555:B iCode=' ', LEU 558:B iCode=' ', HIS 559:B iCode=' ', Mse 562:B iCode=' ' (knob: 81 (CYS 614:B, helix 4))
+ GLU 551:B iCode=' ', GLU 554:B iCode=' ', TYR 555:B iCode=' ', LEU 558:B iCode=' ' (knob: 84 (LEU 617:B, helix 4))
+holes in helix 3:
+holes in helix 4:
+ CYS 614:B iCode=' ', LEU 617:B iCode=' ', HIS 618:B iCode=' ', LEU 621:B iCode=' ' (knob: 31 (TYR 555:B, helix 2))
+ GLU 610:B iCode=' ', ARG 613:B iCode=' ', CYS 614:B iCode=' ', LEU 617:B iCode=' ' (knob: 34 (LEU 558:B, helix 2))
+
+knob   0 (residue 5 = LEU 20:A iCode=' ') type 2 order -1
+knob   1 (residue 10 = TYR 528:B iCode=' ') type 2 order -1
+knob   2 (residue 48 = LEU 572:B iCode=' ') type 2 order -1
+knob   3 (residue 31 = TYR 555:B iCode=' ') type 4 order 2
+knob   4 (residue 34 = LEU 558:B iCode=' ') type 4 order 2
+knob   5 (residue 38 = Mse 562:B iCode=' ') type 2 order -1
+knob   6 (residue 81 = CYS 614:B iCode=' ') type 4 order 2
+knob   7 (residue 84 = LEU 617:B iCode=' ') type 4 order 2
+knob   8 (residue 88 = LEU 621:B iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   2  4	frequency 2
+
+helix 2 is in a 2-stranded coiled coil
+helix 4 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  2 and  4 is  132.902	antiparallel
+this coiled coil is antiparallel
+
+
+5jw9  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 12 mean 12.00):
+
+
+assigning heptad to helix 2 (X) 538-578:B
+extent of coiled coil packing: 551-562:B
+sequence YEQRQNYKDDFNAEYDEYRALHARXETVARRFIKLDAQRKR
+register              defgabcdefga                
+partner  -----------------Y--Y---Y---------!------
+knobtype -----------------4--4---2---------2------
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+
+
+assigning heptad to helix 4 (Y) 607-636:B
+extent of coiled coil packing: 610-621:B
+sequence YHEEKYRCEYLHNKLAHIKRXIGEFDQQQA
+register    defgabcdefga               
+partner  -------X--X---X---------------
+knobtype -------4--4---2---------------
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+5jw9 c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

@@ -1,0 +1,93 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/kw/2kwi/structures/2kwi_1.mmol"
+opened "/fs/ccplus/data/kw/2kwi/structures/2kwi_1.mmol" (input)
+opened "/fs/ccplus/data/kw/2kwi/dssp/2kwi_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/kw/2kwi/rasmol/2kwi_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/kw/2kwi/socket/2kwi_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+There are 105 alpha-helical residues in this structure
+
+chain A starts at residue    8, iCode=' '
+chain B starts at residue  391, iCode=' '
+ENDMDL card found: implies this is PDB file contains multiple NMR models; all but the first will be ignored
+
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+knobs in helix 3:
+knobs in helix 4:
+knobs in helix 5:
+0) 66 (ILE 402:B, iCode=' ', helix 5) type 4	(hole:  LEU 436:B iCode=' ', LEU 439:B iCode=' ', LYS 440:B iCode=' ', LEU 443:B iCode=' ' helix 6) packing angle  156.688
+1) 69 (GLN 405:B, iCode=' ', helix 5) type 4	(hole:  VAL 432:B iCode=' ', ILE 435:B iCode=' ', LEU 436:B iCode=' ', LEU 439:B iCode=' ' helix 6) packing angle   72.964
+2) 73 (LEU 409:B, iCode=' ', helix 5) type 4	(hole:  LEU 429:B iCode=' ', VAL 432:B iCode=' ', GLN 433:B iCode=' ', LEU 436:B iCode=' ' helix 6) packing angle  139.971
+3) 76 (LEU 412:B, iCode=' ', helix 5) type 4	(hole:  LYS 425:B iCode=' ', ARG 428:B iCode=' ', LEU 429:B iCode=' ', VAL 432:B iCode=' ' helix 6) packing angle   63.485
+knobs in helix 6:
+4) 88 (LEU 429:B, iCode=' ', helix 6) type 4	(hole:  LEU 409:B iCode=' ', LEU 412:B iCode=' ', HIS 413:B iCode=' ', LEU 416:B iCode=' ' helix 5) packing angle  131.465
+5) 91 (VAL 432:B, iCode=' ', helix 6) type 4	(hole:  GLN 405:B iCode=' ', LEU 408:B iCode=' ', LEU 409:B iCode=' ', LEU 412:B iCode=' ' helix 5) packing angle   66.972
+6) 95 (LEU 436:B, iCode=' ', helix 6) type 4	(hole:  ILE 402:B iCode=' ', GLN 405:B iCode=' ', GLU 406:B iCode=' ', LEU 409:B iCode=' ' helix 5) packing angle  143.173
+7) 98 (LEU 439:B, iCode=' ', helix 6) type 4	(hole:  ILE 398:B iCode=' ', GLU 401:B iCode=' ', ILE 402:B iCode=' ', GLN 405:B iCode=' ' helix 5) packing angle   80.184
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+holes in helix 3:
+holes in helix 4:
+holes in helix 5:
+ LEU 409:B iCode=' ', LEU 412:B iCode=' ', HIS 413:B iCode=' ', LEU 416:B iCode=' ' (knob: 88 (LEU 429:B, helix 6))
+ GLN 405:B iCode=' ', LEU 408:B iCode=' ', LEU 409:B iCode=' ', LEU 412:B iCode=' ' (knob: 91 (VAL 432:B, helix 6))
+ ILE 402:B iCode=' ', GLN 405:B iCode=' ', GLU 406:B iCode=' ', LEU 409:B iCode=' ' (knob: 95 (LEU 436:B, helix 6))
+ ILE 398:B iCode=' ', GLU 401:B iCode=' ', ILE 402:B iCode=' ', GLN 405:B iCode=' ' (knob: 98 (LEU 439:B, helix 6))
+holes in helix 6:
+ LEU 436:B iCode=' ', LEU 439:B iCode=' ', LYS 440:B iCode=' ', LEU 443:B iCode=' ' (knob: 66 (ILE 402:B, helix 5))
+ VAL 432:B iCode=' ', ILE 435:B iCode=' ', LEU 436:B iCode=' ', LEU 439:B iCode=' ' (knob: 69 (GLN 405:B, helix 5))
+ LEU 429:B iCode=' ', VAL 432:B iCode=' ', GLN 433:B iCode=' ', LEU 436:B iCode=' ' (knob: 73 (LEU 409:B, helix 5))
+ LYS 425:B iCode=' ', ARG 428:B iCode=' ', LEU 429:B iCode=' ', VAL 432:B iCode=' ' (knob: 76 (LEU 412:B, helix 5))
+
+knob   0 (residue 66 = ILE 402:B iCode=' ') type 4 order 2
+knob   1 (residue 69 = GLN 405:B iCode=' ') type 4 order 2
+knob   2 (residue 73 = LEU 409:B iCode=' ') type 4 order 2
+knob   3 (residue 76 = LEU 412:B iCode=' ') type 4 order 2
+knob   4 (residue 88 = LEU 429:B iCode=' ') type 4 order 2
+knob   5 (residue 91 = VAL 432:B iCode=' ') type 4 order 2
+knob   6 (residue 95 = LEU 436:B iCode=' ') type 4 order 2
+knob   7 (residue 98 = LEU 439:B iCode=' ') type 4 order 2
+knob   8 (residue 102 = LEU 443:B iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   5  6	frequency 4
+
+helix 5 is in a 2-stranded coiled coil
+helix 6 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  5 and  6 is  154.456	antiparallel
+this coiled coil is antiparallel
+
+
+2kwi_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 19 mean 19.00):
+
+
+assigning heptad to helix 5 (X) 393-417:B
+extent of coiled coil packing: 398-416:B
+sequence ETQAGIKEEIRRQEFLLNSLHRDLQ
+register      defgabcdefgabcdefga 
+partner  ---------Y--Y---Y--Y-----
+knobtype ---------4--4---4--4-----
+repeats   0 non-canonical interrupts in  19 residues: 4,7,7,1
+
+
+assigning heptad to helix 6 (Y) 423-445:B
+extent of coiled coil packing: 425-443:B
+sequence LSKEERLWEVQRILTALKRKLRE
+register   defgabcdefgabcdefga  
+partner  ------X--X---X--X---X--
+knobtype ------4--4---4--4---2--
+repeats   0 non-canonical interrupts in  19 residues: 4,7,7,1
+2kwi_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

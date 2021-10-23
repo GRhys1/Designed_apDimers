@@ -1,0 +1,84 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/it/4it4/structures/4it4_1.mmol"
+opened "/fs/ccplus/data/it/4it4/structures/4it4_1.mmol" (input)
+opened "/fs/ccplus/data/it/4it4/dssp/4it4_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/it/4it4/rasmol/4it4_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/it/4it4/socket/4it4_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+There are 70 alpha-helical residues in this structure
+
+chain A starts at residue    2, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+4) 31 (PHE 154:A, iCode=' ', helix 2) type 3	(hole:  LEU 196:A iCode=' ', CYS 199:A iCode=' ', LEU 200:A iCode=' ', GLU 203:A iCode=' ' helix 4) packing angle  157.812
+5) 34 (PHE 157:A, iCode=' ', helix 2) type 4	(hole:  ILE 192:A iCode=' ', ASN 195:A iCode=' ', LEU 196:A iCode=' ', CYS 199:A iCode=' ' helix 4) packing angle   81.562
+6) 38 (ALA 161:A, iCode=' ', helix 2) type 4	(hole:  PHE 189:A iCode=' ', ILE 192:A iCode=' ', GLN 193:A iCode=' ', LEU 196:A iCode=' ' helix 4) packing angle  146.984
+knobs in helix 3:
+knobs in helix 4:
+8) 56 (ILE 192:A, iCode=' ', helix 4) type 4	(hole:  PHE 157:A iCode=' ', ALA 160:A iCode=' ', ALA 161:A iCode=' ', LEU 164:A iCode=' ' helix 2) packing angle   80.359
+9) 60 (LEU 196:A, iCode=' ', helix 4) type 4	(hole:  PHE 154:A iCode=' ', PHE 157:A iCode=' ', VAL 158:A iCode=' ', ALA 161:A iCode=' ' helix 2) packing angle  148.281
+10) 63 (CYS 199:A, iCode=' ', helix 4) type 4	(hole:  PRO 150:A iCode=' ', ALA 153:A iCode=' ', PHE 154:A iCode=' ', PHE 157:A iCode=' ' helix 2) packing angle   95.555
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+ PHE 157:A iCode=' ', ALA 160:A iCode=' ', ALA 161:A iCode=' ', LEU 164:A iCode=' ' (knob: 56 (ILE 192:A, helix 4))
+ PHE 154:A iCode=' ', PHE 157:A iCode=' ', VAL 158:A iCode=' ', ALA 161:A iCode=' ' (knob: 60 (LEU 196:A, helix 4))
+ PRO 150:A iCode=' ', ALA 153:A iCode=' ', PHE 154:A iCode=' ', PHE 157:A iCode=' ' (knob: 63 (CYS 199:A, helix 4))
+holes in helix 3:
+holes in helix 4:
+ LEU 196:A iCode=' ', CYS 199:A iCode=' ', LEU 200:A iCode=' ', GLU 203:A iCode=' ' (knob: 31 (PHE 154:A, helix 2))
+ ILE 192:A iCode=' ', ASN 195:A iCode=' ', LEU 196:A iCode=' ', CYS 199:A iCode=' ' (knob: 34 (PHE 157:A, helix 2))
+ PHE 189:A iCode=' ', ILE 192:A iCode=' ', GLN 193:A iCode=' ', LEU 196:A iCode=' ' (knob: 38 (ALA 161:A, helix 2))
+
+knob   0 (residue 20 = LEU 138:A iCode=' ') type 2 order -1
+knob   1 (residue 40 = LEU 163:A iCode=' ') type 2 order -1
+knob   2 (residue 21 = LYS 139:A iCode=' ') type 2 order -1
+knob   3 (residue 52 = LEU 188:A iCode=' ') type 2 order -1
+knob   4 (residue 31 = PHE 154:A iCode=' ') type 3 order 2
+knob   5 (residue 34 = PHE 157:A iCode=' ') type 4 order 2
+knob   6 (residue 38 = ALA 161:A iCode=' ') type 4 order 2
+knob   7 (residue 41 = LEU 164:A iCode=' ') type 2 order -1
+knob   8 (residue 56 = ILE 192:A iCode=' ') type 4 order 2
+knob   9 (residue 60 = LEU 196:A iCode=' ') type 4 order 2
+knob  10 (residue 63 = CYS 199:A iCode=' ') type 4 order 2
+
+coiled coil  0:  2 helices   2  4	frequency 3
+
+helix 2 is in a 2-stranded coiled coil
+helix 4 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  2 and  4 is  165.980	antiparallel
+this coiled coil is antiparallel
+
+
+4it4_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 15 mean 15.00):
+
+
+assigning heptad to helix 2 (X) 150-164:A
+extent of coiled coil packing: 150-164:A
+sequence PKFAFDYFVRAAKLL
+register defgabcdefgabcd
+partner  ----Y--Y---Y-!Y
+knobtype ----3--4---4-22
+repeats   0 non-canonical interrupts in  15 residues: 4,7,4
+
+
+assigning heptad to helix 4 (Y) 182-205:A
+extent of coiled coil packing: 189-203:A
+sequence GQAVEELFIQIQTNLAACLLQEKR
+register        abcdefgabcdefga  
+partner  ------!---X---X--X------
+knobtype ------2---4---4--4------
+repeats   0 non-canonical interrupts in  15 residues: 7,7,1
+4it4_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

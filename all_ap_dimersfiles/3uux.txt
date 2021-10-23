@@ -1,0 +1,91 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/uu/3uux/structures/3uux_1.mmol"
+opened "/fs/ccplus/data/uu/3uux/structures/3uux_1.mmol" (input)
+opened "/fs/ccplus/data/uu/3uux/dssp/3uux_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/uu/3uux/rasmol/3uux_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/uu/3uux/socket/3uux_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+
+
+There are 185 alpha-helical residues in this structure
+
+chain A starts at residue    3, iCode=' '
+chain B starts at residue   94, iCode=' '
+residue 1 (GLN 20:A iCode=' ') has no 'end' atoms
+
+Using atom 11 (GLN 20A iCode=' '  CB ) as end atom for this residue
+residue 8 (GLN 27:A iCode=' ') has no 'end' atoms
+
+Using atom 69 (GLN 27A iCode=' '  CB ) as end atom for this residue
+residue 66 (LYS 97:A iCode=' ') has no 'end' atoms
+
+Using atom 553 (LYS 97A iCode=' '  CB ) as end atom for this residue
+residue 76 (LYS 111:A iCode=' ') has no 'end' atoms
+
+Using atom 641 (LYS 111A iCode=' '  CB ) as end atom for this residue
+residue 93 (LYS 96:B iCode=' ') has no 'end' atoms
+
+Using atom 769 (LYS 96B iCode=' '  CB ) as end atom for this residue
+residue 150 (ARG 262:B iCode=' ') has no 'end' atoms
+
+Using atom 1225 (ARG 262B iCode=' '  CB ) as end atom for this residue
+residue 155 (LYS 267:B iCode=' ') has no 'end' atoms
+
+Using atom 1266 (LYS 267B iCode=' '  CB ) as end atom for this residue
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+2) 17 (ARG 42:A, iCode=' ', helix 1) type 4	(hole:  ILE 64:A iCode=' ', ASP 67:A iCode=' ', ILE 68:A iCode=' ', GLU 71:A iCode=' ' helix 2) packing angle   67.016
+knobs in helix 2:
+4) 40 (ILE 68:A, iCode=' ', helix 2) type 4	(hole:  ILE 39:A iCode=' ', ARG 42:A iCode=' ', PHE 43:A iCode=' ', ALA 46:A iCode=' ' helix 1) packing angle  116.793
+knobs in helix 3:
+9) 55 (THR 84:A, iCode=' ', helix 3) type 4	(hole:  ALA 96:A iCode=' ', TYR 99:A iCode=' ', VAL 100:A iCode=' ', LEU 103:A iCode=' ' helix 4) packing angle  136.418
+knobs in helix 4:
+10) 68 (TYR 99:A, iCode=' ', helix 4) type 3	(hole:  LEU 80:A iCode=' ', LEU 83:A iCode=' ', THR 84:A iCode=' ', CYS 87:A iCode=' ' helix 3) packing angle   52.392
+knobs in helix 5:
+knobs in helix 6:
+knobs in helix 7:
+knobs in helix 8:
+holes in helix 0:
+holes in helix 1:
+ ILE 39:A iCode=' ', ARG 42:A iCode=' ', PHE 43:A iCode=' ', ALA 46:A iCode=' ' (knob: 40 (ILE 68:A, helix 2))
+holes in helix 2:
+ ILE 64:A iCode=' ', ASP 67:A iCode=' ', ILE 68:A iCode=' ', GLU 71:A iCode=' ' (knob: 17 (ARG 42:A, helix 1))
+holes in helix 3:
+ LEU 80:A iCode=' ', LEU 83:A iCode=' ', THR 84:A iCode=' ', CYS 87:A iCode=' ' (knob: 68 (TYR 99:A, helix 4))
+holes in helix 4:
+ ALA 96:A iCode=' ', TYR 99:A iCode=' ', VAL 100:A iCode=' ', LEU 103:A iCode=' ' (knob: 55 (THR 84:A, helix 3))
+holes in helix 5:
+holes in helix 6:
+holes in helix 7:
+holes in helix 8:
+
+knob   0 (residue 20 = TYR 45:A iCode=' ') type 2 order -1
+knob   1 (residue 6 = LEU 25:A iCode=' ') type 1 order -1
+knob   2 (residue 17 = ARG 42:A iCode=' ') type 4 order 2
+knob   3 (residue 36 = ILE 64:A iCode=' ') type 1 order -1
+knob   4 (residue 40 = ILE 68:A iCode=' ') type 4 order 2
+knob   5 (residue 14 = ILE 39:A iCode=' ') type 2 order -1
+knob   6 (residue 41 = TYR 69:A iCode=' ') type 1 order -1
+knob   7 (residue 54 = LEU 83:A iCode=' ') type 2 order -1
+knob   8 (residue 61 = LEU 90:A iCode=' ') type 2 order -1
+knob   9 (residue 55 = THR 84:A iCode=' ') type 4 order 2
+knob  10 (residue 68 = TYR 99:A iCode=' ') type 3 order 2
+knob  11 (residue 100 = LEU 148:B iCode=' ') type 1 order -1
+knob  12 (residue 69 = VAL 100:A iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   1  2	frequency 1 IGNORING
+coiled coil  1:  2 helices   3  4	frequency 1 IGNORING
+
+helix 1 is in a 2-stranded coiled coil
+helix 2 is in a 2-stranded coiled coil
+helix 3 is in a 2-stranded coiled coil
+helix 4 is in a 2-stranded coiled coil
+
+3uux_1.mmol c  7.00 e 0 result NO COILED COILS (but 2 helix pairs have a single complementary knob in hole interaction)
+Finished

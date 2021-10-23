@@ -1,0 +1,50 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/v5/3v5y/structures/3v5y_1.mmol"
+opened "/fs/ccplus/data/v5/3v5y/structures/3v5y_1.mmol" (input)
+opened "/fs/ccplus/data/v5/3v5y/dssp/3v5y_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/v5/3v5y/rasmol/3v5y_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/v5/3v5y/socket/3v5y_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+There are 125 alpha-helical residues in this structure
+
+chain A starts at residue    5, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+2) 34 (PHE 51:A, iCode=' ', helix 1) type 3	(hole:  LEU 85:A iCode=' ', MET 88:A iCode=' ', LEU 89:A iCode=' ', PHE 92:A iCode=' ' helix 3) packing angle   62.549
+knobs in helix 2:
+knobs in helix 3:
+4) 61 (LEU 89:A, iCode=' ', helix 3) type 4	(hole:  TYR 48:A iCode=' ', PHE 51:A iCode=' ', LYS 52:A iCode=' ', LYS 55:A iCode=' ' helix 1) packing angle  152.192
+knobs in helix 4:
+knobs in helix 5:
+knobs in helix 6:
+holes in helix 0:
+holes in helix 1:
+ TYR 48:A iCode=' ', PHE 51:A iCode=' ', LYS 52:A iCode=' ', LYS 55:A iCode=' ' (knob: 61 (LEU 89:A, helix 3))
+holes in helix 2:
+holes in helix 3:
+ LEU 85:A iCode=' ', MET 88:A iCode=' ', LEU 89:A iCode=' ', PHE 92:A iCode=' ' (knob: 34 (PHE 51:A, helix 1))
+holes in helix 4:
+holes in helix 5:
+holes in helix 6:
+
+knob   0 (residue 13 = TYR 25:A iCode=' ') type 1 order -1
+knob   1 (residue 37 = PHE 54:A iCode=' ') type 2 order -1
+knob   2 (residue 34 = PHE 51:A iCode=' ') type 3 order 2
+knob   3 (residue 57 = LEU 85:A iCode=' ') type 2 order -1
+knob   4 (residue 61 = LEU 89:A iCode=' ') type 4 order 2
+knob   5 (residue 64 = PHE 92:A iCode=' ') type 2 order -1
+knob   6 (residue 51 = LEU 69:A iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   1  3	frequency 1 IGNORING
+
+helix 1 is in a 2-stranded coiled coil
+helix 3 is in a 2-stranded coiled coil
+
+3v5y_1.mmol c  7.00 e 0 result NO COILED COILS (but 1 helix pairs have a single complementary knob in hole interaction)
+Finished

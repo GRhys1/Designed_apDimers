@@ -1,0 +1,78 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/jo/4jol/structures/4jol_1.mmol"
+opened "/fs/ccplus/data/jo/4jol/structures/4jol_1.mmol" (input)
+opened "/fs/ccplus/data/jo/4jol/dssp/4jol_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/jo/4jol/rasmol/4jol_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/jo/4jol/socket/4jol_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+
+
+There are 103 alpha-helical residues in this structure
+
+chain A starts at residue  489, iCode=' '
+chain C starts at residue  489, iCode=' '
+chain E starts at residue  186, iCode=' '
+chain G starts at residue  186, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+1) 17 (ILE 512:A, iCode=' ', helix 0) type 4	(hole:  ILE 512:C iCode=' ', MET 515:C iCode=' ', VAL 516:C iCode=' ', THR 519:C iCode=' ' helix 1) packing angle  142.873
+2) 20 (MET 515:A, iCode=' ', helix 0) type 4	(hole:  LEU 508:C iCode=' ', CYS 511:C iCode=' ', ILE 512:C iCode=' ', MET 515:C iCode=' ' helix 1) packing angle   62.462
+knobs in helix 1:
+6) 68 (ILE 512:C, iCode=' ', helix 1) type 4	(hole:  ILE 512:A iCode=' ', MET 515:A iCode=' ', VAL 516:A iCode=' ', THR 519:A iCode=' ' helix 0) packing angle  138.960
+7) 71 (MET 515:C, iCode=' ', helix 1) type 4	(hole:  LEU 508:A iCode=' ', CYS 511:A iCode=' ', ILE 512:A iCode=' ', MET 515:A iCode=' ' helix 0) packing angle   64.462
+holes in helix 0:
+ ILE 512:A iCode=' ', MET 515:A iCode=' ', VAL 516:A iCode=' ', THR 519:A iCode=' ' (knob: 68 (ILE 512:C, helix 1))
+ LEU 508:A iCode=' ', CYS 511:A iCode=' ', ILE 512:A iCode=' ', MET 515:A iCode=' ' (knob: 71 (MET 515:C, helix 1))
+holes in helix 1:
+ ILE 512:C iCode=' ', MET 515:C iCode=' ', VAL 516:C iCode=' ', THR 519:C iCode=' ' (knob: 17 (ILE 512:A, helix 0))
+ LEU 508:C iCode=' ', CYS 511:C iCode=' ', ILE 512:C iCode=' ', MET 515:C iCode=' ' (knob: 20 (MET 515:A, helix 0))
+
+knob   0 (residue 10 = LEU 505:A iCode=' ') type 2 order -1
+knob   1 (residue 17 = ILE 512:A iCode=' ') type 4 order 2
+knob   2 (residue 20 = MET 515:A iCode=' ') type 4 order 2
+knob   3 (residue 24 = THR 519:A iCode=' ') type 2 order -1
+knob   4 (residue 31 = LEU 526:A iCode=' ') type 2 order -1
+knob   5 (residue 61 = LEU 505:C iCode=' ') type 2 order -1
+knob   6 (residue 68 = ILE 512:C iCode=' ') type 4 order 2
+knob   7 (residue 71 = MET 515:C iCode=' ') type 4 order 2
+knob   8 (residue 75 = THR 519:C iCode=' ') type 2 order -1
+knob   9 (residue 82 = LEU 526:C iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   0  1	frequency 2
+
+helix 0 is in a 2-stranded coiled coil
+helix 1 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  0 and  1 is  159.351	antiparallel
+this coiled coil is antiparallel
+
+
+4jol_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 12 mean 12.00):
+
+
+assigning heptad to helix 0 (X) 495-545:A
+extent of coiled coil packing: 508-519:A
+sequence DREWAEEWKHLDHLLNCIMDMVEKTRRSLTVLRRCQEADREELNYWIRRYS
+register              defgabcdefga                          
+partner  ----------Y------Y--Y---Y------Y-------------------
+knobtype ----------2------4--4---2------2-------------------
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+
+
+assigning heptad to helix 1 (Y) 495-546:C
+extent of coiled coil packing: 508-519:C
+sequence DREWAEEWKHLDHLLNCIMDMVEKTRRSLTVLRRCQEADREELNYWIRRYSD
+register              defgabcdefga                           
+partner  ----------X------X--X---X------X--------------------
+knobtype ----------2------4--4---2------2--------------------
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+4jol_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

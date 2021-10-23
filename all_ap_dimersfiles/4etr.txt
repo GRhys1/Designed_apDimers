@@ -1,0 +1,94 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/et/4etr/structures/4etr_1.mmol"
+opened "/fs/ccplus/data/et/4etr/structures/4etr_1.mmol" (input)
+opened "/fs/ccplus/data/et/4etr/dssp/4etr_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/et/4etr/rasmol/4etr_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/et/4etr/socket/4etr_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+There are 103 alpha-helical residues in this structure
+
+chain A starts at residue    5, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+0) 11 (LEU 17:A, iCode=' ', helix 0) type 4	(hole:  ALA 54:A iCode=' ', LEU 57:A iCode=' ', GLU 58:A iCode=' ', VAL 61:A iCode=' ' helix 1) packing angle  144.258
+1) 14 (SER 20:A, iCode=' ', helix 0) type 4	(hole:  CYS 50:A iCode=' ', ALA 53:A iCode=' ', ALA 54:A iCode=' ', LEU 57:A iCode=' ' helix 1) packing angle   82.300
+3) 21 (PHE 27:A, iCode=' ', helix 0) type 3	(hole:  MET 43:A iCode=' ', GLN 46:A iCode=' ', SER 47:A iCode=' ', CYS 50:A iCode=' ' helix 1) packing angle   43.183
+knobs in helix 1:
+5) 37 (SER 47:A, iCode=' ', helix 1) type 4	(hole:  GLU 24:A iCode=' ', PHE 27:A iCode=' ', HIS 28:A iCode=' ', ALA 31:A iCode=' ' helix 0) packing angle  142.716
+6) 44 (ALA 54:A, iCode=' ', helix 1) type 4	(hole:  LEU 17:A iCode=' ', SER 20:A iCode=' ', LYS 21:A iCode=' ', GLU 24:A iCode=' ' helix 0) packing angle  148.025
+7) 47 (LEU 57:A, iCode=' ', helix 1) type 4	(hole:  LEU 13:A iCode=' ', LEU 16:A iCode=' ', LEU 17:A iCode=' ', SER 20:A iCode=' ' helix 0) packing angle   55.194
+knobs in helix 2:
+11) 71 (TYR 112:A, iCode=' ', helix 2) type 4	(hole:  ILE 128:A iCode=' ', GLN 131:A iCode=' ', TYR 132:A iCode=' ', VAL 135:A iCode=' ' helix 3) packing angle   68.079
+knobs in helix 3:
+13) 87 (TYR 132:A, iCode=' ', helix 3) type 4	(hole:  LYS 109:A iCode=' ', TYR 112:A iCode=' ', GLN 113:A iCode=' ', LEU 116:A iCode=' ' helix 2) packing angle  142.890
+holes in helix 0:
+ GLU 24:A iCode=' ', PHE 27:A iCode=' ', HIS 28:A iCode=' ', ALA 31:A iCode=' ' (knob: 37 (SER 47:A, helix 1))
+ LEU 17:A iCode=' ', SER 20:A iCode=' ', LYS 21:A iCode=' ', GLU 24:A iCode=' ' (knob: 44 (ALA 54:A, helix 1))
+ LEU 13:A iCode=' ', LEU 16:A iCode=' ', LEU 17:A iCode=' ', SER 20:A iCode=' ' (knob: 47 (LEU 57:A, helix 1))
+holes in helix 1:
+ ALA 54:A iCode=' ', LEU 57:A iCode=' ', GLU 58:A iCode=' ', VAL 61:A iCode=' ' (knob: 11 (LEU 17:A, helix 0))
+ CYS 50:A iCode=' ', ALA 53:A iCode=' ', ALA 54:A iCode=' ', LEU 57:A iCode=' ' (knob: 14 (SER 20:A, helix 0))
+ MET 43:A iCode=' ', GLN 46:A iCode=' ', SER 47:A iCode=' ', CYS 50:A iCode=' ' (knob: 21 (PHE 27:A, helix 0))
+holes in helix 2:
+ LYS 109:A iCode=' ', TYR 112:A iCode=' ', GLN 113:A iCode=' ', LEU 116:A iCode=' ' (knob: 87 (TYR 132:A, helix 3))
+holes in helix 3:
+ ILE 128:A iCode=' ', GLN 131:A iCode=' ', TYR 132:A iCode=' ', VAL 135:A iCode=' ' (knob: 71 (TYR 112:A, helix 2))
+
+knob   0 (residue 11 = LEU 17:A iCode=' ') type 4 order 2
+knob   1 (residue 14 = SER 20:A iCode=' ') type 4 order 2
+knob   2 (residue 18 = GLU 24:A iCode=' ') type 2 order -1
+knob   3 (residue 21 = PHE 27:A iCode=' ') type 3 order 2
+knob   4 (residue 25 = ALA 31:A iCode=' ') type 2 order -1
+knob   5 (residue 37 = SER 47:A iCode=' ') type 4 order 2
+knob   6 (residue 44 = ALA 54:A iCode=' ') type 4 order 2
+knob   7 (residue 47 = LEU 57:A iCode=' ') type 4 order 2
+knob   8 (residue 51 = VAL 61:A iCode=' ') type 2 order -1
+knob   9 (residue 97 = VAL 142:A iCode=' ') type 1 order -1
+knob  10 (residue 61 = GLU 102:A iCode=' ') type 2 order -1
+knob  11 (residue 71 = TYR 112:A iCode=' ') type 4 order 2
+knob  12 (residue 75 = LEU 116:A iCode=' ') type 2 order -1
+knob  13 (residue 87 = TYR 132:A iCode=' ') type 4 order 2
+knob  14 (residue 94 = HIS 139:A iCode=' ') type 1 order -1
+knob  15 (residue 101 = ARG 146:A iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   0  1	frequency 3
+coiled coil  1:  2 helices   2  3	frequency 1 IGNORING
+
+helix 0 is in a 2-stranded coiled coil
+helix 1 is in a 2-stranded coiled coil
+helix 2 is in a 2-stranded coiled coil
+helix 3 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  0 and  1 is  158.873	antiparallel
+this coiled coil is antiparallel
+
+
+4etr_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 19 mean 19.00):
+
+
+assigning heptad to helix 0 (X) 6-32:A
+extent of coiled coil packing:  13- 31:A
+sequence LDDTLDVLNDLLQTSKDGEAGFHACAE
+register        defgabcdefgabcdefga 
+partner  -----------Y--Y---Y--Y---Y-
+knobtype -----------4--4---2--3---2-
+repeats   0 non-canonical interrupts in  19 residues: 4,7,7,1
+
+
+assigning heptad to helix 1 (Y) 37-63:A
+extent of coiled coil packing:  43- 61:A
+sequence PQLKAAMLEQSRDCAAAADELERIVLE
+register       defgabcdefgabcdefga  
+partner  ----------X------X--X---X--
+knobtype ----------4------4--4---2--
+repeats   0 non-canonical interrupts in  19 residues: 4,7,7,1
+4etr_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT (+ 1 helix groups are either pairs with too few complementary knob in hole interactions or are subsets of larger coiled coils)
+Finished

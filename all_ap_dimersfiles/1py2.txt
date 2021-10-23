@@ -1,0 +1,89 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/py/1py2/structures/1py2_1.mmol"
+opened "/fs/ccplus/data/py/1py2/structures/1py2_1.mmol" (input)
+opened "/fs/ccplus/data/py/1py2/dssp/1py2_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/py/1py2/rasmol/1py2_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/py/1py2/socket/1py2_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+
+
+
+There are 75 alpha-helical residues in this structure
+
+chain A starts at residue    6, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+2) 11 (LEU 18:A, iCode=' ', helix 0) type 4	(hole:  ILE 122:A iCode=' ', CYS 125:A iCode=' ', GLN 126:A iCode=' ', ILE 129:A iCode=' ' helix 5) packing angle  146.589
+3) 14 (LEU 21:A, iCode=' ', helix 0) type 4	(hole:  LEU 118:A iCode=' ', TRP 121:A iCode=' ', ILE 122:A iCode=' ', CYS 125:A iCode=' ' helix 5) packing angle   61.475
+4) 18 (LEU 25:A, iCode=' ', helix 0) type 4	(hole:  VAL 115:A iCode=' ', LEU 118:A iCode=' ', ASN 119:A iCode=' ', ILE 122:A iCode=' ' helix 5) packing angle  139.408
+knobs in helix 1:
+knobs in helix 2:
+knobs in helix 3:
+knobs in helix 4:
+knobs in helix 5:
+5) 62 (LEU 118:A, iCode=' ', helix 5) type 4	(hole:  LEU 21:A iCode=' ', ILE 24:A iCode=' ', LEU 25:A iCode=' ', ILE 28:A iCode=' ' helix 0) packing angle   77.289
+6) 66 (ILE 122:A, iCode=' ', helix 5) type 4	(hole:  LEU 18:A iCode=' ', LEU 21:A iCode=' ', GLN 22:A iCode=' ', LEU 25:A iCode=' ' helix 0) packing angle  138.394
+7) 69 (CYS 125:A, iCode=' ', helix 5) type 4	(hole:  LEU 14:A iCode=' ', LEU 17:A iCode=' ', LEU 18:A iCode=' ', LEU 21:A iCode=' ' helix 0) packing angle   73.669
+holes in helix 0:
+ LEU 21:A iCode=' ', ILE 24:A iCode=' ', LEU 25:A iCode=' ', ILE 28:A iCode=' ' (knob: 62 (LEU 118:A, helix 5))
+ LEU 18:A iCode=' ', LEU 21:A iCode=' ', GLN 22:A iCode=' ', LEU 25:A iCode=' ' (knob: 66 (ILE 122:A, helix 5))
+ LEU 14:A iCode=' ', LEU 17:A iCode=' ', LEU 18:A iCode=' ', LEU 21:A iCode=' ' (knob: 69 (CYS 125:A, helix 5))
+holes in helix 1:
+holes in helix 2:
+holes in helix 3:
+holes in helix 4:
+holes in helix 5:
+ ILE 122:A iCode=' ', CYS 125:A iCode=' ', GLN 126:A iCode=' ', ILE 129:A iCode=' ' (knob: 11 (LEU 18:A, helix 0))
+ LEU 118:A iCode=' ', TRP 121:A iCode=' ', ILE 122:A iCode=' ', CYS 125:A iCode=' ' (knob: 14 (LEU 21:A, helix 0))
+ VAL 115:A iCode=' ', LEU 118:A iCode=' ', ASN 119:A iCode=' ', ILE 122:A iCode=' ' (knob: 18 (LEU 25:A, helix 0))
+
+knob   0 (residue 10 = LEU 17:A iCode=' ') type 2 order -1
+knob   1 (residue 57 = LEU 96:A iCode=' ') type 2 order -1
+knob   2 (residue 11 = LEU 18:A iCode=' ') type 4 order 2
+knob   3 (residue 14 = LEU 21:A iCode=' ') type 4 order 2
+knob   4 (residue 18 = LEU 25:A iCode=' ') type 4 order 2
+knob   5 (residue 62 = LEU 118:A iCode=' ') type 4 order 2
+knob   6 (residue 66 = ILE 122:A iCode=' ') type 4 order 2
+knob   7 (residue 69 = CYS 125:A iCode=' ') type 4 order 2
+knob   8 (residue 73 = ILE 129:A iCode=' ') type 2 order -1
+knob   9 (residue 33 = LEU 63:A iCode=' ') type 2 order -1
+knob  10 (residue 47 = ILE 86:A iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   0  5	frequency 3
+
+helix 0 is in a 2-stranded coiled coil
+helix 5 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  0 and  5 is  144.988	antiparallel
+this coiled coil is antiparallel
+
+
+1py2_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 15 mean 15.00):
+
+
+assigning heptad to helix 0 (X) 7-29:A
+extent of coiled coil packing:  14- 28:A
+sequence TKKTQLQLEHLLLDLQMILNGIN
+register        defgabcdefgabcd 
+partner  ----------!Y--Y---Y----
+knobtype ----------24--4---4----
+repeats   0 non-canonical interrupts in  15 residues: 4,7,4
+
+
+assigning heptad to helix 5 (Y) 114-130:A
+extent of coiled coil packing: 115-129:A
+sequence IVEFLNRWITFCQSIIS
+register  abcdefgabcdefga 
+partner  ----X---X--X---X-
+knobtype ----4---4--4---2-
+repeats   0 non-canonical interrupts in  15 residues: 7,7,1
+1py2_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

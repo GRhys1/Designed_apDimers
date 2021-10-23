@@ -1,0 +1,92 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/df/3df8/structures/3df8_1.mmol"
+opened "/fs/ccplus/data/df/3df8/structures/3df8_1.mmol" (input)
+opened "/fs/ccplus/data/df/3df8/dssp/3df8_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/df/3df8/rasmol/3df8_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/df/3df8/socket/3df8_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+There are 108 alpha-helical residues in this structure
+
+chain A starts at residue   -2, iCode=' '
+chain B starts at residue   -2, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+knobs in helix 3:
+knobs in helix 4:
+3) 37 (VAL 89:A, iCode=' ', helix 4) type 3	(hole:  LEU 96:B iCode=' ', TYR 99:B iCode=' ', ILE 100:B iCode=' ', LEU 103:B iCode=' ' helix 9) packing angle  160.936
+5) 47 (TYR 99:A, iCode=' ', helix 4) type 4	(hole:  LYS 85:B iCode=' ', ASN 88:B iCode=' ', VAL 89:B iCode=' ', SER 92:B iCode=' ' helix 9) packing angle   74.072
+knobs in helix 5:
+knobs in helix 6:
+knobs in helix 7:
+knobs in helix 8:
+knobs in helix 9:
+6) 91 (VAL 89:B, iCode=' ', helix 9) type 3	(hole:  LEU 96:A iCode=' ', TYR 99:A iCode=' ', ILE 100:A iCode=' ', LEU 103:A iCode=' ' helix 4) packing angle  160.936
+8) 101 (TYR 99:B, iCode=' ', helix 9) type 4	(hole:  LYS 85:A iCode=' ', ASN 88:A iCode=' ', VAL 89:A iCode=' ', SER 92:A iCode=' ' helix 4) packing angle   74.072
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+holes in helix 3:
+holes in helix 4:
+ LEU 96:A iCode=' ', TYR 99:A iCode=' ', ILE 100:A iCode=' ', LEU 103:A iCode=' ' (knob: 91 (VAL 89:B, helix 9))
+ LYS 85:A iCode=' ', ASN 88:A iCode=' ', VAL 89:A iCode=' ', SER 92:A iCode=' ' (knob: 101 (TYR 99:B, helix 9))
+holes in helix 5:
+holes in helix 6:
+holes in helix 7:
+holes in helix 8:
+holes in helix 9:
+ LEU 96:B iCode=' ', TYR 99:B iCode=' ', ILE 100:B iCode=' ', LEU 103:B iCode=' ' (knob: 37 (VAL 89:A, helix 4))
+ LYS 85:B iCode=' ', ASN 88:B iCode=' ', VAL 89:B iCode=' ', SER 92:B iCode=' ' (knob: 47 (TYR 99:A, helix 4))
+
+knob   0 (residue 8 = ILE 29:A iCode=' ') type 2 order -1
+knob   1 (residue 10 = SER 31:A iCode=' ') type 2 order -1
+knob   2 (residue 13 = PHE 42:A iCode=' ') type 2 order -1
+knob   3 (residue 37 = VAL 89:A iCode=' ') type 3 order 2
+knob   4 (residue 44 = LEU 96:A iCode=' ') type 2 order -1
+knob   5 (residue 47 = TYR 99:A iCode=' ') type 4 order 2
+knob   6 (residue 91 = VAL 89:B iCode=' ') type 3 order 2
+knob   7 (residue 98 = LEU 96:B iCode=' ') type 2 order -1
+knob   8 (residue 101 = TYR 99:B iCode=' ') type 4 order 2
+knob   9 (residue 62 = ILE 29:B iCode=' ') type 2 order -1
+knob  10 (residue 64 = SER 31:B iCode=' ') type 2 order -1
+knob  11 (residue 67 = PHE 42:B iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   4  9	frequency 2
+
+helix 4 is in a 2-stranded coiled coil
+helix 9 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  4 and  9 is  161.038	antiparallel
+this coiled coil is antiparallel
+
+
+3df8_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 19 mean 19.00):
+
+
+assigning heptad to helix 4 (X) 84-105:A
+extent of coiled coil packing:  85-103:A
+sequence EKGXNVRNSLXPLLQYISVLDR
+register  defgabcdefgabcdefga  
+partner  -----Y------Y--Y------
+knobtype -----3------2--4------
+repeats   0 non-canonical interrupts in  19 residues: 4,7,7,1
+
+
+assigning heptad to helix 9 (Y) 84-105:B
+extent of coiled coil packing:  85-103:B
+sequence EKGXNVRNSLXPLLQYISVLDR
+register  defgabcdefgabcdefga  
+partner  -----X------X--X------
+knobtype -----3------2--4------
+repeats   0 non-canonical interrupts in  19 residues: 4,7,7,1
+3df8_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

@@ -1,0 +1,120 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/jb/4jbu/structures/4jbu_1.mmol"
+opened "/fs/ccplus/data/jb/4jbu/structures/4jbu_1.mmol" (input)
+opened "/fs/ccplus/data/jb/4jbu/dssp/4jbu_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/jb/4jbu/rasmol/4jbu_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/jb/4jbu/socket/4jbu_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+There are 152 alpha-helical residues in this structure
+
+chain A starts at residue   25, iCode=' '
+residue 9 (LYS 40:A iCode=' ') has no 'end' atoms
+
+Using atom 77 (LYS 40A iCode=' '  CG ) as end atom for this residue
+residue 16 (LYS 73:A iCode=' ') has no 'end' atoms
+
+Using atom 133 (LYS 73A iCode=' '  CG ) as end atom for this residue
+residue 116 (LEU 283:A iCode=' ') has no 'end' atoms
+
+Using atom 966 (LEU 283A iCode=' '  CB ) as end atom for this residue
+5 sidechains in contact with residue   36 (VAL   101:A, iCode=' ' helix   3)
+residue 36 (VAL 101:A) has > 4 contacts; looking for holes
+contacts: 0) PHE 118:A iCode=' '	1) VAL 121:A iCode=' '	2) MET 122:A iCode=' '	3) SER 125:A iCode=' '	4) LEU 126:A iCode=' '	
+- includes hole:
+PHE 118:A iCode=' '	VAL 121:A iCode=' '	MET 122:A iCode=' '	SER 125:A iCode=' '	
+
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+knobs in helix 3:
+knobs in helix 4:
+knobs in helix 5:
+knobs in helix 6:
+7) 75 (LEU 157:A, iCode=' ', helix 6) type 4	(hole:  THR 295:A iCode=' ', PHE 298:A iCode=' ', ASN 299:A iCode=' ', ILE 302:A iCode=' ' helix 10) packing angle  139.651
+8) 78 (LEU 160:A, iCode=' ', helix 6) type 4	(hole:  LEU 291:A iCode=' ', ILE 294:A iCode=' ', THR 295:A iCode=' ', PHE 298:A iCode=' ' helix 10) packing angle   61.198
+9) 82 (LEU 164:A, iCode=' ', helix 6) type 4	(hole:  THR 288:A iCode=' ', LEU 291:A iCode=' ', SER 292:A iCode=' ', THR 295:A iCode=' ' helix 10) packing angle  134.643
+10) 85 (TYR 167:A, iCode=' ', helix 6) type 4	(hole:  VAL 284:A iCode=' ', LYS 287:A iCode=' ', THR 288:A iCode=' ', LEU 291:A iCode=' ' helix 10) packing angle   63.544
+knobs in helix 7:
+knobs in helix 8:
+knobs in helix 9:
+knobs in helix 10:
+12) 121 (THR 288:A, iCode=' ', helix 10) type 4	(hole:  LEU 164:A iCode=' ', TYR 167:A iCode=' ', SER 168:A iCode=' ', GLN 171:A iCode=' ' helix 6) packing angle  137.305
+13) 124 (LEU 291:A, iCode=' ', helix 10) type 4	(hole:  LEU 160:A iCode=' ', GLU 163:A iCode=' ', LEU 164:A iCode=' ', TYR 167:A iCode=' ' helix 6) packing angle   63.732
+14) 128 (THR 295:A, iCode=' ', helix 10) type 4	(hole:  LEU 157:A iCode=' ', LEU 160:A iCode=' ', THR 161:A iCode=' ', LEU 164:A iCode=' ' helix 6) packing angle  128.715
+15) 131 (PHE 298:A, iCode=' ', helix 10) type 4	(hole:  LEU 153:A iCode=' ', GLU 156:A iCode=' ', LEU 157:A iCode=' ', LEU 160:A iCode=' ' helix 6) packing angle   64.458
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+holes in helix 3:
+holes in helix 4:
+holes in helix 5:
+holes in helix 6:
+ LEU 164:A iCode=' ', TYR 167:A iCode=' ', SER 168:A iCode=' ', GLN 171:A iCode=' ' (knob: 121 (THR 288:A, helix 10))
+ LEU 160:A iCode=' ', GLU 163:A iCode=' ', LEU 164:A iCode=' ', TYR 167:A iCode=' ' (knob: 124 (LEU 291:A, helix 10))
+ LEU 157:A iCode=' ', LEU 160:A iCode=' ', THR 161:A iCode=' ', LEU 164:A iCode=' ' (knob: 128 (THR 295:A, helix 10))
+ LEU 153:A iCode=' ', GLU 156:A iCode=' ', LEU 157:A iCode=' ', LEU 160:A iCode=' ' (knob: 131 (PHE 298:A, helix 10))
+holes in helix 7:
+holes in helix 8:
+holes in helix 9:
+holes in helix 10:
+ THR 295:A iCode=' ', PHE 298:A iCode=' ', ASN 299:A iCode=' ', ILE 302:A iCode=' ' (knob: 75 (LEU 157:A, helix 6))
+ LEU 291:A iCode=' ', ILE 294:A iCode=' ', THR 295:A iCode=' ', PHE 298:A iCode=' ' (knob: 78 (LEU 160:A, helix 6))
+ THR 288:A iCode=' ', LEU 291:A iCode=' ', SER 292:A iCode=' ', THR 295:A iCode=' ' (knob: 82 (LEU 164:A, helix 6))
+ VAL 284:A iCode=' ', LYS 287:A iCode=' ', THR 288:A iCode=' ', LEU 291:A iCode=' ' (knob: 85 (TYR 167:A, helix 6))
+
+knob   0 (residue 1 = LEU 32:A iCode=' ') type 2 order -1
+knob   1 (residue 21 = PHE 78:A iCode=' ') type 2 order -1
+knob   2 (residue 36 = VAL 101:A iCode=' ') type 2 order -1
+knob   3 (residue 39 = PHE 104:A iCode=' ') type 2 order -1
+knob   4 (residue 48 = ALA 120:A iCode=' ') type 2 order -1
+knob   5 (residue 112 = PHE 239:A iCode=' ') type 2 order -1
+knob   6 (residue 71 = LEU 153:A iCode=' ') type 2 order -1
+knob   7 (residue 75 = LEU 157:A iCode=' ') type 4 order 2
+knob   8 (residue 78 = LEU 160:A iCode=' ') type 4 order 2
+knob   9 (residue 82 = LEU 164:A iCode=' ') type 4 order 2
+knob  10 (residue 85 = TYR 167:A iCode=' ') type 4 order 2
+knob  11 (residue 117 = VAL 284:A iCode=' ') type 2 order -1
+knob  12 (residue 121 = THR 288:A iCode=' ') type 4 order 2
+knob  13 (residue 124 = LEU 291:A iCode=' ') type 4 order 2
+knob  14 (residue 128 = THR 295:A iCode=' ') type 4 order 2
+knob  15 (residue 131 = PHE 298:A iCode=' ') type 4 order 2
+
+coiled coil  0:  2 helices   6 10	frequency 4
+
+helix 6 is in a 2-stranded coiled coil
+helix 10 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  6 and 10 is  156.239	antiparallel
+this coiled coil is antiparallel
+
+
+4jbu_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 19 mean 19.00):
+
+
+assigning heptad to helix 6 (X) 149-179:A
+extent of coiled coil packing: 153-171:A
+sequence ARSKLREELAELTAELKIYSVIQAEINKHLS
+register     defgabcdefgabcdefga        
+partner  ----Y---Y--Y---Y--Y------------
+knobtype ----2---4--4---4--4------------
+repeats   0 non-canonical interrupts in  19 residues: 4,7,7,1
+
+
+assigning heptad to helix 10 (Y) 281-318:A
+extent of coiled coil packing: 284-302:A
+sequence NDLVSQKTTQLSDITSRFNSAIEALNRFIQKYDSVMQR
+register    defgabcdefgabcdefga                
+partner  ---X---X--X---X--X--------------------
+knobtype ---2---4--4---4--4--------------------
+repeats   0 non-canonical interrupts in  19 residues: 4,7,7,1
+4jbu_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

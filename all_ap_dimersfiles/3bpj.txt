@@ -1,0 +1,130 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/bp/3bpj/structures/3bpj_1.mmol"
+opened "/fs/ccplus/data/bp/3bpj/structures/3bpj_1.mmol" (input)
+opened "/fs/ccplus/data/bp/3bpj/dssp/3bpj_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/bp/3bpj/rasmol/3bpj_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/bp/3bpj/socket/3bpj_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+There are 99 alpha-helical residues in this structure
+
+chain A starts at residue  144, iCode=' '
+chain C starts at residue  144, iCode=' '
+residue 8 (LYS 161:A iCode=' ') has no 'end' atoms
+
+Using atom 74 (LYS 161A iCode=' '  CG ) as end atom for this residue
+residue 29 (ASP 194:A iCode=' ') has no 'end' atoms
+
+Using atom 242 (ASP 194A iCode=' '  CB ) as end atom for this residue
+residue 33 (LYS 198:A iCode=' ') has no 'end' atoms
+
+Using atom 272 (LYS 198A iCode=' '  CB ) as end atom for this residue
+residue 36 (ASN 201:A iCode=' ') has no 'end' atoms
+
+Using atom 292 (ASN 201A iCode=' '  CB ) as end atom for this residue
+residue 44 (GLU 209:A iCode=' ') has no 'end' atoms
+
+Using atom 345 (GLU 209A iCode=' '  CB ) as end atom for this residue
+residue 46 (GLN 211:A iCode=' ') has no 'end' atoms
+
+Using atom 359 (GLN 211A iCode=' '  CB ) as end atom for this residue
+residue 47 (LYS 212:A iCode=' ') has no 'end' atoms
+
+Using atom 364 (LYS 212A iCode=' '  CB ) as end atom for this residue
+residue 53 (GLU 158:C iCode=' ') has no 'end' atoms
+
+Using atom 414 (GLU 158C iCode=' '  CB ) as end atom for this residue
+residue 59 (LYS 164:C iCode=' ') has no 'end' atoms
+
+Using atom 460 (LYS 164C iCode=' '  CG ) as end atom for this residue
+residue 68 (GLU 181:C iCode=' ') has no 'end' atoms
+
+Using atom 533 (GLU 181C iCode=' '  CG ) as end atom for this residue
+residue 76 (ILE 193:C iCode=' ') has no 'end' atoms
+
+Using atom 592 (ILE 193C iCode=' '  CB ) as end atom for this residue
+residue 77 (ASP 194:C iCode=' ') has no 'end' atoms
+
+Using atom 597 (ASP 194C iCode=' '  CB ) as end atom for this residue
+residue 80 (LYS 197:C iCode=' ') has no 'end' atoms
+
+Using atom 618 (LYS 197C iCode=' '  CB ) as end atom for this residue
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+2) 31 (LEU 196:A, iCode=' ', helix 2) type 4	(hole:  LEU 203:C iCode=' ', LEU 206:C iCode=' ', CYS 207:C iCode=' ', LYS 210:C iCode=' ' helix 5) packing angle   67.971
+3) 35 (THR 200:A, iCode=' ', helix 2) type 4	(hole:  THR 200:C iCode=' ', LEU 203:C iCode=' ', THR 204:C iCode=' ', CYS 207:C iCode=' ' helix 5) packing angle  126.265
+4) 38 (LEU 203:A, iCode=' ', helix 2) type 4	(hole:  LEU 196:C iCode=' ', ILE 199:C iCode=' ', THR 200:C iCode=' ', LEU 203:C iCode=' ' helix 5) packing angle   52.207
+5) 42 (CYS 207:A, iCode=' ', helix 2) type 4	(hole:  ILE 193:C iCode=' ', LEU 196:C iCode=' ', LYS 197:C iCode=' ', THR 200:C iCode=' ' helix 5) packing angle  143.790
+knobs in helix 3:
+knobs in helix 4:
+knobs in helix 5:
+6) 79 (LEU 196:C, iCode=' ', helix 5) type 4	(hole:  LEU 203:A iCode=' ', LEU 206:A iCode=' ', CYS 207:A iCode=' ', LYS 210:A iCode=' ' helix 2) packing angle   71.420
+7) 83 (THR 200:C, iCode=' ', helix 5) type 4	(hole:  THR 200:A iCode=' ', LEU 203:A iCode=' ', THR 204:A iCode=' ', CYS 207:A iCode=' ' helix 2) packing angle  133.891
+8) 86 (LEU 203:C, iCode=' ', helix 5) type 4	(hole:  LEU 196:A iCode=' ', ILE 199:A iCode=' ', THR 200:A iCode=' ', LEU 203:A iCode=' ' helix 2) packing angle   52.158
+9) 90 (CYS 207:C, iCode=' ', helix 5) type 4	(hole:  ILE 193:A iCode=' ', LEU 196:A iCode=' ', LYS 197:A iCode=' ', THR 200:A iCode=' ' helix 2) packing angle  139.881
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+ LEU 203:A iCode=' ', LEU 206:A iCode=' ', CYS 207:A iCode=' ', LYS 210:A iCode=' ' (knob: 79 (LEU 196:C, helix 5))
+ THR 200:A iCode=' ', LEU 203:A iCode=' ', THR 204:A iCode=' ', CYS 207:A iCode=' ' (knob: 83 (THR 200:C, helix 5))
+ LEU 196:A iCode=' ', ILE 199:A iCode=' ', THR 200:A iCode=' ', LEU 203:A iCode=' ' (knob: 86 (LEU 203:C, helix 5))
+ ILE 193:A iCode=' ', LEU 196:A iCode=' ', LYS 197:A iCode=' ', THR 200:A iCode=' ' (knob: 90 (CYS 207:C, helix 5))
+holes in helix 3:
+holes in helix 4:
+holes in helix 5:
+ LEU 203:C iCode=' ', LEU 206:C iCode=' ', CYS 207:C iCode=' ', LYS 210:C iCode=' ' (knob: 31 (LEU 196:A, helix 2))
+ THR 200:C iCode=' ', LEU 203:C iCode=' ', THR 204:C iCode=' ', CYS 207:C iCode=' ' (knob: 35 (THR 200:A, helix 2))
+ LEU 196:C iCode=' ', ILE 199:C iCode=' ', THR 200:C iCode=' ', LEU 203:C iCode=' ' (knob: 38 (LEU 203:A, helix 2))
+ ILE 193:C iCode=' ', LEU 196:C iCode=' ', LYS 197:C iCode=' ', THR 200:C iCode=' ' (knob: 42 (CYS 207:A, helix 2))
+
+knob   0 (residue 14 = ILE 167:A iCode=' ') type 1 order -1
+knob   1 (residue 28 = ILE 193:A iCode=' ') type 2 order -1
+knob   2 (residue 31 = LEU 196:A iCode=' ') type 4 order 2
+knob   3 (residue 35 = THR 200:A iCode=' ') type 4 order 2
+knob   4 (residue 38 = LEU 203:A iCode=' ') type 4 order 2
+knob   5 (residue 42 = CYS 207:A iCode=' ') type 4 order 2
+knob   6 (residue 79 = LEU 196:C iCode=' ') type 4 order 2
+knob   7 (residue 83 = THR 200:C iCode=' ') type 4 order 2
+knob   8 (residue 86 = LEU 203:C iCode=' ') type 4 order 2
+knob   9 (residue 90 = CYS 207:C iCode=' ') type 4 order 2
+knob  10 (residue 62 = ILE 167:C iCode=' ') type 1 order -1
+
+coiled coil  0:  2 helices   2  5	frequency 4
+
+helix 2 is in a 2-stranded coiled coil
+helix 5 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  2 and  5 is  157.890	antiparallel
+this coiled coil is antiparallel
+
+
+3bpj_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 18 mean 18.00):
+
+
+assigning heptad to helix 2 (X) 193-212:A
+extent of coiled coil packing: 193-210:A
+sequence IDDLKKITNSLTVLCSEKQK
+register abcdefgabcdefgabcd  
+partner  Y--Y---Y--Y---Y-----
+knobtype 2--4---4--4---4-----
+repeats   0 non-canonical interrupts in  18 residues: 7,7,4
+
+
+assigning heptad to helix 5 (Y) 193-215:C
+extent of coiled coil packing: 193-210:C
+sequence IDDLKKITNSLTVLCSEKQKQEK
+register abcdefgabcdefgabcd     
+partner  ---X---X--X---X--------
+knobtype ---4---4--4---4--------
+repeats   0 non-canonical interrupts in  18 residues: 7,7,4
+3bpj_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

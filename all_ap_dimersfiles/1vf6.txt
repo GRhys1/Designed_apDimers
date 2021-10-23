@@ -1,0 +1,51 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/vf/1vf6/structures/1vf6_1.mmol"
+opened "/fs/ccplus/data/vf/1vf6/structures/1vf6_1.mmol" (input)
+opened "/fs/ccplus/data/vf/1vf6/dssp/1vf6_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/vf/1vf6/rasmol/1vf6_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/vf/1vf6/socket/1vf6_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+There are 91 alpha-helical residues in this structure
+
+chain A starts at residue   12, iCode=' '
+chain C starts at residue  120, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+knobs in helix 3:
+5) 58 (LEU 131:C, iCode=' ', helix 3) type 4	(hole:  ILE 147:C iCode=' ', LEU 150:C iCode=' ', LEU 151:C iCode=' ', VAL 154:C iCode=' ' helix 4) packing angle   87.082
+knobs in helix 4:
+7) 73 (LEU 151:C, iCode=' ', helix 4) type 4	(hole:  PHE 128:C iCode=' ', LEU 131:C iCode=' ', LYS 132:C iCode=' ', GLN 135:C iCode=' ' helix 3) packing angle  160.313
+knobs in helix 5:
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+holes in helix 3:
+ PHE 128:C iCode=' ', LEU 131:C iCode=' ', LYS 132:C iCode=' ', GLN 135:C iCode=' ' (knob: 73 (LEU 151:C, helix 4))
+holes in helix 4:
+ ILE 147:C iCode=' ', LEU 150:C iCode=' ', LEU 151:C iCode=' ', VAL 154:C iCode=' ' (knob: 58 (LEU 131:C, helix 3))
+holes in helix 5:
+
+knob   0 (residue 3 = LEU 16:A iCode=' ') type 2 order -1
+knob   1 (residue 17 = LEU 35:A iCode=' ') type 2 order -1
+knob   2 (residue 6 = LEU 19:A iCode=' ') type 2 order -1
+knob   3 (residue 28 = PHE 47:A iCode=' ') type 2 order -1
+knob   4 (residue 83 = ALA 162:C iCode=' ') type 2 order -1
+knob   5 (residue 58 = LEU 131:C iCode=' ') type 4 order 2
+knob   6 (residue 62 = GLN 135:C iCode=' ') type 2 order -1
+knob   7 (residue 73 = LEU 151:C iCode=' ') type 4 order 2
+knob   8 (residue 76 = VAL 154:C iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   3  4	frequency 1 IGNORING
+
+helix 3 is in a 2-stranded coiled coil
+helix 4 is in a 2-stranded coiled coil
+
+1vf6_1.mmol c  7.00 e 0 result NO COILED COILS (but 1 helix pairs have a single complementary knob in hole interaction)
+Finished

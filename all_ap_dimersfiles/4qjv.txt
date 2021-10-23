@@ -1,0 +1,89 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/qj/4qjv/structures/4qjv_1.mmol"
+opened "/fs/ccplus/data/qj/4qjv/structures/4qjv_1.mmol" (input)
+opened "/fs/ccplus/data/qj/4qjv/dssp/4qjv_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/qj/4qjv/rasmol/4qjv_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/qj/4qjv/socket/4qjv_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+There are 94 alpha-helical residues in this structure
+
+chain A starts at residue    1, iCode=' '
+chain B starts at residue    1, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+knobs in helix 3:
+2) 37 (SER 237:A, iCode=' ', helix 3) type 4	(hole:  LEU 86:B iCode=' ', TRP 89:B iCode=' ', LYS 90:B iCode=' ', ILE 93:B iCode=' ' helix 5) packing angle  159.353
+3) 40 (LEU 240:A, iCode=' ', helix 3) type 4	(hole:  ALA 82:B iCode=' ', VAL 85:B iCode=' ', LEU 86:B iCode=' ', TRP 89:B iCode=' ' helix 5) packing angle   81.602
+4) 44 (MET 244:A, iCode=' ', helix 3) type 4	(hole:  PHE 79:B iCode=' ', ALA 82:B iCode=' ', ARG 83:B iCode=' ', LEU 86:B iCode=' ' helix 5) packing angle  149.723
+knobs in helix 4:
+knobs in helix 5:
+7) 82 (ALA 82:B, iCode=' ', helix 5) type 4	(hole:  LEU 240:A iCode=' ', LEU 243:A iCode=' ', MET 244:A iCode=' ', SER 247:A iCode=' ' helix 3) packing angle   79.261
+8) 86 (LEU 86:B, iCode=' ', helix 5) type 4	(hole:  SER 237:A iCode=' ', LEU 240:A iCode=' ', LYS 241:A iCode=' ', MET 244:A iCode=' ' helix 3) packing angle  154.410
+9) 89 (TRP 89:B, iCode=' ', helix 5) type 3	(hole:  GLU 233:A iCode=' ', VAL 236:A iCode=' ', SER 237:A iCode=' ', LEU 240:A iCode=' ' helix 3) packing angle   75.713
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+holes in helix 3:
+ LEU 240:A iCode=' ', LEU 243:A iCode=' ', MET 244:A iCode=' ', SER 247:A iCode=' ' (knob: 82 (ALA 82:B, helix 5))
+ SER 237:A iCode=' ', LEU 240:A iCode=' ', LYS 241:A iCode=' ', MET 244:A iCode=' ' (knob: 86 (LEU 86:B, helix 5))
+ GLU 233:A iCode=' ', VAL 236:A iCode=' ', SER 237:A iCode=' ', LEU 240:A iCode=' ' (knob: 89 (TRP 89:B, helix 5))
+holes in helix 4:
+holes in helix 5:
+ LEU 86:B iCode=' ', TRP 89:B iCode=' ', LYS 90:B iCode=' ', ILE 93:B iCode=' ' (knob: 37 (SER 237:A, helix 3))
+ ALA 82:B iCode=' ', VAL 85:B iCode=' ', LEU 86:B iCode=' ', TRP 89:B iCode=' ' (knob: 40 (LEU 240:A, helix 3))
+ PHE 79:B iCode=' ', ALA 82:B iCode=' ', ARG 83:B iCode=' ', LEU 86:B iCode=' ' (knob: 44 (MET 244:A, helix 3))
+
+knob   0 (residue 9 = THR 32:A iCode=' ') type 2 order -1
+knob   1 (residue 57 = THR 23:B iCode=' ') type 2 order -1
+knob   2 (residue 37 = SER 237:A iCode=' ') type 4 order 2
+knob   3 (residue 40 = LEU 240:A iCode=' ') type 4 order 2
+knob   4 (residue 44 = MET 244:A iCode=' ') type 4 order 2
+knob   5 (residue 47 = SER 247:A iCode=' ') type 2 order -1
+knob   6 (residue 75 = ALA 75:B iCode=' ') type 2 order -1
+knob   7 (residue 82 = ALA 82:B iCode=' ') type 4 order 2
+knob   8 (residue 86 = LEU 86:B iCode=' ') type 4 order 2
+knob   9 (residue 89 = TRP 89:B iCode=' ') type 3 order 2
+knob  10 (residue 62 = LEU 28:B iCode=' ') type 2 order -1
+knob  11 (residue 65 = THR 31:B iCode=' ') type 2 order -1
+knob  12 (residue 78 = ILE 78:B iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   3  5	frequency 3
+
+helix 3 is in a 2-stranded coiled coil
+helix 5 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  3 and  5 is  152.945	antiparallel
+this coiled coil is antiparallel
+
+
+4qjv_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 15 mean 15.00):
+
+
+assigning heptad to helix 3 (X) 232-255:A
+extent of coiled coil packing: 233-247:A
+sequence VEEIVSIALKILMRKSDRFINELH
+register  defgabcdefgabcd        
+partner  -----Y--Y---Y--Y--------
+knobtype -----4--4---4--2--------
+repeats   0 non-canonical interrupts in  15 residues: 4,7,4
+
+
+assigning heptad to helix 5 (Y) 67-93:B
+extent of coiled coil packing:  79- 93:B
+sequence PEKALEEAAQKIFDRAREVLEAWKAAI
+register             abcdefgabcdefga
+partner  --------X--!---X---X--X----
+knobtype --------2--2---4---4--3----
+repeats   0 non-canonical interrupts in  15 residues: 7,7,1
+4qjv_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

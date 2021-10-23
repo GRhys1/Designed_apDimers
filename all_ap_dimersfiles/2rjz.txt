@@ -1,0 +1,84 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/rj/2rjz/structures/2rjz_1.mmol"
+opened "/fs/ccplus/data/rj/2rjz/structures/2rjz_1.mmol" (input)
+opened "/fs/ccplus/data/rj/2rjz/dssp/2rjz_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/rj/2rjz/rasmol/2rjz_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/rj/2rjz/socket/2rjz_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+
+
+There are 108 alpha-helical residues in this structure
+
+chain A starts at residue   67, iCode=' '
+chain B starts at residue   67, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+0) 17 (MET 92:A, iCode=' ', helix 1) type 4	(hole:  MET 92:B iCode=' ', SER 95:B iCode=' ', PHE 96:B iCode=' ', LEU 99:B iCode=' ' helix 5) packing angle  144.871
+1) 20 (SER 95:A, iCode=' ', helix 1) type 4	(hole:  GLN 88:B iCode=' ', GLU 91:B iCode=' ', MET 92:B iCode=' ', SER 95:B iCode=' ' helix 5) packing angle   72.966
+knobs in helix 2:
+knobs in helix 3:
+knobs in helix 4:
+knobs in helix 5:
+3) 71 (MET 92:B, iCode=' ', helix 5) type 4	(hole:  MET 92:A iCode=' ', SER 95:A iCode=' ', PHE 96:A iCode=' ', LEU 99:A iCode=' ' helix 1) packing angle  144.200
+4) 74 (SER 95:B, iCode=' ', helix 5) type 4	(hole:  GLN 88:A iCode=' ', GLU 91:A iCode=' ', MET 92:A iCode=' ', SER 95:A iCode=' ' helix 1) packing angle   74.828
+knobs in helix 6:
+knobs in helix 7:
+holes in helix 0:
+holes in helix 1:
+ MET 92:A iCode=' ', SER 95:A iCode=' ', PHE 96:A iCode=' ', LEU 99:A iCode=' ' (knob: 71 (MET 92:B, helix 5))
+ GLN 88:A iCode=' ', GLU 91:A iCode=' ', MET 92:A iCode=' ', SER 95:A iCode=' ' (knob: 74 (SER 95:B, helix 5))
+holes in helix 2:
+holes in helix 3:
+holes in helix 4:
+holes in helix 5:
+ MET 92:B iCode=' ', SER 95:B iCode=' ', PHE 96:B iCode=' ', LEU 99:B iCode=' ' (knob: 17 (MET 92:A, helix 1))
+ GLN 88:B iCode=' ', GLU 91:B iCode=' ', MET 92:B iCode=' ', SER 95:B iCode=' ' (knob: 20 (SER 95:A, helix 1))
+holes in helix 6:
+holes in helix 7:
+
+knob   0 (residue 17 = MET 92:A iCode=' ') type 4 order 2
+knob   1 (residue 20 = SER 95:A iCode=' ') type 4 order 2
+knob   2 (residue 24 = LEU 99:A iCode=' ') type 2 order -1
+knob   3 (residue 71 = MET 92:B iCode=' ') type 4 order 2
+knob   4 (residue 74 = SER 95:B iCode=' ') type 4 order 2
+knob   5 (residue 78 = LEU 99:B iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   1  5	frequency 2
+
+helix 1 is in a 2-stranded coiled coil
+helix 5 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  1 and  5 is  166.255	antiparallel
+this coiled coil is antiparallel
+
+
+2rjz_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 12 mean 12.00):
+
+
+assigning heptad to helix 1 (X) 82-101:A
+extent of coiled coil packing:  88- 99:A
+sequence LEAYKAQMKEMEESFGALLR
+register       defgabcdefga  
+partner  ----------Y--Y---Y--
+knobtype ----------4--4---2--
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+
+
+assigning heptad to helix 5 (Y) 82-102:B
+extent of coiled coil packing:  88- 99:B
+sequence LEAYKAQMKEMEESFGALLRQ
+register       defgabcdefga   
+partner  ----------X--X---X---
+knobtype ----------4--4---2---
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+2rjz_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

@@ -1,0 +1,100 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/a3/2a33/structures/2a33_1.mmol"
+opened "/fs/ccplus/data/a3/2a33/structures/2a33_1.mmol" (input)
+opened "/fs/ccplus/data/a3/2a33/dssp/2a33_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/a3/2a33/rasmol/2a33_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/a3/2a33/socket/2a33_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+
+
+There are 157 alpha-helical residues in this structure
+
+chain A starts at residue    8, iCode=' '
+chain B starts at residue   10, iCode=' '
+
+These are the knobs and holes:
+
+knobs in helix 0:
+knobs in helix 1:
+knobs in helix 2:
+knobs in helix 3:
+2) 42 (GLU 124:A, iCode=' ', helix 3) type 4	(hole:  GLU 124:B iCode=' ', LEU 127:B iCode=' ', GLU 128:B iCode=' ', THR 131:B iCode=' ' helix 10) packing angle  128.095
+3) 45 (LEU 127:A, iCode=' ', helix 3) type 4	(hole:  TYR 120:B iCode=' ', LEU 123:B iCode=' ', GLU 124:B iCode=' ', LEU 127:B iCode=' ' helix 10) packing angle   52.543
+knobs in helix 4:
+knobs in helix 5:
+knobs in helix 6:
+knobs in helix 7:
+knobs in helix 8:
+knobs in helix 9:
+knobs in helix 10:
+5) 121 (GLU 124:B, iCode=' ', helix 10) type 4	(hole:  GLU 124:A iCode=' ', LEU 127:A iCode=' ', GLU 128:A iCode=' ', THR 131:A iCode=' ' helix 3) packing angle  131.939
+6) 124 (LEU 127:B, iCode=' ', helix 10) type 4	(hole:  TYR 120:A iCode=' ', LEU 123:A iCode=' ', GLU 124:A iCode=' ', LEU 127:A iCode=' ' helix 3) packing angle   46.530
+knobs in helix 11:
+knobs in helix 12:
+knobs in helix 13:
+holes in helix 0:
+holes in helix 1:
+holes in helix 2:
+holes in helix 3:
+ GLU 124:A iCode=' ', LEU 127:A iCode=' ', GLU 128:A iCode=' ', THR 131:A iCode=' ' (knob: 121 (GLU 124:B, helix 10))
+ TYR 120:A iCode=' ', LEU 123:A iCode=' ', GLU 124:A iCode=' ', LEU 127:A iCode=' ' (knob: 124 (LEU 127:B, helix 10))
+holes in helix 4:
+holes in helix 5:
+holes in helix 6:
+holes in helix 7:
+holes in helix 8:
+holes in helix 9:
+holes in helix 10:
+ GLU 124:B iCode=' ', LEU 127:B iCode=' ', GLU 128:B iCode=' ', THR 131:B iCode=' ' (knob: 42 (GLU 124:A, helix 3))
+ TYR 120:B iCode=' ', LEU 123:B iCode=' ', GLU 124:B iCode=' ', LEU 127:B iCode=' ' (knob: 45 (LEU 127:A, helix 3))
+holes in helix 11:
+holes in helix 12:
+holes in helix 13:
+
+knob   0 (residue 70 = ALA 181:A iCode=' ') type 2 order -1
+knob   1 (residue 38 = TYR 120:A iCode=' ') type 1 order -1
+knob   2 (residue 42 = GLU 124:A iCode=' ') type 4 order 2
+knob   3 (residue 45 = LEU 127:A iCode=' ') type 4 order 2
+knob   4 (residue 117 = TYR 120:B iCode=' ') type 1 order -1
+knob   5 (residue 121 = GLU 124:B iCode=' ') type 4 order 2
+knob   6 (residue 124 = LEU 127:B iCode=' ') type 4 order 2
+knob   7 (residue 133 = SER 153:B iCode=' ') type 2 order -1
+knob   8 (residue 148 = ALA 181:B iCode=' ') type 2 order -1
+knob   9 (residue 147 = ARG 172:B iCode=' ') type 1 order -1
+
+coiled coil  0:  2 helices   3 10	frequency 2
+
+helix 3 is in a 2-stranded coiled coil
+helix 10 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  3 and 10 is  159.134	antiparallel
+this coiled coil is antiparallel
+
+
+2a33_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 12 mean 12.00):
+
+
+assigning heptad to helix 3 (X) 120-134:A
+extent of coiled coil packing: 120-131:A
+sequence YGTLEELLEVITWAQ
+register defgabcdefga   
+partner  Y---Y--Y-------
+knobtype 1---4--4-------
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+
+
+assigning heptad to helix 10 (Y) 120-134:B
+extent of coiled coil packing: 120-131:B
+sequence YGTLEELLEVITWAQ
+register defgabcdefga   
+partner  X---X--X-------
+knobtype 1---4--4-------
+repeats   0 non-canonical interrupts in  12 residues: 4,7,1
+2a33_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished

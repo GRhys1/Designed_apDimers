@@ -1,0 +1,86 @@
+SOCKET v3.02 02-11-01 John Walshaw, University of Sussex
+using cutoff of  7.0 Angstroms for centre of mass distances
+
+attempting to open "/fs/ccplus/data/r4/1r48/structures/1r48_1.mmol"
+opened "/fs/ccplus/data/r4/1r48/structures/1r48_1.mmol" (input)
+opened "/fs/ccplus/data/r4/1r48/dssp/1r48_1.mmol.dssp" (input)
+opened "/fs/ccplus/data/r4/1r48/rasmol/1r48_1.mmol.70.spt" (output)
+opened "/fs/ccplus/data/r4/1r48/socket/1r48_1.mmol.70.long.socket" (output)
+Found beginning of residue data
+
+There are 52 alpha-helical residues in this structure
+
+chain A starts at residue    1, iCode=' '
+chain B starts at residue    1, iCode=' '
+ENDMDL card found: implies this is PDB file contains multiple NMR models; all but the first will be ignored
+
+5 sidechains in contact with residue   45 (ARG    24:B, iCode=' ' helix   1)
+5 sidechains in contact with residue   19 (ARG    24:A, iCode=' ' helix   0)
+residue 19 (ARG 24:A) has > 4 contacts; looking for holes
+contacts: 0) ILE 10:B iCode=' '	1) ASP 11:B iCode=' '	2) ILE 13:B iCode=' '	3) ASP 14:B iCode=' '	4) ILE 17:B iCode=' '	
+- includes hole:
+ILE 10:B iCode=' '	ILE 13:B iCode=' '	ASP 14:B iCode=' '	ILE 17:B iCode=' '	
+
+residue 45 (ARG 24:B) has > 4 contacts; looking for holes
+contacts: 0) ILE 10:A iCode=' '	1) ASP 11:A iCode=' '	2) ILE 13:A iCode=' '	3) ASP 14:A iCode=' '	4) ILE 17:A iCode=' '	
+- includes hole:
+ILE 10:A iCode=' '	ILE 13:A iCode=' '	ASP 14:A iCode=' '	ILE 17:A iCode=' '	
+
+
+These are the knobs and holes:
+
+knobs in helix 0:
+0) 8 (ILE 13:A, iCode=' ', helix 0) type 4	(hole:  LEU 20:B iCode=' ', LYS 23:B iCode=' ', ARG 24:B iCode=' ', LEU 27:B iCode=' ' helix 1) packing angle   70.337
+2) 19 (ARG 24:A, iCode=' ', helix 0) type 4	(hole:  ILE 10:B iCode=' ', ILE 13:B iCode=' ', ASP 14:B iCode=' ', ILE 17:B iCode=' ' helix 1) packing angle  143.627
+knobs in helix 1:
+4) 34 (ILE 13:B, iCode=' ', helix 1) type 4	(hole:  LEU 20:A iCode=' ', LYS 23:A iCode=' ', ARG 24:A iCode=' ', LEU 27:A iCode=' ' helix 0) packing angle   70.724
+6) 45 (ARG 24:B, iCode=' ', helix 1) type 4	(hole:  ILE 10:A iCode=' ', ILE 13:A iCode=' ', ASP 14:A iCode=' ', ILE 17:A iCode=' ' helix 0) packing angle  144.208
+holes in helix 0:
+ LEU 20:A iCode=' ', LYS 23:A iCode=' ', ARG 24:A iCode=' ', LEU 27:A iCode=' ' (knob: 34 (ILE 13:B, helix 1))
+ ILE 10:A iCode=' ', ILE 13:A iCode=' ', ASP 14:A iCode=' ', ILE 17:A iCode=' ' (knob: 45 (ARG 24:B, helix 1))
+holes in helix 1:
+ LEU 20:B iCode=' ', LYS 23:B iCode=' ', ARG 24:B iCode=' ', LEU 27:B iCode=' ' (knob: 8 (ILE 13:A, helix 0))
+ ILE 10:B iCode=' ', ILE 13:B iCode=' ', ASP 14:B iCode=' ', ILE 17:B iCode=' ' (knob: 19 (ARG 24:A, helix 0))
+
+knob   0 (residue 8 = ILE 13:A iCode=' ') type 4 order 2
+knob   1 (residue 15 = LEU 20:A iCode=' ') type 2 order -1
+knob   2 (residue 19 = ARG 24:A iCode=' ') type 4 order 2
+knob   3 (residue 22 = LEU 27:A iCode=' ') type 2 order -1
+knob   4 (residue 34 = ILE 13:B iCode=' ') type 4 order 2
+knob   5 (residue 41 = LEU 20:B iCode=' ') type 2 order -1
+knob   6 (residue 45 = ARG 24:B iCode=' ') type 4 order 2
+knob   7 (residue 48 = LEU 27:B iCode=' ') type 2 order -1
+
+coiled coil  0:  2 helices   0  1	frequency 2
+
+helix 0 is in a 2-stranded coiled coil
+helix 1 is in a 2-stranded coiled coil
+
+
+
+coiled coil  0:
+	angle between helices  0 and  1 is  163.959	antiparallel
+this coiled coil is antiparallel
+
+
+1r48_1.mmol  7.0 0 coiled coil (i) 0 (antiparallel 2-stranded, length max 18 mean 18.00):
+
+
+assigning heptad to helix 0 (X) 5-30:A
+extent of coiled coil packing:  10- 27:A
+sequence NIEQKIDDIDHEIADLQAKRTRLVQQ
+register      abcdefgabcdefgabcd   
+partner  --------Y------Y---Y--Y---
+knobtype --------4------2---4--2---
+repeats   0 non-canonical interrupts in  18 residues: 7,7,4
+
+
+assigning heptad to helix 1 (Y) 5-30:B
+extent of coiled coil packing:  10- 27:B
+sequence NIEQKIDDIDHEIADLQAKRTRLVQQ
+register      abcdefgabcdefgabcd   
+partner  --------X------X---X--X---
+knobtype --------4------2---4--2---
+repeats   0 non-canonical interrupts in  18 residues: 7,7,4
+1r48_1.mmol c  7.00 e 0 result 1 COILED COILS PRESENT
+Finished
